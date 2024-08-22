@@ -22,3 +22,6 @@ data/
 *.csv
 *.json
 *.sqlite3
+
+# Settings
+.vscode
