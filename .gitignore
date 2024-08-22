@@ -1,1 +1,24 @@
+# Virtual environment
 animearc/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Data files (if you want to ignore datasets)
+data/
+*.csv
+*.json
+*.sqlite3
