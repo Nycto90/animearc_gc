@@ -1,4 +1,567 @@
 ﻿mal_id,title_default,title_japanese,score,rank,popularity,season,year,genres
+80,Kidou Senshi Gundam,機動戦士ガンダム,7.75,1108.0,1691,spring,1979.0,"Action, Drama, Sci-Fi"
+85,Kidou Senshi Zeta Gundam,機動戦士Ζガンダム,7.89,808.0,2499,spring,1985.0,"Action, Drama, Romance, Sci-Fi"
+86,Kidou Senshi Gundam ZZ,機動戦士ガンダムZZ,6.65,5963.0,3379,spring,1986.0,"Action, Comedy, Drama, Sci-Fi"
+223,Dragon Ball,ドラゴンボール,7.97,677.0,149,winter,1986.0,"Action, Adventure, Comedy, Fantasy"
+283,Akage no Anne,赤毛のアン,7.79,1020.0,3875,winter,1979.0,Drama
+302,Mirai Shounen Conan,未来少年コナン,8.09,519.0,3126,spring,1978.0,"Adventure, Drama, Sci-Fi"
+307,Kerokko Demetan,けろっこデメタン,5.97,9648.0,11768,winter,1973.0,"Comedy, Fantasy"
+311,Ace wo Nerae!,エースをねらえ!,7.07,3892.0,5613,fall,1973.0,"Drama, Romance, Sports"
+338,Versailles no Bara,ベルサイユのばら,8.34,229.0,2110,fall,1979.0,"Drama, Romance"
+424,Dirty Pair,ダーティペア,7.21,3212.0,3871,summer,1985.0,"Adventure, Comedy, Sci-Fi"
+501,Doraemon,ドラえもん,7.39,2332.0,4851,spring,1973.0,"Adventure, Comedy, Fantasy"
+506,Glass no Kamen,ガラスの仮面,7.34,2525.0,6606,spring,1984.0,"Drama, Romance"
+518,Mahou no Princess Minky Momo,魔法のプリンセス　ミンキーモモ,6.9,4662.0,6523,spring,1982.0,Fantasy
+589,Ginga Nagareboshi Gin,銀牙　流れ星銀,8.02,616.0,4283,spring,1986.0,"Action, Adventure, Drama"
+714,High School! Kimengumi,ハイスクール！奇面組,7.28,2828.0,8802,fall,1985.0,"Comedy, Romance"
+729,Hiatari Ryoukou!,陽あたり良好！,6.99,4270.0,8125,spring,1987.0,"Comedy, Romance, Sports"
+865,Kikou Senki Dragonar,機甲戦記ドラグナー,6.71,5630.0,7796,winter,1987.0,"Adventure, Sci-Fi"
+924,Transformers: Choujin Master Force,トランスフォーマー・超神マスターフォース,6.63,6088.0,9550,spring,1988.0,"Action, Adventure, Sci-Fi"
+925,Transformers: The☆Headmasters,トランスフォーマー ザ☆ヘッドマスターズ,6.4,7407.0,8981,summer,1987.0,"Action, Adventure, Sci-Fi"
+926,Tatakae! Chou Robot Seimeitai Transformers Victory,戦え! 超ロボット生命体トランスフォーマーV[ビクトリー],6.65,5935.0,9650,spring,1989.0,"Action, Adventure, Sci-Fi"
+929,Seisenshi Dunbine,聖戦士ダンバイン,7.04,4070.0,5672,winter,1983.0,"Action, Adventure, Drama, Fantasy, Sci-Fi"
+930,Densetsu Kyojin Ideon,伝説巨神イデオン,7.06,3960.0,5121,spring,1980.0,"Action, Drama, Sci-Fi"
+956,Daikuu Maryuu Gaiking,大空魔竜ガイキング,6.62,6128.0,10151,spring,1976.0,"Action, Adventure, Sci-Fi"
+967,Hokuto no Ken,北斗の拳,7.96,694.0,1729,fall,1984.0,"Action, Drama, Sci-Fi"
+1000,Uchuu Kaizoku Captain Herlock,宇宙海賊・キャプテンハーロック,7.68,1304.0,3657,spring,1978.0,"Action, Adventure, Drama, Sci-Fi"
+1065,Touch,タッチ,7.98,667.0,3777,spring,1985.0,"Drama, Romance, Sports"
+1068,Chou Denji Robo Combattler V,超電磁ロボ コンバトラーＶ,6.69,5715.0,9084,spring,1976.0,"Adventure, Sci-Fi"
+1069,Chou Denji Machine Voltes V,超電磁マシーン ボルテスV,7.41,2209.0,6943,summer,1977.0,"Action, Adventure, Drama, Sci-Fi"
+1087,Kimagure Orange☆Road,きまぐれオレンジ☆ロード,7.52,1816.0,3201,spring,1987.0,"Comedy, Drama, Romance"
+1088,Macross,超時空要塞マクロス,7.89,810.0,1966,fall,1982.0,"Action, Romance, Sci-Fi"
+1236,SF Saiyuuki Starzinger,ＳＦ西遊記 スタージンガー,6.94,4477.0,9947,spring,1978.0,"Action, Adventure, Sci-Fi"
+1254,Saint Seiya,聖闘士星矢(セイントセイヤ),7.76,1105.0,1281,fall,1986.0,"Action, Adventure, Fantasy, Sci-Fi"
+1264,Yoroiden Samurai Troopers,鎧伝サムライトルーパー,7.07,3889.0,5026,spring,1988.0,"Adventure, Sci-Fi"
+1279,Taiyou no Ko Esteban,太陽の子エステバン,7.74,1157.0,5665,spring,1982.0,"Adventure, Sci-Fi"
+1293,Urusei Yatsura,うる星やつら,7.71,1235.0,2266,fall,1981.0,"Comedy, Romance, Sci-Fi"
+1333,Fushigi na Koala Blinky,ふしぎなコアラ ブリンキー,6.03,9363.0,13198,summer,1984.0,"Adventure, Comedy, Fantasy"
+1337,Dororon Enma-kun,ドロロンえん魔くん,6.18,8561.0,8891,fall,1973.0,"Comedy, Fantasy, Horror, Supernatural"
+1356,Hokuto no Ken 2,北斗の拳2,7.56,1649.0,4014,spring,1987.0,"Action, Drama, Sci-Fi"
+1412,Lupin III,ルパン三世,7.62,1453.0,2065,fall,1971.0,"Action, Adventure, Comedy, Mystery"
+1425,Lupin III: Part II,新・ルパン三世,7.76,1096.0,3806,fall,1977.0,"Action, Adventure, Comedy, Mystery"
+1426,Lupin III: Part III,ルパン三世 - Part III,7.28,2843.0,4659,spring,1984.0,"Action, Adventure, Comedy"
+1445,Mach GoGoGo,マッハＧｏＧｏＧｏ,6.68,5808.0,5359,spring,1967.0,Adventure
+1448,Hyakujuu-Ou GoLion,百獣王ゴライオン,6.82,5066.0,5857,spring,1981.0,"Adventure, Sci-Fi"
+1453,Maison Ikkoku,めぞん一刻,8.19,387.0,2548,spring,1986.0,"Comedy, Drama, Romance"
+1458,Uchuu no Kishi Tekkaman,宇宙の騎士テッカマン,6.17,8612.0,9484,summer,1975.0,"Action, Adventure, Sci-Fi"
+1470,City Hunter,シティーハンター,7.91,765.0,2393,spring,1987.0,"Action, Comedy, Mystery"
+1471,City Hunter 2,シティーハンター2,8.06,550.0,4289,spring,1988.0,"Action, Comedy, Mystery"
+1491,Ginga Tetsudou 999,銀河鉄道９９９,7.77,1068.0,3621,fall,1978.0,"Adventure, Drama, Sci-Fi"
+1537,Genshi Shounen Ryuu,原始少年リュウ,6.27,8101.0,10367,fall,1971.0,"Action, Adventure, Sci-Fi"
+1547,Obake no Q-tarou,オバケのＱ太郎,6.06,9222.0,13030,summer,1965.0,"Comedy, Slice of Life, Supernatural"
+1548,Shin Taketori Monogatari: 1000-nen Joou,新竹取物語１０００年女王,7.11,3737.0,7867,spring,1981.0,"Drama, Mystery, Sci-Fi"
+1550,Attack No.1,アタックNo.1,6.76,5364.0,6452,winter,1970.0,"Drama, Sports"
+1572,Jungle Taitei,ジャングル大帝,6.58,6327.0,6962,fall,1965.0,Adventure
+1638,Peter Pan no Bouken,ピーターパンの冒険,6.78,5259.0,8671,winter,1989.0,"Adventure, Fantasy"
+1650,Uchuu Senkan Yamato,宇宙戦艦ヤマト,7.54,1731.0,4158,fall,1974.0,"Action, Adventure, Award Winning, Drama, Sci-Fi"
+1651,Uchuu Senkan Yamato 2,宇宙戦艦ヤマト2,7.39,2319.0,6756,fall,1978.0,"Action, Adventure, Drama, Sci-Fi"
+1652,Uchuu Senkan Yamato III,宇宙戦艦ヤマトⅢ,7.0,4233.0,7665,fall,1980.0,"Action, Adventure, Drama, Sci-Fi"
+1661,Cutie Honey,キューティーハニー,6.4,7417.0,5197,fall,1973.0,"Action, Sci-Fi, Ecchi"
+1663,Haha wo Tazunete Sanzenri,母をたずねて三千里,7.45,2086.0,6114,winter,1976.0,"Adventure, Drama, Slice of Life"
+1666,Babel Nisei,バビル２世,6.23,8311.0,10845,winter,1973.0,"Adventure, Sci-Fi, Supernatural"
+1737,Uchuu Senshi Baldios,宇宙戦士 バルディオス,6.49,6860.0,10112,summer,1980.0,"Action, Adventure, Drama, Sci-Fi"
+1873,Plawres Sanshirou,プラレス３四郎,7.35,2482.0,9076,summer,1983.0,"Action, Adventure, Sci-Fi"
+1972,Meitantei Holmes,名探偵ホームズ,7.38,2363.0,5830,fall,1984.0,"Action, Adventure, Comedy, Mystery"
+1985,UFO Robo Grendizer,UFOロボ グレンダイザー,7.55,1685.0,5895,fall,1975.0,"Action, Sci-Fi"
+1986,Wakusei Robo Danguard Ace,惑星ロボ ダンガードA[エース],6.06,9240.0,11275,spring,1977.0,Sci-Fi
+2038,Mahou no Star Magical Emi,魔法のスター マジカルエミ,6.78,5250.0,8053,summer,1985.0,"Comedy, Slice of Life"
+2039,Mahou no Yousei Persia,魔法の妖精 ペルシャ,6.79,5183.0,9200,summer,1984.0,Comedy
+2043,Cat's Eye,キャッツ・アイ,7.21,3209.0,4684,summer,1983.0,"Action, Adventure, Comedy, Mystery, Romance"
+2044,Mahou no Tenshi Creamy Mami,魔法の天使 クリィミーマミ,7.19,3308.0,5450,summer,1983.0,"Comedy, Fantasy, Romance, Sci-Fi"
+2089,Choujikuu Seiki Orguss,超時空世紀オーガス,6.46,7047.0,7511,summer,1983.0,"Action, Adventure, Romance, Sci-Fi"
+2116,Captain Tsubasa,キャプテン翼,7.34,2520.0,2310,fall,1983.0,Sports
+2128,Yuusha Raideen,勇者ライディーン,6.41,7330.0,9754,spring,1975.0,"Action, Adventure, Sci-Fi"
+2151,Nils no Fushigi na Tabi,ニルスのふしぎな旅,7.12,3659.0,7326,winter,1980.0,"Adventure, Fantasy"
+2200,Muteki Choujin Zanbot 3,無敵超人サンボット３,6.97,4344.0,8132,fall,1977.0,"Action, Drama, Sci-Fi"
+2203,Waga Seishun no Arcadia: Mugen Kidou SSX,わが青春のアルカディア・無限軌道ＳＳＸ,7.36,2439.0,7197,fall,1982.0,"Action, Adventure, Drama, Sci-Fi"
+2221,Aishite Knight,愛してナイト,6.78,5220.0,6755,spring,1983.0,"Comedy, Romance"
+2222,Dr. Slump: Arale-chan,Dr.スランプ・アラレちゃん,7.18,3376.0,5282,spring,1981.0,"Comedy, Sci-Fi"
+2223,Maple Town Monogatari,メイプルタウン物語,6.83,5015.0,9786,winter,1986.0,"Fantasy, Slice of Life"
+2224,Hikari no Densetsu,光の伝説,6.59,6307.0,7911,spring,1986.0,"Romance, Sports"
+2225,Alps no Shoujo Heidi,アルプスの少女ハイジ,7.38,2341.0,3663,winter,1974.0,Drama
+2226,Mori no Tonto-tachi,森のトントたち,6.19,8504.0,14150,fall,1984.0,Fantasy
+2227,Lady Lady!!,レディレディ！！,7.44,2108.0,7453,fall,1987.0,Drama
+2230,Hana no Ko Lunlun,花の子ルンルン,6.86,4865.0,7821,winter,1979.0,"Adventure, Drama"
+2231,Miyuki,みゆき,6.6,6251.0,8785,spring,1983.0,Romance
+2252,Devilman,デビルマン,6.5,6794.0,3891,summer,1972.0,"Action, Horror, Supernatural"
+2253,Mazinger Z,マジンガーＺ,7.27,2865.0,5087,winter,1973.0,"Action, Drama, Sci-Fi"
+2254,Sentou Mecha Xabungle,戦闘メカザブングル,7.15,3505.0,8154,winter,1982.0,"Action, Sci-Fi"
+2255,Choujuu Kishin Dancougar,超獣機神ダンクーガ,6.62,6123.0,8017,spring,1985.0,"Action, Sci-Fi"
+2257,Taiyou no Kiba Dagram,太陽の牙ダグラム,7.36,2437.0,7722,fall,1981.0,"Action, Drama, Sci-Fi"
+2316,Akakichi no Eleven,赤き血のイレブン,6.61,6202.0,11107,spring,1970.0,Sports
+2331,Uchuu Densetsu Ulysses 31,宇宙伝説ユリシーズ31,7.08,3875.0,7945,fall,1981.0,"Action, Adventure, Sci-Fi"
+2333,Anime Sanjuushi,アニメ三銃士,7.09,3822.0,8187,fall,1987.0,"Adventure, Drama, Romance"
+2361,Sei Juushi Bismarck,星銃士 ビスマルク,7.23,3105.0,7921,fall,1984.0,"Action, Adventure, Sci-Fi"
+2389,Kagaku Ninja-tai Gatchaman,科学忍者隊ガッチャマン,6.93,4520.0,6285,fall,1972.0,"Action, Adventure, Sci-Fi"
+2402,Ashita no Joe,あしたのジョー,8.3,266.0,2207,spring,1970.0,"Drama, Sports"
+2405,Hello! Lady Lynn,ハロー! レディリン,7.51,1852.0,8882,spring,1988.0,Drama
+2451,Space Cobra,スペースコブラ,7.66,1348.0,4566,fall,1982.0,"Action, Adventure, Sci-Fi"
+2510,Sengoku Majin Goushougun,戦国魔神ゴーショーグン,6.5,6827.0,9552,summer,1981.0,"Action, Sci-Fi"
+2542,Lady Georgie,レディジョージィ,7.17,3406.0,6241,spring,1983.0,"Drama, Romance"
+2544,Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone,家族ロビンソン漂流記ふしぎな島のフローネ,7.31,2680.0,7360,winter,1981.0,"Adventure, Drama, Slice of Life"
+2545,Huckleberry no Bouken,ハックルベリィの冒険,6.19,8554.0,10890,winter,1976.0,"Adventure, Drama"
+2546,Alps Monogatari: Watashi no Annette,アルプス物語　わたしのアンネット,6.76,5362.0,8805,winter,1983.0,"Drama, Slice of Life"
+2547,Princess Sara,小公女[プリンセス]セーラ,7.68,1301.0,4792,winter,1985.0,Drama
+2548,Ai no Wakakusa Monogatari,愛の若草物語,7.37,2390.0,6597,winter,1987.0,"Drama, Slice of Life"
+2549,Perrine Monogatari,ペリーヌ物語,7.54,1727.0,7769,winter,1978.0,Drama
+2553,Flanders no Inu,フランダースの犬,7.36,2452.0,7053,winter,1975.0,"Drama, Slice of Life"
+2554,Ai Shoujo Pollyanna Story,愛少女ポリアンナ物語,6.93,4505.0,7904,winter,1986.0,"Drama, Slice of Life"
+2555,Shoukoushi Cedie,小公子セディ,7.31,2650.0,8632,winter,1988.0,"Drama, Slice of Life"
+2561,Captain Future,キャプテンフューチャー,7.11,3703.0,8325,fall,1978.0,"Action, Adventure, Sci-Fi"
+2565,Jungle Taitei: Susume Leo!,ジャングル大帝・進めレオ,6.39,7439.0,9912,fall,1966.0,Adventure
+2567,Pinocchio yori Piccolino no Bouken,ピノキオより ピコリーノの冒険,6.3,7957.0,10712,spring,1976.0,Adventure
+2568,Kojika Monogatari,子鹿物語 THE YEARLING,6.45,7091.0,12731,fall,1983.0,Drama
+2571,Mitsubachi Maya no Bouken,みつばちマーヤの冒険,6.55,6503.0,6370,spring,1975.0,"Adventure, Comedy"
+2572,Fushigi no Kuni no Alice,ふしぎの国のアリス,6.42,7274.0,9620,fall,1983.0,"Adventure, Fantasy"
+2573,Minami no Niji no Lucy,南の虹のルーシー,6.95,4452.0,10104,winter,1982.0,"Adventure, Slice of Life"
+2574,Kashi no Ki Mokku,樫の木モック,5.96,9705.0,10649,winter,1972.0,"Adventure, Fantasy"
+2575,Don Chuck Monogatari,ドンチャック物語,5.94,9788.0,12204,spring,1975.0,"Adventure, Slice of Life"
+2576,Araiguma Rascal,あらいぐまラスカル,6.74,5452.0,9502,winter,1977.0,"Drama, Slice of Life"
+2577,Tom Sawyer no Bouken,トム・ソーヤーの冒険,7.3,2730.0,6592,winter,1980.0,"Adventure, Drama, Slice of Life"
+2578,TaoTao Ehonkan Sekai Doubutsu Banashi,タオタオ絵本館,6.71,5591.0,12848,fall,1983.0,"Adventure, Comedy, Fantasy"
+2579,Anime 80-nichikan Sekai Isshuu,アニメ80日間世界一周,6.81,5068.0,8081,winter,1984.0,"Adventure, Romance"
+2582,Soukou Kihei Votoms,装甲騎兵ボトムズ,7.67,1309.0,4431,spring,1983.0,"Action, Drama, Sci-Fi"
+2598,Juusenki L-Gaim,重戦機エルガイム,6.74,5471.0,7346,winter,1984.0,"Action, Adventure, Drama, Sci-Fi"
+2612,Spoon Obasan,スプーンおばさん,6.65,5931.0,10556,spring,1983.0,
+2618,Takarajima,宝島,7.91,759.0,4829,fall,1978.0,"Adventure, Drama, Mystery"
+2686,Tetsujin 28-gou,鉄人２８号,6.33,7769.0,9270,fall,1963.0,"Adventure, Sci-Fi"
+2687,Gokuu no Daibouken,悟空の大冒険,6.33,7740.0,12525,winter,1967.0,"Comedy, Fantasy"
+2688,Akai Koudan Zillion,赤い光弾ジリオン,6.57,6376.0,7907,spring,1987.0,"Action, Adventure, Sci-Fi"
+2718,Umi no Triton,海のトリトン,6.23,8302.0,10571,spring,1972.0,"Adventure, Fantasy"
+2747,Tetsuwan Atom,鉄腕アトム,7.07,3882.0,5773,winter,1963.0,"Action, Adventure, Drama, Sci-Fi"
+2748,Dash! Kappei,ダッシュ勝平,7.15,3533.0,8082,fall,1981.0,"Comedy, Sports, Ecchi"
+2762,Igano Kabamaru,伊賀野カバ丸,7.79,1027.0,6150,fall,1983.0,"Action, Adventure, Comedy, Romance"
+2769,Galactic Patrol Lensman,GALACTIC PATROL　レンズマン,6.25,8246.0,10994,fall,1984.0,"Action, Adventure, Sci-Fi"
+2799,Hello! Sandybell,ハロー！サンディベル,7.06,3968.0,7613,spring,1981.0,"Adventure, Romance"
+2800,Candy Candy,キャンディ・キャンディ,7.58,1578.0,4027,fall,1976.0,"Drama, Romance"
+2805,Onegai! Samia Don,おねがい！サミアどん,6.92,4593.0,12275,spring,1985.0,"Comedy, Fantasy, Slice of Life"
+2809,Fuusen Shoujo Temple-chan,風船少女テンプルちゃん,6.21,8401.0,14855,fall,1977.0,"Adventure, Comedy"
+2814,Dondon Dommel to Ron,どんどんドメルとロン,6.62,6130.0,13133,spring,1988.0,Comedy
+2815,Geragera Boes Monogatari,げらげらブース物語,6.98,4312.0,11736,spring,1987.0,Comedy
+2816,Toushou Daimos,闘将ダイモス,7.17,3428.0,7799,spring,1978.0,"Adventure, Drama, Romance, Sci-Fi"
+2823,Barbapapa,バーバパパ,6.25,8234.0,10227,fall,1974.0,"Comedy, Fantasy"
+2825,Arabian Nights: Sindbad no Bouken (TV),アラビアンナイト シンドバットの冒険,7.2,3222.0,7224,fall,1975.0,"Adventure, Fantasy, Romance"
+2826,Oz no Mahoutsukai (TV),オズの魔法使い,6.71,5643.0,10091,fall,1986.0,"Adventure, Fantasy"
+2827,Calimero,カリメロ,6.24,8260.0,9150,fall,1974.0,Comedy
+2828,Ie Naki Ko,家なき子,7.86,864.0,5321,fall,1977.0,"Adventure, Drama"
+2835,Patalliro!,パタリロ！,7.26,2957.0,6763,spring,1982.0,"Adventure, Boys Love, Comedy"
+2836,Chiisana Viking Vickie,小さなバイキングビッケ,6.67,5871.0,9362,spring,1974.0,"Adventure, Comedy"
+2882,Anime Oyako Gekijou,アニメ 親子劇場,6.15,8695.0,10423,fall,1981.0,"Adventure, Fantasy, Sci-Fi"
+2892,Hakushon Daimaou,ハクション大魔王,6.01,9489.0,10680,fall,1969.0,"Comedy, Fantasy"
+2903,Sakigake!! Otokojuku,魁!!男塾,7.41,2236.0,5557,winter,1988.0,"Action, Comedy"
+2912,Ohayou! Spank,おはよう！スパンク,6.68,5816.0,9889,spring,1981.0,"Comedy, Slice of Life"
+2921,Ashita no Joe 2,あしたのジョー２,8.72,52.0,3060,fall,1980.0,"Drama, Sports"
+2933,Mirai Keisatsu Urashiman,未来警察ウラシマン,6.82,5034.0,10022,winter,1983.0,"Action, Comedy, Sci-Fi"
+2987,Ginga Hyouryuu Vifam,銀河漂流バイファム,7.17,3395.0,8534,fall,1983.0,"Action, Adventure, Sci-Fi"
+3008,Time Bokan Series: Yatterman,タイムボカンシリーズ ヤッターマン,6.68,5775.0,8224,winter,1977.0,"Action, Adventure, Comedy"
+3009,Tiger Mask,タイガーマスク,7.27,2883.0,6219,fall,1969.0,"Drama, Sports"
+3020,Gu-Gu Ganmo,Gu-Guガンモ,6.14,8782.0,12167,spring,1984.0,"Comedy, Slice of Life"
+3021,Yume Senshi Wingman,夢戦士ウイングマン,6.61,6200.0,9673,winter,1984.0,"Action, Comedy, Romance"
+3022,Haai Step Jun,はーいステップジュン,6.33,7741.0,11765,spring,1985.0,"Action, Romance, Sci-Fi"
+3023,Esper Mami,エスパー魔美,6.45,7076.0,10475,spring,1987.0,"Comedy, Supernatural, Ecchi"
+3024,Ribbon no Kishi,リボンの騎士,6.7,5670.0,7997,spring,1967.0,"Action, Fantasy, Mystery, Romance"
+3035,Chouon Senshi Borgman,超音戦士ボーグマン,6.25,8240.0,9360,spring,1988.0,"Action, Sci-Fi"
+3044,Tetsuwan Atom (1980),鉄腕アトム,7.16,3442.0,5490,fall,1980.0,"Action, Adventure, Sci-Fi"
+3053,Ganbare! Kickers,がんばれ！キッカーズ,6.85,4933.0,6519,fall,1986.0,Sports
+3054,La Seine no Hoshi,ラ・セーヌの星,6.55,6498.0,10177,spring,1975.0,"Action, Adventure, Drama"
+3059,Ninja Senshi Tobikage,忍者戦士飛影,6.94,4471.0,8359,fall,1985.0,"Action, Adventure, Sci-Fi"
+3075,Tondera House no Daibouken,トンデラハウスの大冒険,6.22,8368.0,12023,spring,1982.0,"Adventure, Sci-Fi"
+3079,Aoki Ryuusei SPT Layzner,蒼き流星SPTレイズナー,6.89,4701.0,7377,fall,1985.0,Sci-Fi
+3081,Attacker You!,アタッカーＹＯＵ！,6.63,6042.0,7147,spring,1984.0,"Romance, Sports"
+3125,Tokimeki Tonight,ときめきトゥナイト,7.14,3595.0,6420,fall,1982.0,"Comedy, Fantasy, Romance"
+3129,Kaibutsu-kun,怪物くん,6.56,6475.0,11649,spring,1968.0,"Comedy, Horror"
+3130,Kaibutsu-kun (1980),怪物くん (1980),6.58,6326.0,11529,fall,1980.0,"Comedy, Horror"
+3131,Ashita Tenki ni Naare,あした天気になあれ,6.11,8929.0,12919,fall,1984.0,Sports
+3136,Ochamegami Monogatari: Korokoro Pollon,おちゃめ神物語コロコロポロン,6.96,4409.0,9389,spring,1982.0,Comedy
+3137,Tsurikichi Sanpei,釣りキチ三平,7.07,3885.0,8116,spring,1980.0,"Adventure, Sports"
+3159,The Kabocha Wine,Ｔｈｅかぼちゃワイン,6.69,5755.0,9246,summer,1982.0,"Comedy, Romance"
+3162,Makiba no Shoujo Katri,牧場の少女カトリ,6.94,4467.0,8880,winter,1984.0,"Adventure, Drama, Slice of Life"
+3180,Manga Aesop Monogatari (TV),まんがイソップ物語,6.0,9515.0,15680,fall,1983.0,"Comedy, Fantasy"
+3196,Wakakusa no Charlotte,若草のシャルロット,6.69,5763.0,9712,fall,1977.0,"Drama, Slice of Life"
+3201,Pure-tou no Nakama-tachi,セレンディピティ物語 ピュア島の仲間たち,6.3,7961.0,12733,summer,1983.0,Fantasy
+3205,Cream Lemon: Lemon Angel,くりぃむレモン レモンエンジェル,5.27,12250.0,8747,fall,1987.0,Ecchi
+3213,Ganbare Genki,がんばれ元気,7.29,2764.0,9879,summer,1980.0,"Comedy, Sports"
+3259,Lemon Angel (1988),レモンエンジェル,5.71,10820.0,10859,winter,1988.0,Ecchi
+3264,Lemon Angel (1988/II),レモンエンジェル,5.66,11060.0,11431,summer,1988.0,Ecchi
+3272,Kinnikuman,キン肉マン,7.22,3157.0,5743,spring,1983.0,"Comedy, Sports"
+3285,Himitsu no Akko-chan,ひみつのアッコちゃん,6.41,7352.0,9423,winter,1969.0,"Comedy, Fantasy"
+3294,Gasshin Sentai Mechander Robo,合身戦隊メカンダーロボ,5.74,10723.0,12484,spring,1977.0,"Mystery, Sci-Fi"
+3305,Muteki Koujin Daitarn 3,無敵鋼人ダイターン３,7.06,3934.0,9135,summer,1978.0,Sci-Fi
+3317,Uchuusen Sagittarius,宇宙船サジタリウス,6.8,5136.0,11440,winter,1986.0,"Adventure, Sci-Fi"
+3327,Giant Gorg,巨神ゴーグ〈ジャイアントゴーグ〉,7.14,3559.0,7573,spring,1984.0,"Action, Adventure, Sci-Fi"
+3332,Stop!! Hibari-kun!,ストップ！！ひばりくん！,7.01,4171.0,6130,spring,1983.0,Comedy
+3335,Haikara-san ga Tooru,はいからさんが通る,7.1,3765.0,7370,summer,1978.0,"Drama, Romance"
+3356,Mahoutsukai Sally,魔法使いサリー,6.5,6811.0,8570,winter,1967.0,Fantasy
+3361,UFO Senshi Dai Apolon,ＵＦＯ戦士ダイアポロン,5.89,10040.0,12200,spring,1976.0,"Action, Sci-Fi"
+3388,Majokko Megu-chan,魔女っ子メグちゃん,6.68,5809.0,9312,spring,1974.0,
+3391,Maicching Machiko-sensei,まいっちんぐマチコ先生,6.23,8337.0,9140,fall,1981.0,"Comedy, Ecchi"
+3399,Rokushin Gattai GodMars,六神合体ゴッドマーズ,6.37,7540.0,9982,fall,1981.0,"Action, Sci-Fi"
+3433,Go-Q-Choji Ikkiman,剛Q超児イッキマン,6.38,7495.0,12566,spring,1986.0,"Sci-Fi, Sports"
+3434,Hey! Bumboo,へーい！ブンブー,6.01,9491.0,11808,spring,1985.0,Adventure
+3435,Joou Heika no Petite Angie,女王陛下のプティアンジェ,6.42,7283.0,11835,winter,1978.0,Mystery
+3436,Meme Iroiro Yume no Tabi,ミームいろいろ夢の旅,6.68,5812.0,12915,spring,1983.0,"Adventure, Sci-Fi"
+3437,Mister Ajikko,ミスター味っ子,7.08,3859.0,8379,fall,1987.0,"Comedy, Gourmet"
+3444,The☆Ultraman,ザ☆ウルトラマン,6.4,7405.0,9432,spring,1979.0,"Action, Sci-Fi"
+3460,Bosco Adventure,ボスコアドベンチャー,7.0,4242.0,10942,fall,1986.0,"Adventure, Fantasy"
+3579,Getter Robo,ゲッターロボ,6.7,5694.0,6883,spring,1974.0,"Action, Sci-Fi"
+3609,Kikou Kantai Dairugger XV,機甲艦隊ダイラガーXV,6.38,7506.0,10103,spring,1982.0,"Action, Adventure, Sci-Fi"
+3619,Nanako SOS,ななこSOS,6.26,8190.0,10366,spring,1983.0,"Comedy, Romance"
+3630,Miracle Shoujo Limit-chan,ミラクル少女リミットちゃん,5.76,10643.0,13626,fall,1973.0,"Comedy, Sci-Fi"
+3660,Mahou no Idol Pastel Yumi,魔法のアイドル パステルユーミ,6.44,7173.0,9435,spring,1986.0,"Comedy, Fantasy"
+3670,Kikou Souseiki Mospeada,機甲創世記モスピーダ,7.03,4074.0,6504,fall,1983.0,Action
+3676,Machine Robo: Cronos no Dai Gyakushuu,マシンロボ クロノスの大逆襲,6.26,8187.0,10657,summer,1986.0,"Action, Sci-Fi"
+3683,Kabatotto,カバトット,5.86,10149.0,14221,winter,1971.0,Comedy
+3723,Koala Boy Kokki,コアラボーイコッキィ,6.24,8271.0,13696,spring,1984.0,Comedy
+3754,Tongari Boushi no Memole,とんがり帽子のメモル,6.97,4359.0,9651,spring,1984.0,Fantasy
+3761,Wanwan Sanjuushi,ワンワン三銃士,6.77,5290.0,9499,fall,1981.0,Adventure
+3800,Arrow Emblem Grand Prix no Taka,アローエンブレム　グランプリの鷹,6.43,7228.0,10648,fall,1977.0,Drama
+3806,Sasuga no Sarutobi,さすがの猿飛,6.43,7209.0,11235,fall,1982.0,"Adventure, Comedy, Romance, Sports"
+3807,Honoo no Alpenrose: Judy & Randy,炎のアルペンローゼ・ジュディ＆ランディ,6.75,5408.0,9235,spring,1985.0,"Drama, Romance"
+3808,Futari Daka,ふたり鷹,5.88,10081.0,12448,fall,1984.0,
+3810,Mori no Youki na Kobito-tachi: Belfy to Lillibit,森の陽気な小人たち ベルフィーとリビット,6.3,7950.0,11883,winter,1980.0,"Adventure, Comedy, Fantasy"
+3811,Hoshi no Oujisama Petit Prince,星の王子さま　プチ・プランス,6.71,5621.0,10664,summer,1978.0,Adventure
+3812,Yume no Hoshi no Button Nose,夢の星のボタンノーズ,6.29,7986.0,12976,fall,1985.0,Adventure
+3819,Sasurai no Taiyou,さすらいの太陽,6.37,7542.0,10860,spring,1971.0,Drama
+3822,Sougen no Shoujo Laura,草原の少女ローラ,6.21,8426.0,12730,fall,1975.0,Adventure
+3823,Little Lulu to Chicchai Nakama,リトル・ルルとちっちゃい仲間,6.44,7170.0,13444,fall,1976.0,"Comedy, Slice of Life"
+3825,Dokaben,ドカベン,6.09,9039.0,12147,fall,1976.0,Sports
+3827,Ore wa Teppei,おれは鉄兵,6.45,7106.0,11361,fall,1977.0,Sports
+3834,Hoshi no Ko Chobin,星の子チョビン,6.08,9109.0,13118,spring,1974.0,"Adventure, Sci-Fi"
+3835,Ai no Gakkou Cuore Monogatari,愛の学校 クオレ物語,6.56,6445.0,10274,spring,1981.0,"Drama, Slice of Life"
+3836,Meiken Jolie,名犬ジョリィ,6.75,5419.0,9266,spring,1981.0,Adventure
+3837,Mashin Eiyuuden Wataru,魔神英雄伝ワタル,6.91,4603.0,9701,spring,1988.0,"Action, Adventure, Comedy, Sci-Fi"
+3838,Himitsu no Akko-chan 2,ひみつのアッコちゃん２,6.42,7280.0,12100,fall,1988.0,"Comedy, Fantasy"
+3844,Apache Yakyuugun,アパッチ野球軍,6.05,9261.0,13275,fall,1971.0,Sports
+3845,Mahoutsukai Chappy,魔法使いチャッピー,6.01,9457.0,12911,spring,1972.0,Adventure
+3846,Microid S,ミクロイドＳ,5.99,9573.0,14327,spring,1973.0,"Action, Sci-Fi"
+3858,Konchuu Monogatari Minashigo Hutch,昆虫物語みなしごハッチ,6.59,6311.0,9295,spring,1970.0,"Adventure, Comedy, Drama"
+3870,Kick no Oni,キックの鬼,6.1,8977.0,13098,fall,1970.0,Sports
+3873,Honey Honey no Suteki na Bouken,ハニーハニーのすてきな冒険,6.29,8008.0,12440,fall,1981.0,Adventure
+3876,Maeterlinck no Aoi Tori: Tyltyl Mytyl no Bouken Ryokou,メーテルリングの青い鳥 チルチルミチルの冒険旅行,6.18,8577.0,12277,winter,1980.0,"Adventure, Fantasy"
+3877,Sasurai no Shoujo Nell,さすらいの少女ネル,6.31,7870.0,11294,fall,1979.0,Adventure
+3878,Mahou Shoujo Lalabel,魔法少女ララベル,6.48,6922.0,10398,winter,1980.0,"Comedy, Slice of Life"
+3879,Paris no Isabelle,巴里のイザベル,5.56,11417.0,12447,spring,1979.0,Drama
+3880,Makyou Densetsu Acrobunch,魔境伝説アクロバンチ,5.87,10138.0,11721,spring,1982.0,Sci-Fi
+3881,Majokko Tickle,魔女っ子チックル,6.17,8649.0,12016,spring,1978.0,Comedy
+3900,Ougon Bat,黄金バット,6.42,7303.0,10206,spring,1967.0,"Action, Sci-Fi"
+3909,Bikkuriman,ビックリマン,6.0,9497.0,12814,fall,1987.0,"Comedy, Fantasy"
+3915,Time Bokan,タイムボカン,6.41,7324.0,10045,fall,1975.0,"Adventure, Comedy"
+3932,Magnerobo Ga-Keen,マグネロボ・ガ・キーン,6.22,8352.0,11988,fall,1976.0,"Action, Sci-Fi"
+3936,Personal Computer Travel Tanteidan,パソコントラベル探偵団,6.02,9446.0,12732,spring,1983.0,"Adventure, Sci-Fi"
+3947,Jarinko Chie (TV),じゃりン子チエ,6.6,6244.0,12235,fall,1981.0,"Comedy, Drama"
+3969,Kagaku Kyuujo-tai TechnoVoyager,科学救助隊テクノボイジャー,6.1,8976.0,11943,spring,1982.0,"Action, Adventure, Sci-Fi"
+4013,Paul no Miracle Daisakusen,ポールのミラクル大作戦,6.41,7370.0,12374,fall,1976.0,"Action, Adventure"
+4024,Sanrio Anime Sekai Meisaku Gekijou,サンリオ・アニメ世界名作劇場,6.31,7869.0,11409,fall,1987.0,"Adventure, Fantasy"
+4044,Youkai Ningen Bem,妖怪人間ベム,6.14,8765.0,10742,fall,1968.0,Horror
+4060,Grimm Meisaku Gekijou,グリム名作劇場,7.39,2334.0,8360,fall,1987.0,"Adventure, Comedy, Fantasy"
+4061,Shin Grimm Meisaku Gekijou,新グリム名作劇場,7.28,2792.0,10072,fall,1988.0,"Adventure, Comedy, Fantasy"
+4062,Musashi no Ken,六三四の剣,7.08,3860.0,10083,spring,1985.0,Sports
+4073,Kyouryuu Daisensou Izenborg,恐竜大戦争アイゼンボーグ,6.61,6175.0,11956,fall,1977.0,Action
+4083,Wonder Beat Scramble,ワンダービート S(スクランブル),6.54,6604.0,12332,spring,1986.0,"Action, Sci-Fi"
+4088,Wonder 3,ワンダー３,6.13,8833.0,12153,summer,1965.0,"Action, Adventure, Comedy, Sci-Fi"
+4113,Mahou no Mako-chan,魔法のマコちゃん,6.27,8115.0,10906,fall,1970.0,"Fantasy, Romance"
+4121,Meimon! Daisan Yakyuu-bu,名門！第三野球部,6.27,8119.0,13348,fall,1988.0,Sports
+4132,Wakakusa no Yon Shimai,若草の四姉妹,6.38,7477.0,11635,spring,1981.0,"Drama, Slice of Life"
+4154,Time Bokan Series: Yattodetaman,タイムボカンシリーズ　ヤットデタマン,6.37,7552.0,11144,winter,1981.0,"Action, Adventure, Comedy, Fantasy"
+4183,Uchuu Taitei God Sigma,宇宙大帝ゴッドシグマ,6.45,7127.0,11701,spring,1980.0,Action
+4198,Koutetsu Jeeg,鋼鉄ジーグ,7.0,4222.0,9325,fall,1975.0,"Action, Fantasy, Sci-Fi"
+4199,Entaku no Kishi Monogatari: Moero Arthur,円卓の騎士物語　燃えろアーサー,6.35,7645.0,11199,fall,1979.0,"Adventure, Drama, Romance"
+4208,Tetsujin 28-gou (1980),鉄人２８号 (1980),6.67,5850.0,10478,fall,1980.0,Action
+4240,Ginga Senpuu Braiger,銀河旋風ブライガー,6.71,5616.0,10147,fall,1981.0,"Action, Adventure, Sci-Fi"
+4242,Ginga Reppuu Baxingar,銀河烈風バクシンガー,6.33,7739.0,11724,summer,1982.0,"Action, Adventure"
+4244,Ginga Shippuu Sasuraiger,銀河疾風サスライガー,6.45,7081.0,11710,spring,1983.0,"Action, Adventure"
+4332,Seigi wo Aisuru Mono Gekkou Kamen,正義を愛する者、月光仮面,6.58,6351.0,12559,winter,1972.0,"Action, Mystery"
+4339,Ashita e Attack!,あしたへアタック！,6.34,7700.0,10500,spring,1977.0,"Drama, Sports"
+4411,Mirai Robo Daltanias,未来ロボ ダルタニアス,6.64,5980.0,11240,spring,1979.0,"Action, Sci-Fi"
+4427,Tatakae!! Ramenman,闘将!!拉麺男,6.29,7978.0,11599,winter,1988.0,"Action, Adventure"
+4439,Kurenai Sanshirou,紅三四郎,6.43,7193.0,10951,spring,1969.0,Action
+4486,Getter Robo G,ゲッターロボG,6.5,6798.0,9546,spring,1975.0,"Action, Sci-Fi"
+4503,Choujikuu Kidan Southern Cross,超時空騎団サザンクロス,6.54,6562.0,6912,spring,1984.0,"Action, Drama, Sci-Fi"
+4511,Hoero! Bun Bun,ほえろブンブン,6.39,7437.0,12572,fall,1980.0,"Adventure, Slice of Life"
+4514,Seton Doubutsuki: Kuma no Ko Jacky,シートン動物記　くまの子ジャッキー,6.71,5647.0,10416,summer,1977.0,"Adventure, Drama"
+4515,Seton Doubutsuki: Risu no Banner,シートン動物記　りすのバナ,6.62,6166.0,11314,spring,1979.0,Drama
+4536,Muteki Robo Trider G7,無敵ロボトライダーG7,6.39,7452.0,11742,winter,1980.0,"Comedy, Sci-Fi"
+4574,Saikyou Robot Daiouja,最強ロボ ダイオージャ,6.33,7763.0,12515,winter,1981.0,"Action, Sci-Fi"
+4584,Topo Gigio,帰って来た　トッポ・ジージョ,6.18,8593.0,11265,spring,1988.0,"Adventure, Comedy"
+4597,Kouya no Shounen Isamu,荒野の少年イサム,6.3,7945.0,12149,spring,1973.0,"Action, Adventure"
+4598,Urikupen Kyuujo-tai,ウリクペン救助隊,,14535.0,15692,fall,1974.0,"Adventure, Comedy"
+4614,Moero Arthur: Hakuba no Ouji,燃えろアーサー・白馬の王子,6.18,8579.0,12539,spring,1980.0,"Adventure, Drama, Romance"
+4615,Yama Nezumi Rocky Chuck,山ねずみ ロッキーチャック,6.2,8445.0,11557,winter,1973.0,"Adventure, Fantasy"
+4616,Yumemiru Topo Gigio,夢見るトッポ・ジージョ,6.03,9403.0,13213,fall,1988.0,"Adventure, Comedy"
+4663,Tekken Chinmi,鉄拳チンミ,7.23,3113.0,8791,summer,1988.0,"Action, Adventure"
+4690,Cyborg 009 (1979),サイボーグ009,7.15,3532.0,6149,spring,1979.0,"Action, Adventure, Sci-Fi"
+4723,Seishun Anime Zenshuu,青春アニメ全集,6.54,6595.0,10697,spring,1986.0,"Drama, Romance"
+4808,Hurricane Polymar,破裏拳ポリマー,6.48,6906.0,10385,fall,1974.0,"Action, Adventure, Sci-Fi"
+4810,Shinzou Ningen Casshern,新造人間キャシャーン,6.68,5769.0,7537,fall,1973.0,"Action, Adventure, Sci-Fi"
+4853,Tezuka Osamu no Don Dracula,手塚治虫のドン・ドラキュラ,5.98,9598.0,9967,spring,1982.0,"Comedy, Horror, Supernatural"
+4933,Muu no Hakugei,ムーの白鯨,6.3,7951.0,11343,spring,1980.0,"Action, Fantasy, Sci-Fi"
+4935,Ikkyuu-san,一休さん,6.83,5004.0,10330,fall,1975.0,Comedy
+4936,Ninja Hattori-kun,忍者ハットリくん,6.95,4455.0,6049,fall,1981.0,"Comedy, Slice of Life"
+5022,Toushi Gordian,闘士ゴーディアン,6.28,8060.0,12217,fall,1979.0,"Action, Sci-Fi"
+5023,Ninpuu Kamui Gaiden,忍風カムイ外伝,6.7,5664.0,10461,spring,1969.0,"Action, Adventure"
+5052,Eightman,エイトマン,5.94,9791.0,10952,fall,1963.0,"Action, Drama, Sci-Fi"
+5091,Manga Sarutobi Sasuke,まんが猿飛佐助,6.75,5416.0,11183,fall,1979.0,"Adventure, Comedy, Supernatural"
+5104,Andes Shounen Pepero no Bouken,アンデス少年ペペロの冒険,6.61,6204.0,12316,fall,1975.0,Adventure
+5131,Groizer X,グロイザーＸ,6.14,8780.0,13084,summer,1976.0,Sci-Fi
+5143,Tokusou Kihei Dorvack,特装機兵ドルバック,6.14,8759.0,11497,fall,1983.0,"Action, Sci-Fi"
+5153,Kikou Kai Galient,機甲界ガリアン,6.43,7193.0,9249,fall,1984.0,"Action, Fantasy, Sci-Fi"
+5203,Shin Maple Town Monogatari: Palm Town-hen,新メイプルタウン物語 パームタウン編,6.84,4972.0,10922,winter,1987.0,"Fantasy, Slice of Life"
+5223,Robotan (1986),ロボタン,6.2,8493.0,13924,winter,1986.0,Comedy
+5250,God Mazinger,ゴッドマジンガー,6.19,8552.0,10027,spring,1984.0,"Action, Fantasy"
+5267,Gamba no Bouken,ガンバの冒険,7.18,3381.0,8624,spring,1975.0,"Adventure, Suspense"
+5287,Ippatsu Kanta-kun,一発貫太くん,6.04,9352.0,13068,fall,1977.0,"Adventure, Comedy, Sports"
+5311,Astroganger,アストロガンガー,6.23,8310.0,11942,fall,1972.0,"Action, Sci-Fi"
+5344,Time Bokan Series: Itadakiman,タイムボカンシリーズ　イタダキマン,5.75,10656.0,12492,spring,1983.0,
+5476,Fushigi na Melmo,ふしぎなメルモ,6.1,9022.0,11271,fall,1971.0,
+5594,Fuusen no Doratarou,フーセンのドラ太郎,,19947.0,16942,spring,1981.0,
+5600,Little El Cid no Bouken,リトル・エル・シドの冒険,6.24,8274.0,14116,winter,1984.0,Adventure
+5618,Dokonjou Gaeru,ど根性ガエル,6.47,6989.0,11142,fall,1972.0,"Comedy, Slice of Life"
+5658,Great Mazinger,グレートマジンガー,7.04,4048.0,7721,fall,1974.0,"Action, Sci-Fi"
+5688,Gegege no Kitarou (1968),ゲゲゲの鬼太郎,6.74,5463.0,8388,winter,1968.0,"Adventure, Comedy, Fantasy, Horror, Supernatural"
+5760,Dororo to Hyakkimaru,どろろと百鬼丸,7.26,2921.0,4730,spring,1969.0,"Action, Adventure, Fantasy"
+5763,Uchuu Kuubo Blue Noah,宇宙空母ブルーノア,6.48,6949.0,10892,fall,1979.0,"Action, Drama, Sci-Fi"
+5829,Blocker Gundan IV Machine Blaster,ブロッカー軍団Ⅳマシーンブラスター,5.84,10250.0,12321,summer,1976.0,"Action, Sci-Fi"
+5830,Tsurupika Hagemaru-kun,つるピカハゲ丸くん,6.98,4297.0,9794,spring,1988.0,Comedy
+5832,Tiger Mask Nisei,タイガーマスク二世,7.3,2728.0,7560,spring,1981.0,"Drama, Sports"
+5833,Tondemo Senshi Muteking,とんでも戦士ムテキング,6.25,8226.0,12414,fall,1980.0,"Action, Comedy, Sci-Fi"
+5834,Kyojin no Hoshi,巨人の星,6.93,4525.0,9818,spring,1968.0,"Drama, Sports"
+5886,Kujira no Josephina,くじらのホセフィーナ,6.05,9290.0,14677,spring,1979.0,"Adventure, Fantasy"
+5891,Kousoku Denjin Albegus,光速電神アルベガス,6.74,5475.0,10897,spring,1983.0,Action
+5935,Animation Kikou: Marco Polo no Bouken,アニメーション紀行 マルコ・ポーロの冒険,6.1,9015.0,12717,spring,1979.0,Adventure
+5997,Sabu to Ichi Torimono Hikae,佐武と市捕物控,6.52,6695.0,10243,fall,1968.0,"Action, Adventure, Drama, Slice of Life"
+6012,Kinpatsu no Jeanie,金髪のジェニー,5.91,9944.0,12756,summer,1979.0,Drama
+6055,F,Ｆ-エフ,6.72,5551.0,9191,spring,1988.0,
+6056,Sasuke,サスケ,6.75,5426.0,10687,fall,1968.0,Action
+6067,Moeru! Oniisan,燃える！お兄さん,6.45,7097.0,11335,spring,1988.0,"Action, Adventure, Comedy"
+6087,Jetter Mars,ジェッターマルス,6.25,8254.0,11612,winter,1977.0,"Action, Drama, Sci-Fi"
+6093,Anmitsu Hime,あんみつ姫,6.57,6379.0,11545,fall,1986.0,Comedy
+6261,Koguma no Misha,こぐまのミーシャ,6.04,9306.0,13835,fall,1979.0,"Adventure, Comedy, Drama"
+6262,Manga Sekai Mukashibanashi,まんが世界昔ばなし,6.96,4402.0,11033,fall,1976.0,"Adventure, Drama, Fantasy"
+6303,Perman,パーマン,6.56,6486.0,8934,spring,1967.0,"Adventure, Comedy"
+6311,Sarutobi Ecchan,さるとびエッちゃん,5.9,10017.0,12383,fall,1971.0,Comedy
+6374,Kagaku Ninja-tai Gatchaman II,科学忍者隊ガッチャマンII,6.44,7167.0,10414,fall,1978.0,"Action, Adventure, Sci-Fi"
+6375,Kagaku Ninja-tai Gatchaman F,科学忍者隊ガッチャマンF,6.48,6911.0,10340,fall,1979.0,"Action, Adventure, Sci-Fi"
+6383,Chargeman Ken!,チャージマン研！,4.5,13192.0,8971,spring,1974.0,"Action, Adventure, Sci-Fi"
+6397,Tentoumushi no Uta,てんとう虫の歌,6.19,8528.0,12871,fall,1974.0,"Adventure, Slice of Life"
+6428,Psychoarmor Govarian,サイコアーマー ゴーバリアン,6.1,8994.0,11825,summer,1983.0,"Action, Sci-Fi"
+6448,Yuusei Shounen Papii,遊星少年パピイ,5.34,12094.0,13658,summer,1965.0,"Action, Sci-Fi"
+6452,Akuu Daisakusen Srungle,亜空大作戦　スラングル,6.09,9031.0,11353,winter,1983.0,"Action, Sci-Fi"
+6468,Tensai Bakabon,天才バカボン,6.33,7768.0,12010,fall,1971.0,"Comedy, Slice of Life"
+6629,Asari-chan,あさりちゃん,6.1,9016.0,12657,winter,1982.0,Comedy
+6636,Chou Kousoku Galvion,超攻速ガルビオン,5.79,10479.0,11174,winter,1984.0,"Action, Sci-Fi"
+6672,Video Senshi Lezarion,ビデオ戦士レザリオン,6.49,6864.0,11903,spring,1984.0,"Action, Sci-Fi"
+6701,Jim Button,ジムボタン,6.13,8858.0,15543,fall,1974.0,"Adventure, Fantasy"
+6727,Mechakko Dotakon,めちゃっこドタコン,5.8,10436.0,14108,spring,1981.0,"Comedy, Sci-Fi"
+6730,Tonde Mon Pe,とんでモン・ぺ,,14334.0,16358,summer,1982.0,Supernatural
+6731,Ultraman Kids no Kotowaza Monogatari,ウルトラマン キッズの ことわざ物語,5.9,9976.0,13490,spring,1986.0,Comedy
+6771,Dorimogu Daa!!,ドリモグだァ!!,6.2,8464.0,14184,fall,1986.0,"Adventure, Fantasy"
+6868,Wansa-kun,ワンサくん,5.95,9757.0,12745,spring,1973.0,Comedy
+6889,Time Bokan Series: Zenderman,タイムボカンシリーズ　ゼンダマン,5.82,10373.0,12470,winter,1979.0,"Action, Adventure, Comedy, Sci-Fi"
+6917,Tsuideni Tonchinkan,ついでにとんちんかん,6.36,7616.0,12995,fall,1987.0,Comedy
+6970,Choujin Sentai Baratack,超人戦隊バラタック,6.19,8542.0,12470,summer,1977.0,"Adventure, Sci-Fi"
+6971,Gegege no Kitarou (1971),ゲゲゲの鬼太郎,6.55,6546.0,9897,fall,1971.0,"Adventure, Supernatural"
+6989,Uchuu Ace,宇宙エース,5.78,10537.0,13946,spring,1965.0,"Action, Adventure, Sci-Fi"
+7106,Ougon Senshi Gold Lightan,黄金戦士ゴールド・ライタン,6.06,9225.0,12546,spring,1981.0,"Action, Adventure, Sci-Fi"
+7160,Yoroshiku Mechadock,よろしくメカドック,6.58,6357.0,10046,fall,1984.0,"Action, Comedy, Mystery"
+7307,Gegege no Kitarou (1985),ゲゲゲの鬼太郎,6.52,6721.0,9998,fall,1985.0,"Comedy, Supernatural"
+7479,Karate Baka Ichidai,空手バカ一代,6.59,6310.0,11445,fall,1973.0,"Adventure, Sports"
+7551,Gowapper 5 Gordam,ゴワッパー5ゴーダム,6.07,9184.0,12690,spring,1976.0,"Action, Adventure, Sci-Fi"
+7575,Oh! Family,Ｏｈ！ファミリー,6.13,8821.0,11803,fall,1986.0,"Comedy, Drama, Romance"
+7779,Andersen Monogatari (TV),アンデルセン物語,6.2,8453.0,12552,winter,1971.0,"Drama, Fantasy"
+7808,Zukkoke Knight: Don De La Mancha,ずっこけナイト　ドンデラマンチャ,5.65,11107.0,13252,spring,1980.0,"Adventure, Comedy, Romance"
+7956,Cybot Robocchi,サイボットロボッチ,5.94,9789.0,14988,fall,1982.0,"Comedy, Sci-Fi"
+7980,Shin Obake no Q-tarou,新オバケのＱ太郎,5.82,10364.0,14298,fall,1971.0,"Comedy, Slice of Life, Supernatural"
+7981,Obake no Q-tarou (1985),オバケのQ太郎,6.2,8488.0,13688,spring,1985.0,"Comedy, Slice of Life, Supernatural"
+8011,Time Bokan Series: Gyakuten Ippatsuman,逆転!イッパツマン,5.84,10238.0,12224,winter,1982.0,"Action, Comedy, Sci-Fi"
+8041,Sennin Buraku,仙人部落,5.57,11411.0,13050,fall,1963.0,"Comedy, Ecchi"
+8130,Mighty Orbots,マイティ・オーボッツ,5.69,10932.0,13902,fall,1984.0,"Adventure, Comedy, Sci-Fi"
+8139,Shin Minashigo Hutch,新みなしごハッチ,6.31,7878.0,12324,spring,1974.0,"Adventure, Comedy, Drama"
+8158,Gegege no Kitarou: Jigoku-hen,ゲゲゲの鬼太郎　地獄編,6.2,8471.0,12287,winter,1988.0,"Adventure, Comedy, Fantasy, Horror, Supernatural"
+8179,Eagle Sam,イーグルサム,,17134.0,15292,spring,1983.0,"Comedy, Sports"
+8182,Bouken Shounen Shadar,冒険少年シャダー,6.0,9499.0,13356,fall,1967.0,"Adventure, Horror"
+8183,Bouken Korobokkuru,冒険コロボックル,5.84,10252.0,15261,fall,1973.0,Adventure
+8184,Bouken Gabotenjima,冒険ガボテン島,5.86,10179.0,14914,spring,1967.0,Adventure
+8213,Hokahoka Kazoku,ほかほか家族,5.83,10331.0,14074,fall,1976.0,Comedy
+8234,Muumin,ムーミン,7.14,3640.0,7455,fall,1969.0,"Adventure, Fantasy, Slice of Life"
+8235,Muumin (1972),ムーミン,6.53,6666.0,10201,winter,1972.0,"Adventure, Fantasy, Slice of Life"
+8239,Anime Yasei no Sakebi,アニメ野性のさけび,5.85,10196.0,15314,spring,1982.0,"Adventure, Drama"
+8240,Wanpaku Oomukashi Kum Kum,わんぱく大昔クムクム,6.04,9327.0,13764,fall,1975.0,"Adventure, Comedy"
+8285,Ai no Senshi Rainbowman,愛の戦士レインボーマン,6.23,8306.0,12321,fall,1982.0,"Action, Adventure, Sci-Fi"
+8373,Shin Mitsubachi Maya no Bouken,新みつばちマーヤの冒険,6.4,7398.0,9239,fall,1982.0,"Adventure, Comedy"
+8375,Chougattai Majutsu Robot Ginguiser,超合体魔術ロボ　ギンガイザー,5.69,10914.0,12306,spring,1977.0,"Action, Adventure, Sci-Fi"
+8394,Cyborg 009 (TV),サイボーグ009,6.81,5074.0,7526,spring,1968.0,"Action, Adventure, Sci-Fi"
+8436,Animentary: Ketsudan,アニメンタリー 決断,6.22,8371.0,11755,spring,1971.0,
+8501,Chibikko Kaijuu Yadamon,ちびっこ怪獣ヤダモン,,19187.0,15923,fall,1967.0,"Comedy, Supernatural"
+8520,Biriken,ビリ犬,,18890.0,17022,summer,1988.0,Comedy
+8521,Biriken Nandemo Shoukai,ビリ犬なんでも商会,,18891.0,17389,spring,1989.0,Comedy
+8542,Shin Ace wo Nerae!,新・エースをねらえ!,6.66,5922.0,9642,fall,1978.0,"Drama, Romance, Sports"
+8553,Time Bokan Series: Time Patroltai Otasukeman,タイムボカンシリーズ タイムパトロール隊 オタスケマン,6.26,8151.0,12206,winter,1980.0,"Action, Adventure, Comedy, Sci-Fi"
+8685,Ryuuichi Manga Gekijou Onbu Obake,おんぶおばけ,,18163.0,16306,fall,1972.0,Supernatural
+8763,Hajime Ningen Gyatoruz,はじめ人間ギャートルズ,6.07,9186.0,12887,fall,1974.0,Comedy
+8777,Nobara no Julie,野ばらのジュリー,5.97,9656.0,13017,winter,1979.0,"Adventure, Drama"
+8786,Inakappe Taishou,いなかっぺ大将,6.27,8108.0,13146,fall,1970.0,"Comedy, Sports"
+8799,Okawari-Boy Starzan-S,OKAWARI-BOY スターザンS,6.06,9223.0,13324,winter,1984.0,"Action, Adventure, Sci-Fi"
+8853,Chouriki Robo Galatt,超力ロボ ガラット,6.0,9500.0,12751,fall,1984.0,"Action, Adventure, Comedy, Sci-Fi"
+8879,Dolphin Ouji,ドルフィン王子,,19594.0,15649,spring,1965.0,"Action, Adventure, Sci-Fi"
+8897,Ganbare! Marine Kid,がんばれ！マリンキッド,5.53,11524.0,15046,fall,1966.0,"Action, Adventure, Sci-Fi"
+8899,Kaitei Shounen Marine,海底少年マリン,6.14,8790.0,12985,winter,1969.0,"Action, Adventure, Sci-Fi"
+9284,Bakuhatsu Gorou,ばくはつ五郎,5.63,11165.0,14201,spring,1970.0,"Comedy, Sports"
+9438,Rainbow Sentai Robin,レインボー戦隊ロビン,5.85,10227.0,13632,spring,1966.0,"Action, Adventure, Sci-Fi"
+9520,Zero Tester,ゼロテスター,6.01,9474.0,12610,fall,1973.0,"Action, Adventure, Sci-Fi"
+9522,Zero Tester: Chikyuu wo Mamore!,ゼロテスター 地球を守れ!,5.77,10606.0,13549,summer,1974.0,"Action, Adventure, Sci-Fi"
+9613,Big X,ビッグX,6.05,9267.0,12090,summer,1964.0,"Action, Sci-Fi"
+9781,Hyouga Senshi Gaislugger,氷河戦士ガイスラッガー,5.72,10796.0,13043,spring,1977.0,"Action, Sci-Fi"
+9856,Manga Nihon Emaki,まんが日本絵巻,,16718.0,15638,fall,1977.0,
+9868,Chengyu Donghua Lang,成語動畫廊,,16544.0,17378,,,
+9881,Chou Supercar Gattiger,超スーパーカー ガッタイガー,6.09,9035.0,13363,fall,1977.0,"Action, Sci-Fi"
+9883,Osomatsu-kun (1988),おそ松くん,6.74,5489.0,7681,winter,1988.0,Comedy
+9884,Osomatsu-kun,おそ松くん,6.44,7179.0,9418,winter,1966.0,Comedy
+9905,Captain (TV),キャプテン,6.35,7639.0,13065,winter,1983.0,Sports
+9906,Sue Cat,スーキャット,6.01,9466.0,13346,summer,1980.0,Adventure
+9916,Samurai Giants,侍ジャイアンツ,6.38,7519.0,11734,fall,1973.0,Sports
+9950,Hulu Xiongdi,葫芦兄弟,6.45,7085.0,15349,,,
+9978,Kyouryuu Tankentai Born Free,恐竜探検隊ボーンフリー,5.9,10004.0,12416,fall,1976.0,"Action, Sci-Fi"
+10135,Manga Hajimete Monogatari,まんがはじめて物語,6.13,8814.0,14691,spring,1978.0,"Adventure, Comedy"
+10136,Manga Doushite Monogatari,まんがどうして物語,6.06,9214.0,16216,spring,1984.0,"Adventure, Comedy"
+10137,Manga Naruhodo Monogatari,まんがなるほど物語,,19279.0,16956,spring,1986.0,Adventure
+10210,Bug tte Honey,Bugってハニー,6.31,7887.0,13496,fall,1986.0,"Adventure, Comedy"
+10224,Uchuu Majin Daikengou,宇宙魔神ダイケンゴー,5.82,10375.0,12196,summer,1978.0,"Action, Adventure, Sci-Fi"
+10236,Kagee Grimm Douwa,影絵グリム童話,,18437.0,16973,,,"Adventure, Drama, Fantasy, Romance, Supernatural"
+10241,Sekai Monoshiri Ryoko,世界ものしり旅行,5.68,10963.0,14503,fall,1971.0,Comedy
+10250,Ultra B,ウルトラ B,6.14,8762.0,11449,spring,1987.0,Comedy
+10282,Manga Nippon Mukashibanashi,まんが日本昔ばなし,6.02,9436.0,13386,winter,1975.0,
+10554,Yakyuukyou no Uta,野球狂の詩,6.47,6971.0,11782,winter,1978.0,"Drama, Sports"
+10562,Machine Hayabusa,マシンハヤブサ,6.14,8796.0,13158,spring,1976.0,Action
+10709,Manga Nihon Keizai Nyuumon,マンガ日本経済入門,,16719.0,15011,fall,1987.0,"Drama, Slice of Life"
+10815,UFO Senshi Dai Apolon 2,UFO戦士ダイアポロンII,6.19,8531.0,13798,fall,1976.0,"Action, Sci-Fi"
+10887,Dame Oyaji,ダメおやじ,,19441.0,16165,spring,1974.0,"Comedy, Slice of Life"
+10889,Jungle Kurobee,ジャングル黒べえ,5.83,10281.0,15236,spring,1973.0,Comedy
+10965,Kagaku Bouken-tai Tansar 5,科学冒険隊タンサー5,6.03,9372.0,14072,summer,1979.0,"Adventure, Mystery, Sci-Fi, Supernatural"
+11213,Hoshi no Ko Poron,星の子ポロン,6.06,9205.0,15068,spring,1974.0,Sci-Fi
+11245,Manga Nihonshi,まんが日本史,,16719.0,14917,spring,1983.0,
+11268,Ganso Tensai Bakabon,元祖天才バカボン,6.29,8003.0,12253,fall,1975.0,"Comedy, Slice of Life"
+11275,Akadou Suzunosuke,赤胴鈴之助,6.11,8924.0,13104,spring,1972.0,Adventure
+11307,Ginga Patrol PJ,銀河パトロールPJ,6.69,5723.0,13004,,,"Drama, Sci-Fi"
+11405,Skyers 5,スカイヤーズ5,5.9,9970.0,14775,fall,1967.0,"Action, Sci-Fi"
+11421,Iruka to Shounen,イルカと少年,,20753.0,16061,summer,1975.0,Adventure
+11595,Perman (1983),パーマン (1983),6.66,5913.0,8978,spring,1983.0,Comedy
+11829,Manga Mitokoumon,まんが水戸黄門,6.57,6404.0,12601,fall,1981.0,
+11857,Judo Sanka,柔道讃歌,6.23,8325.0,13623,spring,1974.0,Sports
+11873,Oraa Guzura Dado (1987),おらぁグズラだど,6.13,8819.0,13850,fall,1987.0,Comedy
+12039,What's Michael? (TV),ホワッツマイケル?,5.96,9687.0,13680,spring,1988.0,Comedy
+12139,Wanpaku Tanteidan,わんぱく探偵団,,14614.0,12851,winter,1968.0,"Action, Mystery"
+12243,Game Center Arashi,ゲームセンターあらし,5.95,9775.0,13270,spring,1982.0,Comedy
+12763,0-sen Hayato,0戦はやと,5.88,10069.0,13437,winter,1964.0,
+12765,Yuuyake Banchou,夕やけ番長,,15529.0,15315,fall,1968.0,Action
+12767,Yuusei Kamen,遊星仮面,5.66,11037.0,14797,summer,1966.0,Sci-Fi
+12835,Umeboshi Denka,ウメ星デンカ,,14508.0,14518,spring,1969.0,Comedy
+12887,Uchuu Shounen Soran,宇宙少年ソラン,5.81,10384.0,14824,spring,1965.0,"Action, Adventure, Sci-Fi"
+12897,Uchuu Patrol Hopper,宇宙パトロールホッパ,,14482.0,14718,winter,1965.0,Sci-Fi
+13307,Shounen Ninja Kaze no Fujimaru,少年忍者風のフジ丸,5.82,10366.0,12390,summer,1964.0,"Action, Adventure"
+13769,Kamen no Ninja Akakage,仮面の忍者赤影,6.46,7021.0,12582,fall,1987.0,"Action, Fantasy"
+14211,Instant History,インスタントヒストリー,6.1,9027.0,13799,spring,1961.0,
+14213,Otogi Manga Calendar,おとぎマンガカレンダー,6.0,9519.0,14419,summer,1962.0,
+15873,Pyun Pyun Maru,ピュンピュン丸,,17861.0,15669,summer,1967.0,Comedy
+15875,Shin Kyojin no Hoshi,新巨人の星,6.18,8585.0,13267,fall,1977.0,Sports
+15957,Dokachin,ドカチン,,19583.0,16257,fall,1968.0,Comedy
+16131,Machine Robo: Butchigiri Battle Hackers,マシンロボ ぶっちぎりバトルハッカーズ,6.05,9293.0,13761,summer,1987.0,"Action, Sci-Fi"
+16159,Mirai Kara Kita Shounen Super Jetter,未来から来た少年 スーパージェッター,5.82,10352.0,14871,winter,1965.0,"Action, Comedy, Sci-Fi"
+16303,Chikkun Takkun,チックン タックン,5.89,10051.0,13698,spring,1984.0,"Comedy, Sci-Fi"
+16393,Norakuro-kun,のらくろクン,6.1,8988.0,14631,fall,1987.0,"Comedy, Mystery"
+16486,Shin Kyojin no Hoshi II,新巨人の星II,6.09,9061.0,13776,spring,1979.0,Sports
+16526,Ranpou,らんぽう,,18015.0,15218,spring,1984.0,Comedy
+16530,Ojamanga Yamada-kun,おじゃまんが山田くん,6.19,8509.0,14313,fall,1980.0,"Comedy, Slice of Life"
+16650,Pro Golfer Saru (TV),プロゴルファー猿,,20408.0,15377,spring,1985.0,Sports
+17092,Dallyeola Hani,달려라 하니,6.56,6458.0,13527,summer,1988.0,Sports
+17211,Shouwa Ahozoushi Akanuke Ichiban!,昭和アホ草紙あかぬけ一番！,6.31,7880.0,11814,fall,1985.0,Comedy
+17315,Shin Pro Golfer Saru,新プロゴルファー猿,,13651.0,17798,spring,1988.0,Sports
+17423,Pink Lady Monogatari: Eikou no Tenshi-tachi,ピンク・レディー物語 栄光の天使たち,,17737.0,15008,fall,1978.0,"Drama, Slice of Life"
+17457,Chingou Muchabee,珍豪ムチャ兵衛,,19220.0,16462,winter,1971.0,"Adventure, Comedy"
+17467,Otoko Ippiki Gaki Daishou,男一匹ガキ大将,6.4,7393.0,12187,fall,1969.0,"Action, Drama"
+17521,Ookami Shounen Ken,狼少年ケン,5.85,10223.0,13241,fall,1963.0,Adventure
+17599,Konpora Kid,コンポラキッド,,16248.0,17823,summer,1985.0,"Comedy, Sci-Fi"
+17619,Souya Monogatari,宗谷物語,,13929.0,15201,winter,1984.0,"Adventure, Drama"
+17623,Futago no Monchhichi,ふたごのモンチッチ,,19938.0,16585,winter,1980.0,Comedy
+17667,Harisu no Kaze,ハリスの旋風,,17710.0,14802,spring,1966.0,Comedy
+17669,Kunimatsu-sama no Otoridai,国松さまのお通りだい,,16378.0,15305,fall,1971.0,"Comedy, Sports"
+17671,Animal 1,アニマル１,6.0,9495.0,14412,spring,1968.0,Sports
+17687,Bemubemu Hunter Kotengu Tenmaru,べムべムハンター・こてんぐテン丸,,18830.0,15123,spring,1983.0,"Adventure, Fantasy"
+17893,Cheonbangjichuk Hani,천방지축 하니,6.37,7564.0,16207,,,"Comedy, Drama, Sports"
+18635,Akane-chan,あかねちゃん,5.87,10117.0,14348,spring,1968.0,"Comedy, Slice of Life"
+19087,Kaiketsu Tamagon,かいけつタマゴン,,18455.0,16129,fall,1972.0,"Adventure, Comedy"
+19121,Doctor Chichibuyama,ドクター秩父山,5.48,11678.0,14224,spring,1988.0,"Comedy, Ecchi"
+19505,Kaizoku Ouji,海賊王子,,15939.0,14725,spring,1966.0,Adventure
+19681,Hustle Punch,ハッスルパンチ,5.91,9939.0,14640,fall,1965.0,"Comedy, Fantasy"
+19875,Robotan,ロボタン,6.17,8659.0,14902,fall,1966.0,Comedy
+19901,Donkikko,ドンキッコ,,17011.0,16544,fall,1967.0,Comedy
+19947,Ikkyuu-san (1978),一球さん,6.22,8385.0,14084,spring,1978.0,Sports
+19959,Barbapapa (1977),バーバパパ (1977),5.84,10248.0,13853,spring,1977.0,"Comedy, Fantasy"
+19965,Ikinari Dagon,いきなりダゴン,,20723.0,16925,spring,1988.0,"Adventure, Fantasy"
+19981,Shisukon Ouji,シスコン王子,,13685.0,16360,winter,1964.0,Adventure
+19985,Uchuujin Pipi,宇宙人ピピ,,14486.0,17107,spring,1965.0,
+19987,Kaitou Pride,怪盗プライド,,15904.0,16503,spring,1965.0,"Adventure, Comedy"
+19989,Tatakae! Osper,戦え! オスパー,,14138.0,15785,winter,1966.0,"Action, Sci-Fi"
+19991,Tobidase! Bacchiri,とびだせ! バッチリ,,14288.0,17033,fall,1966.0,"Comedy, Mystery"
+19993,Kaminari Boy Pikkari★bee,かみなり坊やピッカリ★ビー,,15965.0,15423,spring,1967.0,"Adventure, Comedy"
+19995,King Kong: 001/7 Tom Thumb,キングコング・001/7親指トム,,18696.0,15760,spring,1967.0,"Adventure, Sci-Fi"
+19997,Fight Da!! Pyuta,ファイトだ!! ピュー太,,19888.0,15263,spring,1968.0,"Action, Comedy, Sci-Fi"
+19999,Sobakasu Pucchi,そばかすプッチー,,13842.0,17125,spring,1969.0,"Adventure, Comedy"
+20001,Mouretsu Atarou,もーれつア太郎,,17146.0,15982,spring,1969.0,"Comedy, Slice of Life"
+20003,Roppou Yabure-kun,六法やぶれクン,,20670.0,16396,spring,1969.0,Slice of Life
+20005,Pinch to Punch,ピンチとパンチ,,17735.0,16329,fall,1969.0,Comedy
+20009,Doubutsu Mura Monogatari,動物村ものがたり,,17059.0,16564,spring,1970.0,
+20023,Otanoshimi Anime Gekijou,おたのしみアニメ劇場,,17602.0,17060,spring,1970.0,Comedy
+20025,Itazura Tenshi Chippo-chan,いたずら天使チッポちゃん,,18151.0,16841,spring,1970.0,Comedy
+20027,Nihon Meisaku Douwa Series: Akai Tori no Kokoro,日本名作童話シリーズ 赤い鳥のこころ,,17356.0,15517,winter,1979.0,"Adventure, Fantasy"
+20077,Dotanba no Manners,ドタンバのマナー,,19639.0,16389,fall,1984.0,"Comedy, Slice of Life"
+20079,Ijiwaru Baasan,いじわるばあさん,,20718.0,16000,fall,1970.0,"Comedy, Slice of Life"
+20083,Doteraman,ドテラマン,,19640.0,15662,fall,1986.0,"Comedy, Sci-Fi"
+20115,Gekisou! Rubenkaiser,激走! ルーベンカイザー,,20033.0,15120,fall,1977.0,
+20125,Tobidase! Machine Hiryuu,とびだせ! マシーン飛竜,,14285.0,14567,fall,1977.0,Comedy
+20147,Robokko Beeton,ろぼっ子ビートン,,18078.0,16554,fall,1976.0,"Adventure, Comedy, Slice of Life"
+20183,Manga Ijin Monogatari,まんが偉人物語,,16713.0,15886,fall,1977.0,
+20199,Ganbare Gonbe,がんばれゴンベ,,19983.0,15331,spring,1980.0,Comedy
+20223,Shounen Tokugawa Ieyasu,少年徳川家康,,13709.0,14237,spring,1975.0,Drama
+20231,Manga Kodomo Bunko,まんがこども文庫,,16715.0,16036,fall,1978.0,"Drama, Fantasy"
+20233,Tonari no Tamageta-kun,となりのたまげ太くん,,14331.0,16572,spring,1974.0,"Comedy, Sci-Fi"
+20237,Anime Document: München e no Michi,アニメドキュメント ミュンヘンへの道,,15890.0,15599,spring,1972.0,Sports
+20239,Hana no Kakarichou,花の係長,,20280.0,16111,fall,1976.0,"Comedy, Slice of Life"
+21487,Shin Dokonjou Gaeru,新・ど根性ガエル,6.01,9462.0,14164,fall,1981.0,"Comedy, Slice of Life"
+21491,Ninjaman Ippei,忍者マン 一平,5.97,9655.0,16107,fall,1982.0,"Action, Comedy, Slice of Life"
+21539,Oraa Guzura Dado,おらぁグズラだど,5.96,9718.0,15551,fall,1967.0,Comedy
+21549,Hitotsuboshi-ke no Ultra Baasan,一ツ星家のウルトラ婆さん,,20480.0,16246,fall,1982.0,"Comedy, Slice of Life"
+22219,Warera Salaryman Tou,われらサラリーマン党,,14626.0,17421,fall,1970.0,"Comedy, Slice of Life"
+22221,Monoshiri Daigaku: Ashita no Calendar,ものしり大学　明日のカレンダー,5.65,11083.0,14458,summer,1966.0,
+22893,Mon Cheri CoCo,モンシェリCOCO,,19668.0,12649,summer,1972.0,Romance
+22997,Shin Skyers 5,新スカイヤーズ5,,13647.0,15902,fall,1971.0,"Action, Sci-Fi"
+22999,Nippon Tanjou,日本誕生,,17397.0,16679,summer,1970.0,
+23001,Manga Jinbutsushi,マンガ人物史,,16714.0,16641,summer,1970.0,
+23011,Otoko Doahou! Koushien,男どアホウ! 甲子園,,20169.0,15595,fall,1970.0,Sports
+23013,Norakuro,のらくろ,6.03,9383.0,15290,fall,1970.0,Comedy
+23015,Hazedon,ハゼドン,,20345.0,17369,fall,1972.0,"Adventure, Comedy"
+23347,Gan to Gon,ガンとゴン,,19981.0,16133,spring,1974.0,Comedy
+23349,Kirin Monoshiri Yakata,キリンものしり館,5.62,11201.0,14567,winter,1975.0,
+23351,Youkaiden Nekome Kozou,妖怪伝 猫目小僧,5.88,10105.0,13260,spring,1976.0,"Adventure, Horror, Supernatural"
+23393,Shin Don Chuck Monogatari,新ドン・チャック物語,6.22,8365.0,13283,spring,1976.0,"Adventure, Slice of Life"
+23973,Fuku-chan,フクちゃん,,19920.0,16955,winter,1982.0,Slice of Life
+25717,AIUEO Anime Sekai no Douwa: Aesop Monogatari Anime Series,あいうえお・アニメ世界の童話 イソップ物語アニメシリーズ,6.35,7636.0,13974,summer,1989.0,"Adventure, Fantasy"
+26087,Mama Ohanashi Kikasete,ママお話きかせて,,19253.0,18942,spring,1987.0,Fantasy
+26089,Gutchonpa Omoshiro Hanashi,グッチョンパおもしろ話,,17595.0,19390,fall,1987.0,
+27693,Heart Cocktail,ハートカクテル,6.31,7901.0,11260,fall,1986.0,Romance
+28019,Slippy Dandy,SLIPPY DANDY,,13834.0,18685,summer,1987.0,"Action, Mystery"
+28089,Oyo Neko Bunyan,オヨネコ ぶーにゃん,,20191.0,18275,spring,1984.0,Comedy
+28145,Johnny Cypher,ジョニーサイファー,,15806.0,16525,fall,1968.0,"Action, Adventure, Sci-Fi"
+29527,Kagee Mukashibanashi,影絵むかし話,,18438.0,17266,,,"Adventure, Drama, Fantasy, Romance, Supernatural"
+30027,Meisaku World,めいさくわーるど/むかしばなし(アニメ),,19391.0,19022,spring,1988.0,"Adventure, Fantasy, Supernatural"
+30028,Sekai Meisaku Douwa Series,世界名作童話シリーズ,6.24,8286.0,15697,spring,1988.0,"Adventure, Fantasy, Supernatural"
+32448,Kirin Ashita no Calendar,キリンあしたのカレンダー,5.85,10213.0,15388,winter,1980.0,
+32630,Coral no Tanken,コラルの探検,,19349.0,17698,spring,1979.0,Adventure
+33300,Manga Kotowaja Jiten,まんがことわざ事典,,16716.0,17328,fall,1980.0,Comedy
+34510,Hei Mao Jing Zhang,黑貓警長,5.52,11546.0,14497,winter,1984.0,"Action, Adventure, Comedy"
+37714,Shin Manga Naruhodo Monogatari,新まんがなるほど物語,,13647.0,19224,spring,1988.0,
+39119,Manga Furusato Mukashibanashi,まんがふるさと昔話,,16711.0,18523,summer,1976.0,"Adventure, Fantasy"
+39450,Zen-chan Two-chan,ゼンちゃんツーちゃん,,15546.0,18539,fall,1969.0,
+48165,Donghwanala ABC,동화나라 ABC,,19613.0,23047,summer,1987.0,Fantasy
 89,Kidou Senshi Victory Gundam,機動戦士Vガンダム,6.71,5630.0,4211,spring,1993.0,"Action, Drama, Sci-Fi"
 96,Kidou Butouden G Gundam,機動武闘伝Gガンダム,7.58,1592.0,2649,spring,1994.0,"Action, Drama, Romance, Sci-Fi"
 103,Akazukin Chacha,赤ずきんチャチャ,7.4,2265.0,5326,winter,1994.0,"Adventure, Comedy, Fantasy, Romance"
@@ -108,7 +671,7 @@
 5249,Mitsume ga Tooru,三つ目がとおる,6.93,4532.0,11564,fall,1990.0,Adventure
 5274,Magical★Taruruuto-kun,まじかる☆タルるートくん,6.84,4963.0,10644,fall,1990.0,"Adventure, Comedy, Fantasy, Ecchi"
 5292,Getter Robo Go,ゲッターロボ號,6.14,8779.0,10154,winter,1991.0,"Action, Adventure"
-5395,Nekketsu Saikyou Go-Saurer,熱血最強ゴウザウラー,7.05,3996.0,11510,spring,1993.0,"Action, Sci-Fi"
+5395,Nekketsu Saikyou Go-Saurer,熱血最強ゴウザウラー,7.05,3996.0,11511,spring,1993.0,"Action, Sci-Fi"
 5628,21 Emon,21エモン,6.18,8557.0,12493,spring,1991.0,"Comedy, Sci-Fi"
 5712,Tanoshii Muumin Ikka Bouken Nikki,楽しいムーミン一家 冒険日記,7.48,1951.0,7506,fall,1991.0,"Adventure, Fantasy, Slice of Life"
 5953,Mahou no Princess Minky Momo: Yume wo Dakishimete,魔法のプリンセス　ミンキーモモ（夢を抱きしめて）,6.85,4896.0,9099,fall,1991.0,Fantasy
@@ -157,7 +720,7 @@
 22313,Shinken Densetsu: Tight Road,真拳伝説 タイトロード,,13662.0,14697,fall,1994.0,Action
 22509,Manga Nihonshi (NHK Han),まんが日本史[NHK版],,16721.0,15729,spring,1992.0,
 24663,Dororonpa!,どろろんぱっ！,6.12,8869.0,14943,spring,1991.0,"Comedy, Supernatural"
-25139,Oh! My Konbu,OH!MYコンブ,,20046.0,16197,spring,1991.0,"Comedy, Gourmet, Slice of Life"
+25139,Oh! My Konbu,OH!MYコンブ,,17484.0,16209,spring,1991.0,"Comedy, Gourmet, Slice of Life"
 25589,Yeongsimi,영심이,,15333.0,19316,,,"Comedy, Slice of Life"
 27369,Eigo de Asobo: Tanken Goblin Tou,英語であそぼ たんけんゴブリン島,,19767.0,18319,spring,1990.0,"Adventure, Comedy, Fantasy"
 27681,Sasurai-kun,さすらいくん,,18301.0,17080,spring,1992.0,"Comedy, Slice of Life"
@@ -182,7 +745,7 @@
 59648,Eunbikkabiui Yesnal Yesjeog-e 2nd Season,은비까비의 옛날옛적에 2기,,19801.0,27109,spring,1992.0,Fantasy
 1,Cowboy Bebop,カウボーイビバップ,8.75,46.0,43,spring,1998.0,"Action, Award Winning, Sci-Fi"
 6,Trigun,トライガン,8.22,358.0,258,spring,1998.0,"Action, Adventure, Sci-Fi"
-33,Kenpuu Denki Berserk,剣風伝奇ベルセルク,8.59,97.0,311,fall,1997.0,"Action, Adventure, Drama, Fantasy, Horror"
+33,Kenpuu Denki Berserk,剣風伝奇ベルセルク,8.59,97.0,312,fall,1997.0,"Action, Adventure, Drama, Fantasy, Horror"
 45,Rurouni Kenshin: Meiji Kenkaku Romantan,るろうに剣心 -明治剣客浪漫譚-,8.28,291.0,457,winter,1996.0,"Action, Comedy, Romance"
 55,Arc the Lad,アークザラッド,6.49,6874.0,5274,spring,1999.0,"Action, Adventure, Fantasy, Horror, Sci-Fi"
 58,Blue Gender,BLUE GENDER,7.01,4191.0,2397,fall,1999.0,"Action, Adventure, Drama, Horror, Sci-Fi"
@@ -199,7 +762,7 @@
 145,Kareshi Kanojo no Jijou,彼氏彼女の事情,7.6,1516.0,1057,fall,1998.0,"Comedy, Drama, Romance"
 160,"Ima, Soko ni Iru Boku",今、そこにいる僕,7.59,1552.0,1581,fall,1999.0,"Adventure, Drama, Fantasy, Sci-Fi"
 163,Power Stone,パワーストーン,6.45,7110.0,6954,spring,1999.0,"Adventure, Comedy, Fantasy"
-171,Strange Dawn,ストレンジ・ドーン,6.27,8139.0,7822,summer,2000.0,"Adventure, Drama, Fantasy"
+171,Strange Dawn,ストレンジ・ドーン,6.27,8138.0,7822,summer,2000.0,"Adventure, Drama, Fantasy"
 180,Vandread,ヴァンドレッド,7.15,3518.0,2338,fall,2000.0,"Action, Sci-Fi, Ecchi"
 182,Tenkuu no Escaflowne,天空のエスカフローネ,7.66,1349.0,1473,spring,1996.0,"Action, Adventure, Fantasy, Romance, Suspense"
 185,Initial D First Stage,頭文字〈イニシャル〉D,8.35,225.0,606,spring,1998.0,"Action, Drama"
@@ -328,7 +891,7 @@
 1892,YAT Anshin! Uchuu Ryokou 2,ＹＡＴ　安心！宇宙旅行 2,6.88,4766.0,12068,spring,1998.0,"Adventure, Comedy, Sci-Fi"
 1899,Masou Kishin Cybuster,魔装機神サイバスター,6.03,9382.0,9382,spring,1999.0,"Action, Adventure, Sci-Fi"
 1936,Misute♡naide Daisy,みすて♡ないでデイジー,5.67,11005.0,10736,summer,1997.0,"Comedy, Romance, Sci-Fi"
-2011,Taiho Shichau zo Special,逮捕しちゃうぞ Special,7.01,4175.0,7230,spring,1999.0,"Action, Comedy"
+2011,Taiho Shichau zo Special,逮捕しちゃうぞ Special,7.01,4174.0,7232,spring,1999.0,"Action, Comedy"
 2012,Jigoku Sensei Nube,地獄先生ぬ～べ～,7.54,1752.0,4756,spring,1996.0,"Adventure, Comedy, Horror, Romance, Supernatural"
 2074,Kerokero Chime,ケロケロちゃいむ,6.43,7191.0,11675,spring,1997.0,"Adventure, Comedy, Fantasy"
 2075,Kiko-chan Smile,きこちゃんすまいる,6.37,7524.0,11915,fall,1996.0,"Adventure, Comedy, Slice of Life"
@@ -419,11 +982,11 @@
 8891,Nippon-ichi no Otoko no Tamashii 2,日本一の男の魂２,5.9,10011.0,14077,spring,1999.0,"Comedy, Romance"
 9106,Nogsaegjeoncha Hamos,녹색전차 해모수,6.2,8487.0,13580,winter,1998.0,"Action, Adventure, Fantasy"
 9391,Ginga Hyouryuu Vifam 13,銀河漂流バイファム13,6.37,7571.0,13831,spring,1998.0,"Action, Adventure, Sci-Fi"
-9424,Seupideuwang Beongae,스피드왕 번개,6.1,8994.0,14665,spring,1998.0,Sports
+9424,Seupideuwang Beongae,스피드왕 번개,6.1,8995.0,14671,spring,1998.0,Sports
 9455,Ninpen Manmaru,忍ペンまん丸,,17382.0,15176,summer,1997.0,Comedy
 9540,Bucket de Gohan,バケツでごはん,,16366.0,16347,winter,1996.0,Comedy
 9807,Harimogu Harry,はりもぐハーリー,,20325.0,17674,summer,1996.0,
-9811,Hanasaka Tenshi Tenten-kun,花さか天使テンテンくん,,17672.0,15535,fall,1998.0,"Comedy, Fantasy"
+9811,Hanasaka Tenshi Tenten-kun,花さか天使テンテンくん,,20288.0,15547,fall,1998.0,"Comedy, Fantasy"
 10607,Rerere no Tensai Bakabon,レレレの天才バカボン,6.06,9227.0,13548,fall,1999.0,Comedy
 12481,Gregory Horror Show: The Second Guest,グレゴリーホラーショー - The Second Guest,6.59,6303.0,11456,spring,2000.0,"Comedy, Horror, Mystery, Supernatural"
 12781,Yoshimoto Muchikko Monogatari,ヨシモトムチッ子物語,,15415.0,17430,fall,1998.0,Comedy
@@ -477,7 +1040,7 @@
 61,D.N.Angel,Ｄ・Ｎ・ＡＮＧＥＬ,7.16,3456.0,1313,spring,2003.0,"Action, Comedy, Fantasy, Romance"
 62,D.C.: Da Capo,D.C.～ダ・カーポ～,6.71,5610.0,2507,summer,2003.0,"Drama, Romance"
 63,DearS,ディアーズ,6.55,6541.0,1572,summer,2004.0,"Comedy, Romance, Sci-Fi, Ecchi"
-64,Rozen Maiden,ローゼンメイデン,7.41,2236.0,1192,fall,2004.0,"Action, Comedy, Drama, Fantasy"
+64,Rozen Maiden,ローゼンメイデン,7.41,2235.0,1192,fall,2004.0,"Action, Comedy, Drama, Fantasy"
 66,Azumanga Daiou The Animation,あずまんが大王 THE ANIMATION,8.04,579.0,647,spring,2002.0,Comedy
 67,Basilisk: Kouga Ninpou Chou,バジリスク 甲賀忍法帖,7.53,1754.0,1282,spring,2005.0,"Action, Drama, Romance"
 71,Full Metal Panic!,フルメタル・パニック！,7.59,1548.0,450,winter,2002.0,"Action, Comedy, Sci-Fi"
@@ -519,7 +1082,7 @@
 148,Kita e.: Diamond Dust Drops,北へ。 ～Diamond Dust Drops～,6.55,6497.0,6585,winter,2004.0,"Drama, Romance"
 149,Loveless,LOVELESS,6.72,5558.0,1637,spring,2005.0,"Boys Love, Drama, Mystery, Supernatural"
 153,Juuni Kokuki,十二国記,8.01,619.0,1523,spring,2002.0,"Action, Adventure, Fantasy"
-154,Shaman King,シャーマンキング,7.73,1185.0,655,summer,2001.0,"Action, Adventure, Supernatural"
+154,Shaman King,シャーマンキング,7.73,1185.0,654,summer,2001.0,"Action, Adventure, Supernatural"
 156,X,X−エックス−,7.38,2369.0,2373,fall,2001.0,"Action, Drama, Fantasy, Mystery"
 157,Mahou Sensei Negima!,魔法先生 ネギま！,6.93,4530.0,1635,winter,2005.0,"Action, Comedy, Fantasy, Romance, Ecchi"
 158,Maria-sama ga Miteru,マリア様がみてる,7.28,2847.0,2626,winter,2004.0,"Drama, Girls Love"
@@ -596,7 +1159,7 @@
 306,Abenobashi Mahou☆Shoutengai,アベノ橋魔法☆商店街,7.22,3128.0,2249,spring,2002.0,"Award Winning, Comedy, Fantasy, Ecchi"
 308,Zettai Shounen,絶対少年,6.86,4856.0,4856,spring,2005.0,"Drama, Fantasy, Mystery, Sci-Fi"
 309,Akahori Gedou Hour Rabuge,あかほり外道アワーらぶげ,6.1,9014.0,7703,summer,2005.0,Comedy
-321,Najica Dengeki Sakusen,ナジカ電撃作戦,5.96,9712.0,5458,fall,2001.0,"Action, Comedy, Sci-Fi, Ecchi"
+321,Najica Dengeki Sakusen,ナジカ電撃作戦,5.96,9712.0,5457,fall,2001.0,"Action, Comedy, Sci-Fi, Ecchi"
 322,Paradise Kiss,Paradise kiss,7.86,874.0,1068,fall,2005.0,"Drama, Romance"
 323,Mousou Dairinin,妄想代理人,7.66,1340.0,549,winter,2004.0,"Avant Garde, Drama, Mystery, Supernatural, Suspense"
 325,Peach Girl,ピーチガール,6.92,4596.0,2049,winter,2005.0,"Drama, Romance"
@@ -896,7 +1459,7 @@
 12359,Pecola,ペコラ,5.75,10694.0,15240,fall,2002.0,
 12613,Morizo to Kikkoro,モリゾーとキッコロ,,17128.0,18961,spring,2004.0,
 12809,Wonder Bebil-kun,ワンダーベビルくん,,14718.0,14858,spring,2003.0,"Comedy, Fantasy"
-15479,Hey Yo Yorang,꼬마여우 요랑,,17815.0,15974,summer,2003.0,"Adventure, Comedy, Fantasy"
+15479,Hey Yo Yorang,꼬마여우 요랑,,20431.0,15984,summer,2003.0,"Adventure, Comedy, Fantasy"
 16027,Greek Roman Sinhwa: Olympus Guardian,그리스 로마 신화-올림포스 가디언,6.08,9105.0,12479,winter,2003.0,"Adventure, Fantasy"
 17487,Tantei Shounen Kageman,探偵少年カゲマン,,14115.0,17518,spring,2001.0,"Comedy, Mystery"
 18005,Forza! Hidemaru,フォルツァ！ひでまる,,19899.0,15979,spring,2002.0,Sports
@@ -982,7 +1545,7 @@
 935,Witchblade,ウィッチブレイド,7.2,3265.0,1887,spring,2006.0,"Action, Drama, Sci-Fi"
 940,Inukami!,いぬかみっ!,7.22,3154.0,2656,spring,2006.0,"Comedy, Romance, Supernatural, Ecchi"
 941,Renkin San-kyuu Magical? Pokaan,錬金3級 まじかる?ぽか〜ん,6.94,4476.0,3898,spring,2006.0,"Comedy, Ecchi"
-942,Nishi no Yoki Majo: Astraea Testament,西の善き魔女 Astraea Testament,6.67,5837.0,4964,spring,2006.0,"Comedy, Drama, Fantasy, Mystery, Romance"
+942,Nishi no Yoki Majo: Astraea Testament,西の善き魔女 Astraea Testament,6.67,5836.0,4964,spring,2006.0,"Comedy, Drama, Fantasy, Mystery, Romance"
 943,Yume Tsukai,夢使い,6.42,7316.0,6632,spring,2006.0,"Drama, Fantasy, Slice of Life"
 944,The Third: Aoi Hitomi no Shoujo,ザ・サード 蒼い瞳の少女,7.3,2727.0,4739,spring,2006.0,"Action, Adventure, Sci-Fi"
 953,Juu Ou Sei,獣王星,7.19,3297.0,2568,spring,2006.0,"Action, Adventure, Drama, Mystery, Sci-Fi"
@@ -1018,7 +1581,7 @@
 1498,Black Blood Brothers,ブラック・ブラッド・ブラザーズ,7.09,3827.0,2071,fall,2006.0,"Action, Comedy, Fantasy"
 1509,Mamotte! Lollipop,まもって！ロリポップ,6.61,6178.0,4410,summer,2006.0,"Adventure, Comedy, Romance"
 1516,Kirarin☆Revolution,きらりん☆レボリューション,7.07,3912.0,3948,spring,2006.0,"Comedy, Drama, Romance"
-1519,Black Lagoon: The Second Barrage,BLACK LAGOON The Second Barrage,8.17,421.0,427,fall,2006.0,Action
+1519,Black Lagoon: The Second Barrage,BLACK LAGOON The Second Barrage,8.17,422.0,427,fall,2006.0,Action
 1530,Kanon (2006),カノン (2006),7.94,719.0,910,fall,2006.0,"Drama, Romance, Supernatural"
 1534,Futari wa Precure: Splash☆Star,ふたりはプリキュア Splash☆Star,7.18,3379.0,5581,winter,2006.0,"Action, Comedy, Fantasy"
 1535,Death Note,デスノート,8.62,85.0,2,fall,2006.0,"Supernatural, Suspense"
@@ -1053,7 +1616,7 @@
 1601,Red Garden,レッド ガーデン,7.03,4085.0,3321,fall,2006.0,"Drama, Mystery, Supernatural"
 1602,Soukou no Strain,奏光のストレイン,7.0,4230.0,4649,fall,2006.0,"Action, Drama, Sci-Fi, Ecchi"
 1603,Super Robot Taisen OG: Divine Wars,スーパーロボット大戦OG -ディバイン・ウォーズ-,6.77,5285.0,7019,fall,2006.0,"Action, Sci-Fi"
-1604,Katekyou Hitman Reborn!,家庭教師ヒットマンREBORN!,8.12,478.0,398,fall,2006.0,"Action, Comedy"
+1604,Katekyou Hitman Reborn!,家庭教師ヒットマンREBORN!,8.12,478.0,399,fall,2006.0,"Action, Comedy"
 1606,Kekkaishi,結界師,7.59,1554.0,1974,fall,2006.0,"Action, Adventure, Supernatural"
 1607,Venus Versus Virus,ヴィーナス ヴァーサス ヴァイアラス,6.32,7787.0,4112,winter,2007.0,"Drama, Romance, Supernatural"
 1655,Nerima Daikon Brothers,練馬大根ブラザーズ,7.26,2953.0,6718,winter,2006.0,Comedy
@@ -1086,7 +1649,7 @@
 1836,Shuffle! Memories,シャッフル！メモリーズ,6.52,6699.0,2993,winter,2007.0,"Comedy, Drama, Fantasy, Romance, Ecchi"
 1840,Zero no Tsukaima: Futatsuki no Kishi,ゼロの使い魔 ～双月の騎士～,7.39,2325.0,447,summer,2007.0,"Action, Adventure, Comedy, Fantasy, Romance, Ecchi"
 1842,Major S3,メジャー (第3シリーズ),8.22,353.0,2659,winter,2007.0,Sports
-1852,Hidamari Sketch,ひだまりスケッチ,7.46,2029.0,2423,winter,2007.0,Slice of Life
+1852,Hidamari Sketch,ひだまりスケッチ,7.46,2028.0,2424,winter,2007.0,Slice of Life
 1858,Gakuen Utopia Manabi Straight!,がくえんゆーとぴあ まなびストレート！,7.26,2926.0,4039,winter,2007.0,"Comedy, Slice of Life"
 1860,Tokyo Majin Gakuen Kenpuuchou: Tou,東京魔人學園剣風帖　龖（トウ）,7.04,4025.0,2196,winter,2007.0,"Action, Drama, Horror, Supernatural"
 1863,Silk Road Shounen Yuuto,シルクロード少年 ユート,,13806.0,14853,fall,2006.0,"Adventure, Fantasy"
@@ -1132,7 +1695,7 @@
 2152,Oh! Edo Rocket,大江戸ロケット,7.18,3337.0,5864,spring,2007.0,"Comedy, Drama, Fantasy, Sci-Fi"
 2153,Saint Beast: Kouin Jojishi Tenshi Tan,セイント・ビースト～光陰叙事詩天使譚～,6.3,7962.0,7456,spring,2007.0,Fantasy
 2155,Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e,この青空に約束を― ～ようこそつぐみ寮へ～,6.14,8792.0,4772,spring,2007.0,Romance
-2156,Bakugan Battle Brawlers,爆丸バトルブローラーズ,6.46,7045.0,1987,spring,2007.0,"Action, Fantasy"
+2156,Bakugan Battle Brawlers,爆丸バトルブローラーズ,6.46,7044.0,1991,spring,2007.0,"Action, Fantasy"
 2157,Koutetsushin Jeeg,鋼鉄神ジーグ,6.87,4813.0,7437,spring,2007.0,Sci-Fi
 2158,Terra e... (TV),地球へ…,7.86,874.0,2831,spring,2007.0,"Action, Drama, Sci-Fi"
 2159,Ookiku Furikabutte,おおきく振りかぶって,7.87,848.0,2101,spring,2007.0,Sports
@@ -1181,7 +1744,7 @@
 2787,Shakugan no Shana II (Second),灼眼のシャナII –Second–,7.55,1718.0,791,fall,2007.0,"Action, Drama, Fantasy, Romance"
 2795,Dragonaut: The Resonance,ドラゴノーツ-ザ・レソナンス-,6.57,6388.0,2497,fall,2007.0,"Action, Drama, Fantasy, Romance, Sci-Fi"
 2904,Code Geass: Hangyaku no Lelouch R2,コードギアス 反逆のルルーシュ 続編,8.91,20.0,47,spring,2008.0,"Action, Award Winning, Drama, Sci-Fi"
-2923,Shugo Chara!,しゅごキャラ！,7.4,2256.0,1117,fall,2007.0,"Comedy, Fantasy"
+2923,Shugo Chara!,しゅごキャラ！,7.4,2255.0,1117,fall,2007.0,"Comedy, Fantasy"
 2924,ef: A Tale of Memories.,ef - a tale of memories.,7.87,856.0,965,fall,2007.0,"Drama, Mystery, Romance"
 2926,Myself; Yourself,マイセルフ; ユアセルフ,7.1,3781.0,1301,fall,2007.0,"Drama, Romance"
 2927,KimiKiss Pure Rouge,キミキス pure rouge,7.26,2940.0,2268,fall,2007.0,"Drama, Romance"
@@ -1739,10 +2302,10 @@
 9289,Hanasaku Iroha,花咲くいろは,7.9,797.0,730,spring,2011.0,Drama
 9314,Fractale,フラクタル,6.92,4578.0,2375,winter,2011.0,"Adventure, Fantasy, Sci-Fi"
 9330,Dragon Crisis!,ドラゴンクライシス!,6.61,6215.0,1387,winter,2011.0,"Action, Fantasy, Romance"
-9331,Yumekui Merry,夢喰いメリー,6.9,4688.0,1676,winter,2011.0,"Action, Supernatural"
+9331,Yumekui Merry,夢喰いメリー,6.9,4686.0,1679,winter,2011.0,"Action, Supernatural"
 9367,Freezing,フリージング,6.78,5234.0,752,winter,2011.0,"Action, Drama, Romance, Sci-Fi, Ecchi"
 9379,Denpa Onna to Seishun Otoko,電波女と青春男,7.12,3685.0,797,spring,2011.0,"Comedy, Sci-Fi"
-9479,Coppelion,コッペリオン,6.47,6986.0,1840,fall,2013.0,"Action, Drama, Sci-Fi"
+9479,Coppelion,コッペリオン,6.47,6985.0,1842,fall,2013.0,"Action, Drama, Sci-Fi"
 9493,Dororon Enma-kun Meeramera,Dororonえん魔くん メ〜ラめら,6.45,7076.0,5093,spring,2011.0,"Action, Comedy, Supernatural, Ecchi"
 9510,Mitsudomoe Zouryouchuu!,みつどもえ増量中！,7.65,1380.0,3300,winter,2011.0,Comedy
 9513,Beelzebub,べるぜバブ,7.85,884.0,369,winter,2011.0,"Action, Comedy, Supernatural"
@@ -1804,7 +2367,7 @@
 10338,Honto ni Atta! Reibai Sensei,ほんとにあった! 霊媒先生,6.49,6891.0,7139,spring,2011.0,"Comedy, Supernatural"
 10346,Ring ni Kakero 1: Sekai Taikai-hen,リングにかけろ1 世界大会編,6.28,8048.0,11604,spring,2011.0,Sports
 10347,Happy Kappy,はっぴ〜カッピ,5.43,11822.0,12497,spring,2011.0,"Comedy, Fantasy"
-10348,Fireball Charming,ファイアボール チャーミング,6.75,5402.0,7015,spring,2011.0,Sci-Fi
+10348,Fireball Charming,ファイアボール チャーミング,6.75,5402.0,7016,spring,2011.0,Sci-Fi
 10349,Suzy's Zoo: Daisuki! Witzy,Suzy's Zoo だいすき！ウィッツィー,5.89,10036.0,14756,spring,2011.0,
 10357,Jinrui wa Suitai Shimashita,人類は衰退しました,7.71,1223.0,1269,summer,2012.0,"Adventure, Comedy, Fantasy"
 10359,Jewelpet Sunshine,ジュエルペット サンシャイン,6.62,6144.0,8063,spring,2011.0,"Comedy, Fantasy"
@@ -1869,7 +2432,7 @@
 11239,Hidamari Sketch x Honeycomb,ひだまりスケッチ×ハニカム,7.93,745.0,4556,fall,2012.0,Slice of Life
 11241,Brave 10,ブレイブ・テン,6.74,5457.0,1578,winter,2012.0,"Action, Adventure"
 11285,Black★Rock Shooter (TV),ブラック★ロックシューター,6.79,5206.0,680,winter,2012.0,"Action, Drama, Fantasy"
-11319,Zero no Tsukaima F,ゼロの使い魔F,7.42,2193.0,552,winter,2012.0,"Action, Adventure, Comedy, Fantasy, Romance, Ecchi"
+11319,Zero no Tsukaima F,ゼロの使い魔F,7.42,2192.0,552,winter,2012.0,"Action, Adventure, Comedy, Fantasy, Romance, Ecchi"
 11341,Tantei Opera Milky Holmes Dai 2 Maku,探偵オペラ ミルキィホームズ 第2幕,7.19,3270.0,5059,winter,2012.0,"Comedy, Mystery"
 11371,Shin Tennis no Oujisama,新テニスの王子様,7.54,1729.0,2783,winter,2012.0,Sports
 11385,Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi,デジモンクロスウォーズ 時を駆ける少年ハンターたち,6.41,7342.0,4326,fall,2011.0,"Action, Adventure, Comedy, Fantasy"
@@ -1995,7 +2558,7 @@
 14355,Yama no Susume,ヤマノススメ,6.84,4979.0,2328,winter,2013.0,"Adventure, Slice of Life"
 14397,Chihayafuru 2,ちはやふる 2,8.38,201.0,1039,winter,2013.0,"Drama, Sports"
 14467,K,K,7.42,2160.0,261,fall,2012.0,"Action, Fantasy, Mystery"
-14511,Minami-ke Tadaima,みなみけ ただいま,7.64,1405.0,2942,winter,2013.0,"Comedy, Slice of Life"
+14511,Minami-ke Tadaima,みなみけ ただいま,7.64,1404.0,2943,winter,2013.0,"Comedy, Slice of Life"
 14513,Magi: The Labyrinth of Magic,マギ The labyrinth of magic,8.01,622.0,147,fall,2012.0,"Action, Adventure, Fantasy"
 14515,Sasami-san@Ganbaranai,ささみさん@がんばらない,6.66,5918.0,2394,winter,2013.0,"Comedy, Romance, Supernatural"
 14527,Medaka Box Abnormal,めだかボックス アブノーマル,7.39,2302.0,1610,fall,2012.0,"Action, Comedy, Ecchi"
@@ -2006,7 +2569,7 @@
 14713,Kamisama Hajimemashita,神様はじめました,8.11,482.0,319,fall,2012.0,"Comedy, Fantasy, Romance"
 14719,JoJo no Kimyou na Bouken (TV),ジョジョの奇妙な冒険,7.88,835.0,58,fall,2012.0,"Action, Adventure, Supernatural"
 14741,Chuunibyou demo Koi ga Shitai!,中二病でも恋がしたい!,7.7,1245.0,96,fall,2012.0,"Comedy, Romance"
-14749,Ore no Kanojo to Osananajimi ga Shuraba Sugiru,俺の彼女と幼なじみが修羅場すぎる,6.9,4667.0,400,winter,2013.0,"Comedy, Romance"
+14749,Ore no Kanojo to Osananajimi ga Shuraba Sugiru,俺の彼女と幼なじみが修羅場すぎる,6.9,4667.0,401,winter,2013.0,"Comedy, Romance"
 14765,Ixion Saga DT,イクシオン サーガ DT,7.13,3629.0,1931,fall,2012.0,"Action, Comedy, Fantasy"
 14811,GJ-bu,GJ部,7.29,2767.0,1375,winter,2013.0,Comedy
 14813,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,やはり俺の青春ラブコメはまちがっている。,8.0,633.0,87,spring,2013.0,"Comedy, Romance"
@@ -2015,7 +2578,7 @@
 14833,Maoyuu Maou Yuusha,まおゆう魔王勇者,7.23,3092.0,465,winter,2013.0,"Adventure, Fantasy, Romance"
 14913,Battle Spirits: Sword Eyes,バトルスピリッツ ソードアイズ,6.54,6558.0,10222,fall,2012.0,"Adventure, Fantasy"
 14921,RDG: Red Data Girl,RDG レッドデータガール,6.55,6509.0,1965,spring,2013.0,"Drama, Fantasy, Romance"
-14941,AKB0048: Next Stage,AKB0048 next stage,7.62,1435.0,3739,winter,2013.0,Sci-Fi
+14941,AKB0048: Next Stage,AKB0048 next stage,7.62,1436.0,3739,winter,2013.0,Sci-Fi
 14967,Boku wa Tomodachi ga Sukunai Next,僕は友達が少ないNEXT,7.27,2891.0,424,winter,2013.0,"Comedy, Romance, Ecchi"
 14989,Chousoku Henkei Gyrozetter,超速変形ジャイロゼッター,6.43,7239.0,8050,fall,2012.0,Action
 15043,Haitai Nanafa,はいたい七葉,5.87,10129.0,6212,fall,2012.0,"Comedy, Supernatural"
@@ -2055,7 +2618,7 @@
 15865,Tamagotchi! Yume Kira Dream,たまごっち! ゆめキラドリーム,6.0,9533.0,14124,fall,2012.0,Comedy
 15883,Fantasista Doll,ファンタジスタドール,6.15,8708.0,4313,summer,2013.0,"Fantasy, Sci-Fi"
 15897,Picchipichi Shizuku-chan,ぴっちぴち♪しずくちゃん,,17728.0,17277,fall,2012.0,Comedy
-15905,Qin Shi Mingyue: Wanli Changcheng,秦时明月 肆 万里长城,7.03,4084.0,12519,fall,2012.0,"Action, Fantasy"
+15905,Qin Shi Mingyue: Wanli Changcheng,秦时明月 肆 万里长城,7.03,4083.0,12521,fall,2012.0,"Action, Fantasy"
 15911,Yuyushiki,ゆゆ式,7.35,2502.0,1999,spring,2013.0,Comedy
 16005,Zettai Karen Children: The Unlimited - Hyoubu Kyousuke,絶対可憐チルドレン THE UNLIMITED 兵部京介,7.46,2016.0,1530,winter,2013.0,"Action, Supernatural"
 16009,Kamisama no Inai Nichiyoubi,神さまのいない日曜日,7.28,2836.0,1113,summer,2013.0,"Adventure, Drama, Fantasy, Mystery"
@@ -2067,7 +2630,7 @@
 16123,Saki: Zenkoku-hen,咲-Saki-全国編,7.4,2295.0,3754,winter,2014.0,Slice of Life
 16157,Choujigen Game Neptune The Animation,超次元ゲイム ネプテューヌ THE ANIMATION,6.89,4706.0,1542,summer,2013.0,"Action, Comedy, Fantasy, Sci-Fi"
 16169,Choboraunyopomi Gekijou Ai Mai Mii,ちょぼらうにょぽみ劇場 あいまいみー,5.82,10333.0,4101,winter,2013.0,Comedy
-16201,Aku no Hana,惡の華,7.14,3545.0,1085,spring,2013.0,"Drama, Romance, Suspense"
+16201,Aku no Hana,惡の華,7.14,3546.0,1085,spring,2013.0,"Drama, Romance, Suspense"
 16211,Bakumatsu Gijinden Roman,幕末義人伝 浪漫,6.12,8865.0,6251,winter,2013.0,Fantasy
 16241,"Yondemasu yo, Azazel-san. Z",よんでますよ、アザゼルさん。Z,7.54,1736.0,3574,spring,2013.0,"Comedy, Supernatural"
 16317,Ishida to Asakura,石田とあさくら,5.86,10191.0,5624,winter,2013.0,Comedy
@@ -2075,7 +2638,7 @@
 16353,Love Lab,恋愛ラボ,7.31,2685.0,1204,summer,2013.0,"Comedy, Romance"
 16355,Dansai Bunri no Crime Edge,断裁分離のクライムエッジ,6.66,5887.0,1956,spring,2013.0,"Action, Fantasy, Romance, Suspense"
 16385,Dog Days'',ドッグデイズ'',6.85,4929.0,2540,winter,2015.0,"Action, Adventure, Fantasy"
-16397,Photokano,フォトカノ,6.18,8582.0,1774,spring,2013.0,"Romance, Ecchi"
+16397,Photokano,フォトカノ,6.18,8581.0,1777,spring,2013.0,"Romance, Ecchi"
 16405,"Boku no Imouto wa ""Osaka Okan""",僕の妹は「大阪おかん」,5.74,10718.0,5006,winter,2013.0,"Comedy, Gourmet"
 16417,Tamako Market,たまこまーけっと,7.4,2258.0,541,winter,2013.0,Slice of Life
 16419,Dokidoki! Precure,ドキドキ! プリキュア,6.68,5791.0,4251,winter,2013.0,"Action, Fantasy"
@@ -2095,7 +2658,7 @@
 16908,Ganbare! Oden-kun,がんばれ！おでんくん,,17377.0,17407,winter,2013.0,Comedy
 16910,Namiuchigiwa no Muromi-san,波打際のむろみさん,6.91,4605.0,3507,spring,2013.0,"Comedy, Fantasy, Slice of Life"
 16918,Gin no Saji,銀の匙,8.09,513.0,843,summer,2013.0,Comedy
-16982,Hayate no Gotoku! Cuties,ハヤテのごとく！ Cuties,7.02,4132.0,3346,spring,2013.0,"Comedy, Romance"
+16982,Hayate no Gotoku! Cuties,ハヤテのごとく！ Cuties,7.02,4131.0,3347,spring,2013.0,"Comedy, Romance"
 17074,Monogatari Series: Second Season,〈物語〉シリーズ セカンドシーズン,8.76,42.0,310,summer,2013.0,"Comedy, Mystery, Romance, Supernatural"
 17080,Soukyuu no Fafner: Dead Aggressor - Exodus,蒼穹のファフナー Dead Aggressor EXODUS,7.37,2374.0,4681,winter,2015.0,"Action, Drama, Sci-Fi"
 17082,Aiura,あいうら,6.64,6015.0,2302,spring,2013.0,Slice of Life
@@ -2107,7 +2670,7 @@
 17265,Log Horizon,ログ・ホライズン,7.91,771.0,136,fall,2013.0,"Action, Adventure, Fantasy"
 17267,Futari wa Milky Holmes,ふたりはミルキィホームズ,5.78,10557.0,6178,summer,2013.0,"Comedy, Mystery"
 17353,Tenpou Suikoden Neo,天保水滸伝NEO,4.78,12975.0,13008,winter,2013.0,
-17389,Kingdom 2nd Season,キングダム 第2シリーズ,8.3,273.0,1755,summer,2013.0,Action
+17389,Kingdom 2nd Season,キングダム 第2シリーズ,8.3,273.0,1756,summer,2013.0,Action
 17497,Jewelpet Happiness,ジュエルペット ハッピネス,6.8,5163.0,9049,spring,2013.0,Fantasy
 17505,Mushibugyou,ムシブギョー 蟲奉行,7.29,2776.0,2252,spring,2013.0,"Action, Adventure, Fantasy"
 17513,Diabolik Lovers,DIABOLIK LOVERS,5.19,12427.0,683,fall,2013.0,"Drama, Supernatural"
@@ -2146,7 +2709,7 @@
 18139,Tonari no Seki-kun,となりの関くん,7.53,1782.0,1030,winter,2014.0,Comedy
 18153,Kyoukai no Kanata,境界の彼方,7.72,1187.0,124,fall,2013.0,"Action, Fantasy"
 18155,Line Town,ラインタウン,6.2,8483.0,13542,spring,2013.0,Comedy
-18179,Yowamushi Pedal,弱虫ペダル,7.93,740.0,1055,fall,2013.0,Sports
+18179,Yowamushi Pedal,弱虫ペダル,7.93,741.0,1055,fall,2013.0,Sports
 18191,Boku wa Ousama (TV),ぼくは王さま (2013),,18926.0,16813,spring,2013.0,
 18195,Little Busters! Refrain,リトルバスターズ！～Refrain～,8.18,409.0,1427,fall,2013.0,"Comedy, Drama, Romance, Supernatural"
 18205,World Fool News (TV),ワールド フールニュース,5.87,10112.0,11056,spring,2014.0,"Comedy, Slice of Life"
@@ -2197,12 +2760,12 @@
 19429,Akuma no Riddle,悪魔のリドル,6.59,6289.0,922,spring,2014.0,"Action, Girls Love, Suspense"
 19647,Hajime no Ippo: Rising,はじめの一歩 Rising,8.6,93.0,933,fall,2013.0,Sports
 19685,Kanojo ga Flag wo Oraretara,彼女がフラグをおられたら,6.36,7595.0,1231,spring,2014.0,"Comedy, Romance"
-19703,Kyousou Giga (TV),京騒戯画,7.7,1253.0,1255,fall,2013.0,"Action, Fantasy"
+19703,Kyousou Giga (TV),京騒戯画,7.7,1253.0,1256,fall,2013.0,"Action, Fantasy"
 19755,Oshiri Kajiri Mushi (TV) 2nd Season,おしりかじり虫　第２シリーズ,5.25,12304.0,14339,fall,2013.0,Comedy
 19769,Mahou Sensou,魔法戦争,5.96,9708.0,978,winter,2014.0,"Action, Fantasy"
 19775,Sidonia no Kishi,シドニアの騎士,7.63,1417.0,1066,spring,2014.0,"Action, Sci-Fi"
 19815,No Game No Life,ノーゲーム・ノーライフ,8.06,564.0,17,spring,2014.0,"Comedy, Fantasy, Ecchi"
-19825,Saikyou Ginga Ultimate Zero: Battle Spirits,最強銀河 究極[アルティメット]ゼロ~バトルスピリッツ~,6.48,6934.0,10925,fall,2013.0,Adventure
+19825,Saikyou Ginga Ultimate Zero: Battle Spirits,最強銀河 究極[アルティメット]ゼロ~バトルスピリッツ~,6.48,6931.0,10920,fall,2013.0,Adventure
 19841,Super Seisyun Brothers,Super Seisyun Brothers -超青春姉弟s-,6.7,5673.0,3982,fall,2013.0,"Comedy, Slice of Life"
 19843,Tamagotchi! Miracle Friends,たまごっち！～みらくるフレンズ～,6.05,9252.0,14859,fall,2013.0,"Comedy, Fantasy"
 19855,Nobunagun,ノブナガン,6.66,5914.0,2756,winter,2014.0,"Action, Sci-Fi"
@@ -2249,7 +2812,7 @@
 21267,Go! Go! 575,ゴ～！ゴ～！ご～しちご～,5.62,11241.0,5977,winter,2014.0,Slice of Life
 21273,Gochuumon wa Usagi desu ka?,ご注文はうさぎですか？,7.49,1915.0,1049,spring,2014.0,Slice of Life
 21325,Pupipo!,プピポー！,6.78,5262.0,4758,winter,2014.0,"Comedy, Slice of Life, Supernatural"
-21327,Isshuukan Friends.,一週間フレンズ。,7.52,1812.0,770,spring,2014.0,Comedy
+21327,Isshuukan Friends.,一週間フレンズ。,7.52,1810.0,771,spring,2014.0,Comedy
 21353,Tokyo ESP,東京ESP,6.55,6521.0,1413,summer,2014.0,"Action, Sci-Fi, Supernatural"
 21405,Bokura wa Minna Kawai-sou,僕らはみんな河合荘,7.65,1366.0,615,spring,2014.0,Slice of Life
 21407,Happiness Charge Precure!,ハピネスチャージプリキュア！,6.8,5156.0,5885,winter,2014.0,"Action, Fantasy"
@@ -2396,7 +2959,7 @@
 24705,"Ore, Twintail ni Narimasu.",俺、ツインテールになります。,6.42,7301.0,1482,fall,2014.0,"Action, Comedy, Fantasy, Romance"
 24765,Gakkougurashi!,がっこうぐらし！,7.61,1488.0,503,summer,2015.0,"Horror, Mystery, Slice of Life, Supernatural, Suspense"
 24797,Kubire 3 Shimai,くびれ3姉妹,,16346.0,20662,,,Comedy
-24833,Ansatsu Kyoushitsu,暗殺教室,8.08,528.0,33,winter,2015.0,"Action, Comedy"
+24833,Ansatsu Kyoushitsu,暗殺教室,8.08,527.0,33,winter,2015.0,"Action, Comedy"
 24835,Kidou Senshi Gundam-san,機動戦士ガンダムさん,6.17,8642.0,7100,summer,2014.0,Comedy
 24855,Girlfriend (Kari),ガールフレンド(仮),5.91,9936.0,3423,fall,2014.0,Slice of Life
 24873,Juuou Mujin no Fafnir,銃皇無尽のファフニール,6.16,8663.0,1503,winter,2015.0,"Action, Fantasy, Romance"
@@ -2459,7 +3022,7 @@
 27943,Nano Invaders,ナノ・インベーダーズ,,17281.0,12842,fall,2014.0,"Action, Adventure"
 27989,Hibike! Euphonium,響け！ユーフォニアム,8.02,617.0,487,spring,2015.0,Drama
 27991,K: Return of Kings,K RETURN OF KINGS,7.55,1700.0,728,fall,2015.0,"Action, Fantasy"
-28121,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,ダンジョンに出会いを求めるのは間違っているだろうか,7.54,1743.0,75,spring,2015.0,"Action, Adventure, Fantasy"
+28121,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,ダンジョンに出会いを求めるのは間違っているだろうか,7.54,1744.0,75,spring,2015.0,"Action, Adventure, Fantasy"
 28155,Yoru no Yatterman,夜ノヤッターマン,6.5,6786.0,3979,winter,2015.0,"Action, Adventure, Comedy, Drama"
 28171,Shokugeki no Souma,食戟のソーマ,8.13,471.0,61,spring,2015.0,"Gourmet, Ecchi"
 28207,Ketsuekigata-kun! 2,血液型くん！2,6.38,7504.0,8479,winter,2015.0,Comedy
@@ -2523,7 +3086,7 @@
 30156,Balala Xiao Mo Xian Zhi: Meng Huan Xuan Lu,巴啦啦小魔仙之梦幻旋律,6.2,8459.0,12115,winter,2015.0,"Comedy, Fantasy"
 30173,Fruity Samurai,フルーティー侍,5.51,11581.0,14034,summer,2013.0,"Action, Comedy"
 30187,Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,櫻子さんの足下には死体が埋まっている,7.42,2178.0,1135,fall,2015.0,"Drama, Mystery, Suspense"
-30205,Aoharu x Kikanjuu,青春×機関銃,7.15,3522.0,1122,summer,2015.0,Sports
+30205,Aoharu x Kikanjuu,青春×機関銃,7.15,3523.0,1124,summer,2015.0,Sports
 30232,Tamagotchi! Tamatomo Daishuu GO,たまごっち! たまともだいしゅーGO,,14094.0,15412,spring,2015.0,"Comedy, Fantasy"
 30240,Prison School,監獄学園〈プリズンスクール〉,7.6,1520.0,154,summer,2015.0,"Comedy, Ecchi"
 30251,Venus Project: Climax,VENUS PROJECT（ヴィーナス プロジェクト）－CLIMAX－,5.27,12242.0,7420,summer,2015.0,Action
@@ -2558,7 +3121,7 @@
 30746,Fushigi na Somera-chan,不思議なソメラちゃん,5.86,10185.0,5733,fall,2015.0,"Comedy, Slice of Life"
 30751,Usavich Zero,ウサビッチZERO,6.0,9538.0,11553,spring,2015.0,Comedy
 30777,Kaijuu Sakaba Kanpai!,怪獣酒場カンパーイ!,5.53,11490.0,15047,summer,2015.0,"Comedy, Supernatural"
-30782,Bikini Warriors,ビキニ・ウォリアーズ,5.12,12569.0,2232,summer,2015.0,"Comedy, Fantasy, Ecchi"
+30782,Bikini Warriors,ビキニ・ウォリアーズ,5.12,12570.0,2233,summer,2015.0,"Comedy, Fantasy, Ecchi"
 30826,Suzakinishi The Animation,洲崎西 THE ANIMATION,5.38,11980.0,8380,summer,2015.0,"Comedy, Slice of Life"
 30851,Q Transformers: Saranaru Ninki Mono e no Michi,キュートランスフォーマー さらなる人気者への道,5.45,11786.0,14215,summer,2015.0,Slice of Life
 30875,Washimo 3rd Season,わしも 第3期,,14629.0,18067,spring,2015.0,"Comedy, Sci-Fi, Slice of Life"
@@ -2634,8 +3197,8 @@
 38126,Zhu Zhu Xia: Bai Bian Lian Meng,猪猪侠 百变联盟,,15682.0,18844,winter,2015.0,Sci-Fi
 38127,Zhu Zhu Xia: Wu Ling Shou Wei Zhe,猪猪侠 五灵守卫者,,15700.0,19063,fall,2015.0,Sci-Fi
 38136,Zhu Zhu Xia: Zhong Ji Jue Zhan - Qian Ye Pian,豬豬俠 終極決戰前夜篇,,15707.0,19246,summer,2015.0,Sci-Fi
-38363,Ohayou Hakushon Daimaou,おはようハクション大魔王,5.78,10572.0,16341,spring,2014.0,Comedy
-38538,Huoli Shaonian Wang zhi Chuanqi Zaixian: Xuji,火力少年王之传奇再现续集,,18050.0,19744,,,"Adventure, Fantasy"
+38363,Ohayou Hakushon Daimaou,おはようハクション大魔王,5.78,10570.0,16339,spring,2014.0,Comedy
+38538,Huoli Shaonian Wang zhi Chuanqi Zaixian: Xuji,火力少年王之传奇再现续集,,20667.0,19753,,,"Adventure, Fantasy"
 38571,Tobidase! Dokan-kun,とびだせ！土管くん,,14289.0,19912,fall,2011.0,Comedy
 39138,Hong Mao Lan Tu: Ao You Guo Lixian Ji,虹猫蓝兔奥悠国历险记,,20503.0,20976,spring,2013.0,
 39685,Mabeob Chunjamun,마법천자문,,16628.0,21664,,,Adventure
@@ -2683,11 +3246,11 @@
 45417,Konglong Laile,恐龙来了,,16231.0,23478,summer,2013.0,Fantasy
 45502,Ruyi Ku Bao: Dong Dou Hu,如意酷宝之冻豆虎,,18145.0,24307,fall,2013.0,Fantasy
 45503,Ruyi Ku Bao: Xi Ou Tu,如意酷宝之西欧兔,,18153.0,24484,fall,2013.0,Fantasy
-45504,Ruyi Ku Bao: Fei Li Niu,如意酷宝之菲力牛,,20707.0,24353,fall,2013.0,Fantasy
+45504,Ruyi Ku Bao: Fei Li Niu,如意酷宝之菲力牛,,18146.0,24370,fall,2013.0,Fantasy
 45505,Ruyi Ku Bao: Guai Li Shu,如意酷宝之怪粒鼠,,18147.0,24515,summer,2013.0,Fantasy
 45506,Ruyi Ku Bao: Qiyi Gou,如意酷宝之奇异狗,,18150.0,24398,spring,2013.0,Fantasy
 45507,Ruyi Ku Bao: Shanzhai Ji,如意酷宝之山寨鸡,,18152.0,24278,spring,2013.0,Fantasy
-45508,Ruyi Ku Bao: Mile Hou,如意酷宝之弥勒猴,,20709.0,24033,fall,2012.0,Fantasy
+45508,Ruyi Ku Bao: Mile Hou,如意酷宝之弥勒猴,,18148.0,24054,fall,2012.0,Fantasy
 45509,Ruyi Ku Bao: Ben Ben Zhu,如意酷宝之笨笨猪,,18144.0,24396,summer,2013.0,Fantasy
 45510,Ruyi Ku Bao: Xiao Shen Yang,如意酷宝之小神羊,,18154.0,24178,fall,2012.0,Fantasy
 45511,Ruyi Ku Bao: Qicai She,如意酷宝之七彩蛇,,18149.0,24090,winter,2012.0,Fantasy
@@ -2831,7 +3394,7 @@
 31588,All Out!!,オールアウト!!,7.04,4035.0,1946,fall,2016.0,Sports
 31610,Kyoukai no Rinne 2nd Season,境界のRINNE,7.14,3568.0,3829,spring,2016.0,"Comedy, Supernatural"
 31621,Ooya-san wa Shishunki!,大家さんは思春期！,6.52,6688.0,3122,winter,2016.0,"Comedy, Slice of Life"
-31629,Granblue Fantasy The Animation,GRANBLUE FANTASY The Animation,6.62,6138.0,1220,spring,2017.0,"Action, Adventure, Fantasy"
+31629,Granblue Fantasy The Animation,GRANBLUE FANTASY The Animation,6.62,6137.0,1220,spring,2017.0,"Action, Adventure, Fantasy"
 31630,"Gyakuten Saiban: Sono ""Shinjitsu"", Igi Ari!",逆転裁判 ～その「真実」、異議あり！～,6.52,6723.0,1662,spring,2016.0,"Comedy, Drama, Mystery"
 31631,Monster Hunter Stories: Ride On,モンスターハンターストーリーズ RIDE ON,6.27,8120.0,5438,fall,2016.0,Fantasy
 31633,Sushi Police,SUSHI POLICE（スシポリス）,4.64,13097.0,5732,winter,2016.0,"Comedy, Gourmet, Mystery"
@@ -2909,7 +3472,7 @@
 32494,Days,DAYS,7.16,3457.0,1613,summer,2016.0,Sports
 32526,Love Live! Sunshine!!,ラブライブ！サンシャイン!!,7.39,2299.0,1320,summer,2016.0,Slice of Life
 32542,Sakamoto desu ga?,坂本ですが？,7.54,1727.0,254,spring,2016.0,Comedy
-32555,Stella no Mahou,ステラのまほう,6.85,4910.0,3582,fall,2016.0,Comedy
+32555,Stella no Mahou,ステラのまほう,6.85,4909.0,3581,fall,2016.0,Comedy
 32568,Kamiwaza Wanda,カミワザ・ワンダ,,18548.0,14998,spring,2016.0,Sci-Fi
 32571,Shounen Ashibe: Go! Go! Goma-chan,少年アシベ GO！GO！ゴマちゃん,6.12,8898.0,10221,spring,2016.0,"Comedy, Slice of Life"
 32572,Neko Neko Nihonshi,ねこねこ日本史,6.22,8358.0,9839,spring,2016.0,
@@ -2932,7 +3495,7 @@
 32682,Kagewani: Shou,影鰐-KAGEWANI-承,6.41,7355.0,5051,spring,2016.0,"Horror, Mystery, Supernatural"
 32686,Keijo!!!!!!!!,競女!!!!!!!!,6.91,4597.0,580,fall,2016.0,"Sports, Ecchi"
 32691,Flowering Heart,플라워링하트,6.02,9425.0,8342,winter,2016.0,
-32696,Fukigen na Mononokean,不機嫌なモノノケ庵,7.42,2200.0,1726,summer,2016.0,"Comedy, Supernatural"
+32696,Fukigen na Mononokean,不機嫌なモノノケ庵,7.42,2200.0,1725,summer,2016.0,"Comedy, Supernatural"
 32697,Ozmafia!!,オズマフィア,5.46,11746.0,4878,summer,2016.0,"Comedy, Fantasy"
 32717,Aikatsu Stars!,アイカツスターズ！,7.61,1477.0,4880,spring,2016.0,Slice of Life
 32729,Orange,orange（オレンジ）,7.62,1456.0,221,summer,2016.0,"Drama, Romance, Sci-Fi"
@@ -3058,7 +3621,7 @@
 33771,Cheating Craft,チーティングクラフト,5.38,11992.0,2651,fall,2016.0,"Action, Comedy"
 33775,Soul Buster,侍霊演武[ソウルバスター],5.73,10761.0,4796,fall,2016.0,Action
 33788,Marginal#4: Kiss kara Tsukuru Big Bang,MARGINAL#4 KISSから創造るBig Bang,6.65,5968.0,5300,winter,2017.0,Comedy
-33795,Mahou Shoujo Nante Mou Ii desu kara. Second Season,魔法少女なんてもういいですから。 セカンドシーズン,6.07,9140.0,5729,fall,2016.0,Comedy
+33795,Mahou Shoujo Nante Mou Ii desu kara. Second Season,魔法少女なんてもういいですから。 セカンドシーズン,6.07,9139.0,5729,fall,2016.0,Comedy
 33797,ID-0,ID-0,6.5,6801.0,4780,spring,2017.0,Sci-Fi
 33803,Sengoku Choujuu Giga: Kou,戦国鳥獣戯画~甲~,5.84,10279.0,7839,fall,2016.0,Supernatural
 33811,Teekyuu 8,てーきゅう 8期,6.61,6190.0,5439,fall,2016.0,Comedy
@@ -3080,7 +3643,7 @@
 33985,Bloodivores,BLOODIVORES,5.47,11714.0,1993,fall,2016.0,"Action, Mystery, Supernatural"
 33988,Demi-chan wa Kataritai,亜人ちゃんは語りたい,7.53,1758.0,561,winter,2017.0,"Comedy, Fantasy"
 34009,To Be Hero,TO BE HERO,6.95,4429.0,2798,fall,2016.0,Comedy
-34012,Isekai Shokudou,異世界食堂,7.4,2278.0,955,summer,2017.0,"Fantasy, Gourmet, Slice of Life"
+34012,Isekai Shokudou,異世界食堂,7.4,2278.0,953,summer,2017.0,"Fantasy, Gourmet, Slice of Life"
 34013,Hagane Orchestra,はがねオーケストラ,5.5,11621.0,8460,fall,2016.0,"Adventure, Comedy"
 34019,Tsugumomo,つぐもも,7.04,4027.0,1206,spring,2017.0,"Action, Comedy, Supernatural, Ecchi"
 34028,Idol Jihen,アイドル事変,5.69,10927.0,5550,winter,2017.0,
@@ -3097,7 +3660,7 @@
 34104,Knight's & Magic,ナイツ&マジック,7.07,3913.0,929,summer,2017.0,"Action, Fantasy"
 34106,Kyoukai no Rinne 3rd Season,境界のRINNE,7.06,3933.0,4644,spring,2017.0,"Comedy, Supernatural"
 34126,Rewrite 2nd Season,Rewrite 2ndシーズン,7.18,3348.0,1919,winter,2017.0,"Action, Comedy, Romance, Supernatural"
-34134,One Punch Man 2nd Season,ワンパンマン,7.52,1822.0,56,spring,2019.0,"Action, Comedy"
+34134,One Punch Man 2nd Season,ワンパンマン,7.52,1821.0,56,spring,2019.0,"Action, Comedy"
 34148,Nyanko Days,にゃんこデイズ,6.63,6072.0,2563,winter,2017.0,"Comedy, Slice of Life"
 34156,PePePePengiin,ペペペペン議員,5.4,11925.0,15210,fall,2016.0,Comedy
 34176,Zero kara Hajimeru Mahou no Sho,ゼロから始める魔法の書,7.06,3954.0,914,spring,2017.0,"Action, Adventure, Fantasy"
@@ -3147,7 +3710,7 @@
 34503,KochinPa! Dainiki,コチンPa! 第二期,4.47,13206.0,12236,winter,2017.0,Comedy
 34522,"Wake Up, Girls! Shin Shou","Wake Up, Girls！新章",6.55,6525.0,5601,fall,2017.0,Drama
 34525,Centaur no Nayami,セントールの悩み,6.42,7264.0,2216,summer,2017.0,"Fantasy, Slice of Life"
-34542,Inuyashiki,いぬやしき,7.63,1433.0,329,fall,2017.0,"Action, Drama, Sci-Fi, Suspense"
+34542,Inuyashiki,いぬやしき,7.63,1434.0,329,fall,2017.0,"Action, Drama, Sci-Fi, Suspense"
 34543,Dive!!,DIVE!!,6.08,9099.0,3085,summer,2017.0,"Drama, Sports"
 34547,Shoukoku no Altair,将国のアルタイル,7.55,1682.0,2470,summer,2017.0,"Adventure, Drama, Fantasy"
 34550,Warau Salesman New,笑ゥせぇるすまんNEW,6.28,8066.0,5038,spring,2017.0,"Comedy, Drama"
@@ -3162,7 +3725,7 @@
 34618,Blend S,ブレンド・S,7.25,2996.0,318,fall,2017.0,Comedy
 34620,Kono Yo no Hate de Koi wo Utau Shoujo YU-NO,この世の果てで恋を唄う少女YU-NO,6.59,6312.0,1482,spring,2019.0,"Drama, Sci-Fi"
 34636,Ballroom e Youkoso,ボールルームへようこそ,8.18,398.0,711,summer,2017.0,Sports
-34662,Fate/Apocrypha,Fate/Apocrypha,7.19,3290.0,477,summer,2017.0,"Action, Fantasy, Supernatural"
+34662,Fate/Apocrypha,Fate/Apocrypha,7.19,3289.0,476,summer,2017.0,"Action, Fantasy, Supernatural"
 34664,Capsule Boy,캡슐보이,,19058.0,19466,spring,2016.0,Sci-Fi
 34667,Kemy Tamheomdae,깨미탐험대,,16061.0,20239,summer,2016.0,Adventure
 34669,Balala Xiao Mo Xian: Feiyue Cai Ling Bao 2nd Season,巴啦啦小魔仙之飞越彩灵堡 第2季,5.95,9763.0,14289,spring,2017.0,"Comedy, Fantasy"
@@ -3231,7 +3794,7 @@
 35248,18if,18if,6.12,8858.0,2960,summer,2017.0,"Mystery, Supernatural"
 35249,Uma Musume: Pretty Derby,ウマ娘 プリティーダービー,7.3,2733.0,1620,spring,2018.0,Sports
 35250,Urahara,URAHARA,5.78,10538.0,3781,fall,2017.0,"Comedy, Fantasy, Sci-Fi"
-35251,Sengoku Night Blood,戦刻ナイトブラッド,6.15,8734.0,3327,fall,2017.0,"Fantasy, Romance"
+35251,Sengoku Night Blood,戦刻ナイトブラッド,6.15,8732.0,3328,fall,2017.0,"Fantasy, Romance"
 35252,Hatena☆Illusion,はてな☆イリュージョン,5.41,11902.0,3417,winter,2020.0,"Comedy, Romance, Supernatural"
 35254,Time Bokan: Gyakushuu no San Akunin,タイムボカン 逆襲の三悪人,5.89,10039.0,11421,fall,2017.0,"Adventure, Comedy"
 35295,Washimo 5th Season,わしも-wasimo-(第5シリーズ),,14631.0,18373,spring,2017.0,"Comedy, Sci-Fi, Slice of Life"
@@ -3284,7 +3847,7 @@
 35839,Sora yori mo Tooi Basho,宇宙よりも遠い場所,8.51,134.0,442,winter,2018.0,"Adventure, Comedy, Drama"
 35843,Gintama.: Porori-hen,銀魂。ポロリ編,8.52,128.0,1199,fall,2017.0,"Action, Comedy, Sci-Fi"
 35847,SSSS.Gridman,SSSS.GRIDMAN,7.13,3602.0,823,fall,2018.0,"Action, Award Winning, Sci-Fi"
-35849,Darling in the FranXX,ダーリン・イン・ザ・フランキス,7.19,3287.0,60,winter,2018.0,"Action, Drama, Romance, Sci-Fi"
+35849,Darling in the FranXX,ダーリン・イン・ザ・フランキス,7.19,3286.0,60,winter,2018.0,"Action, Drama, Romance, Sci-Fi"
 35857,Lupin III: Part 5,ルパン三世 PART5,8.13,465.0,3376,spring,2018.0,"Action, Adventure, Comedy, Mystery"
 35860,Karakai Jouzu no Takagi-san,からかい上手の高木さん,7.69,1265.0,375,winter,2018.0,Comedy
 35883,Cinderella Girls Gekijou 2nd Season,シンデレラガールズ劇場 第2期,6.62,6125.0,6688,fall,2017.0,"Comedy, Slice of Life"
@@ -3311,7 +3874,7 @@
 36022,Cardfight!! Vanguard G Z,CARDFIGHT!! ヴァンガードG Z,6.55,6537.0,6840,fall,2017.0,Action
 36023,Persona 5 the Animation,TVアニメ「ペルソナ５」,6.43,7208.0,950,spring,2018.0,"Action, Supernatural"
 36027,Ousama Game The Animation,王様ゲーム The Animation,5.07,12655.0,999,fall,2017.0,"Drama, Horror, Mystery, Supernatural, Suspense"
-36028,Golden Kamuy,ゴールデンカムイ,7.88,833.0,590,spring,2018.0,"Action, Adventure"
+36028,Golden Kamuy,ゴールデンカムイ,7.88,831.0,589,spring,2018.0,"Action, Adventure"
 36029,Hakyuu Houshin Engi,覇穹 封神演義,5.38,12002.0,4858,winter,2018.0,"Action, Adventure, Fantasy"
 36036,Running Man,런닝맨,,18136.0,19438,summer,2017.0,"Action, Adventure"
 36037,Senran Kagura Shinovi Master: Tokyo Youma-hen,閃乱カグラ SHINOVI MASTER -東京妖魔篇-,6.32,7847.0,3345,fall,2018.0,"Action, Comedy, Ecchi"
@@ -3474,7 +4037,7 @@
 37475,Kishuku Gakkou no Juliet,寄宿学校のジュリエット,7.45,2046.0,639,fall,2018.0,"Action, Comedy, Romance"
 37476,Cardfight!! Vanguard (2018),カードファイト!! ヴァンガード (2018),6.73,5525.0,5691,spring,2018.0,Action
 37481,Ongaku Shoujo (TV),音楽少女,5.98,9588.0,5302,summer,2018.0,Slice of Life
-37484,Duel Masters!,デュエル・マスターズ!,5.77,10613.0,12353,spring,2018.0,"Action, Adventure, Comedy, Fantasy"
+37484,Duel Masters!,デュエル・マスターズ!,5.77,10613.0,12356,spring,2018.0,"Action, Adventure, Comedy, Fantasy"
 37487,Muhyo to Rouji no Mahouritsu Soudan Jimusho,ムヒョとロージーの魔法律相談事務所,6.71,5641.0,3087,summer,2018.0,"Mystery, Supernatural"
 37490,"Gyakuten Saiban: Sono ""Shinjitsu"", Igi Ari! Season 2",逆転裁判 ～その「真実」、異議あり！～ Season 2,7.17,3396.0,3502,fall,2018.0,"Comedy, Drama, Mystery"
 37491,Gintama.: Shirogane no Tamashii-hen - Kouhan-sen,銀魂. 銀ノ魂篇 後半戦,8.88,24.0,1214,summer,2018.0,"Action, Comedy, Sci-Fi"
@@ -3493,7 +4056,7 @@
 37561,Akanesasu Shoujo,あかねさす少女,6.43,7224.0,3737,fall,2018.0,"Action, Sci-Fi"
 37569,Sirius,天狼〈シリウス〉 Sirius the Jaeger,6.96,4416.0,990,summer,2018.0,"Action, Supernatural"
 37571,Senjuushi,千銃士,4.91,12846.0,5712,summer,2018.0,Action
-37576,Majutsushi Orphen Hagure Tabi,魔術士オーフェンはぐれ旅,5.84,10269.0,2613,winter,2020.0,"Action, Adventure, Drama, Fantasy"
+37576,Majutsushi Orphen Hagure Tabi,魔術士オーフェンはぐれ旅,5.83,10286.0,2608,winter,2020.0,"Action, Adventure, Drama, Fantasy"
 37578,Planet With,プラネット・ウィズ,7.15,3498.0,2932,summer,2018.0,"Action, Sci-Fi"
 37579,Tonari no Kyuuketsuki-san,となりの吸血鬼さん,7.09,3815.0,2015,fall,2018.0,"Comedy, Supernatural"
 37584,Bakumatsu,BAKUMATSU,5.73,10732.0,4543,fall,2018.0,Action
@@ -3611,7 +4174,7 @@
 38390,Chuubyou Gekihatsu Boy,厨病激発ボーイ,6.76,5371.0,3262,fall,2019.0,Comedy
 38397,Nande Koko ni Sensei ga!?,なんでここに先生が!?,6.5,6816.0,672,spring,2019.0,"Comedy, Ecchi"
 38408,Boku no Hero Academia 4th Season,僕のヒーローアカデミア,7.87,854.0,54,fall,2019.0,Action
-38427,Daifuku-kun@Kin Tele,大福くん＠きんてれ,,16811.0,18953,fall,2018.0,Comedy
+38427,Daifuku-kun@Kin Tele,大福くん＠きんてれ,,19428.0,18938,fall,2018.0,Comedy
 38449,Choujigen Kakumei Anime: Dimension High School,超次元革命アニメ Dimensionハイスクール,5.12,12574.0,6631,winter,2019.0,Fantasy
 38451,Reizouko no Tsukenosuke!,れいぞうこのつけのすけ！,,18030.0,18199,fall,2018.0,Comedy
 38472,Isekai Quartet,異世界かるてっと,7.38,2357.0,613,spring,2019.0,"Comedy, Fantasy"
@@ -3620,10 +4183,10 @@
 38481,Toaru Kagaku no Railgun T,とある科学の超電磁砲[レールガン]T,8.15,441.0,1053,winter,2020.0,"Action, Fantasy, Sci-Fi"
 38483,Ore wo Suki nano wa Omae dake ka yo,俺を好きなのはお前だけかよ,7.3,2705.0,494,fall,2019.0,"Comedy, Romance"
 38524,Shingeki no Kyojin Season 3 Part 2,進撃の巨人 Season3 Part.2,9.05,5.0,21,spring,2019.0,"Action, Drama, Suspense"
-38526,Chuldong! Super Wings 2,출동! 슈퍼윙스2,5.77,10610.0,17851,spring,2017.0,Adventure
+38526,Chuldong! Super Wings 2,출동! 슈퍼윙스2,5.77,10610.0,17863,spring,2017.0,Adventure
 38529,Rifle Is Beautiful,ライフル・イズ・ビューティフル,6.2,8491.0,3631,fall,2019.0,"Comedy, Sports"
 38537,Huoli Shaonian Wang zhi You Quan Yingxiong,火力少年王之悠拳英雄,,20668.0,20019,,,
-38544,Egao no Daika,エガオノダイカ,6.03,9361.0,3689,winter,2019.0,"Action, Drama, Fantasy, Sci-Fi"
+38544,Egao no Daika,エガオノダイカ,6.03,9361.0,3688,winter,2019.0,"Action, Drama, Fantasy, Sci-Fi"
 38549,TV Yarou Nanaana,テレビ野郎 ナナーナ,6.35,7627.0,11470,spring,2018.0,"Adventure, Comedy"
 38555,Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...,乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…,7.46,2038.0,498,spring,2020.0,"Comedy, Fantasy, Romance"
 38560,Sylvanian Families: Mini Story 2nd Season,シルバニアファミリー ミニストーリー 第2期,,14024.0,18910,fall,2018.0,Slice of Life
@@ -3670,7 +4233,7 @@
 38940,Cop Craft,COP CRAFT [コップクラフト],6.71,5609.0,1857,summer,2019.0,"Action, Fantasy, Mystery, Sci-Fi"
 38959,Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note,ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-,7.38,2359.0,1535,summer,2019.0,"Fantasy, Mystery, Supernatural"
 38992,Rikei ga Koi ni Ochita no de Shoumei shitemita.,理系が恋に落ちたので証明してみた。,7.35,2486.0,676,winter,2020.0,"Comedy, Romance"
-38993,Karakai Jouzu no Takagi-san 2,からかい上手の高木さん2,8.04,584.0,721,summer,2019.0,Comedy
+38993,Karakai Jouzu no Takagi-san 2,からかい上手の高木さん2,8.04,584.0,720,summer,2019.0,Comedy
 39003,Kyou mo Tsuno ga Aru,今日もツノがある,,16409.0,15679,winter,2019.0,Comedy
 39007,Kawauso Labo,カワウソラボ,,16030.0,13742,winter,2019.0,Comedy
 39012,Capsule Boy 2: Ujuleul Jikyeola,캡슐보이2 우주를 지켜라,,16442.0,20122,winter,2019.0,Sci-Fi
@@ -3707,7 +4270,7 @@
 39456,Sounan desu ka?,ソウナンですか?,6.59,6277.0,1488,summer,2019.0,"Adventure, Comedy, Suspense"
 39457,Shounen Ashibe: Go! Go! Goma-chan 4,少年アシベ GO! GO! ゴマちゃん 4,5.8,10445.0,14687,spring,2019.0,"Comedy, Slice of Life"
 39463,Gleipnir,グレイプニル,6.97,4379.0,463,spring,2020.0,"Action, Mystery, Supernatural, Ecchi"
-39468,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,本好きの下剋上 ～司書になるためには手段を選んでいられません～,7.98,661.0,774,fall,2019.0,Fantasy
+39468,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen,本好きの下剋上 ～司書になるためには手段を選んでいられません～,7.98,661.0,773,fall,2019.0,Fantasy
 39469,Tsugu Tsugumomo,継つぐもも,7.41,2251.0,1958,spring,2020.0,"Action, Comedy, Supernatural, Ecchi"
 39491,Psycho-Pass 3,PSYCHO-PASS サイコパス 3,7.44,2115.0,902,fall,2019.0,"Action, Mystery, Sci-Fi, Suspense"
 39506,Phantasy Star Online 2: Episode Oracle,ファンタシースターオンライン2 エピソード・オラクル,6.5,6820.0,4413,fall,2019.0,"Action, Sci-Fi"
@@ -3790,7 +4353,7 @@
 40272,A3! Season Autumn & Winter,A3! SEASON AUTUMN & WINTER,7.25,2990.0,4662,fall,2020.0,Drama
 40320,Tenka Hyakken: Meiji-kan e Youkoso!,天華百剣 ~めいじ館へようこそ!~,5.0,12731.0,6859,fall,2019.0,"Action, Adventure, Fantasy, Supernatural"
 40358,Gal to Kyouryuu,ギャルと恐竜,6.44,7159.0,3949,spring,2020.0,Comedy
-40359,Ikebukuro West Gate Park,池袋ウエストゲートパーク,6.87,4807.0,1846,fall,2020.0,"Drama, Mystery"
+40359,Ikebukuro West Gate Park,池袋ウエストゲートパーク,6.87,4807.0,1848,fall,2020.0,"Drama, Mystery"
 40367,Go! Go! Atom,GO!GO!アトム,5.81,10402.0,13336,fall,2019.0,"Action, Adventure, Drama, Sci-Fi"
 40368,Egg Car,EGG CAR エッグカー,,17151.0,18306,fall,2019.0,"Adventure, Comedy, Fantasy"
 40392,Runway de Waratte,ランウェイで笑って,7.56,1667.0,1753,winter,2020.0,Drama
@@ -3809,7 +4372,7 @@
 40504,Major 2nd 2nd Season,メジャーセカンド,7.46,2034.0,4726,spring,2020.0,Sports
 40513,Nami yo Kiitekure,波よ聞いてくれ,7.34,2538.0,2331,spring,2020.0,"Comedy, Drama"
 40529,No Guns Life 2nd Season,ノー・ガンズ・ライフ,7.08,3863.0,2413,summer,2020.0,"Action, Drama, Sci-Fi"
-40532,Appare-Ranman!,天晴爛漫！,7.25,2994.0,1738,spring,2020.0,Comedy
+40532,Appare-Ranman!,天晴爛漫！,7.25,2995.0,1738,spring,2020.0,Comedy
 40540,Sword Art Online: Alicization - War of Underworld 2nd Season,ソードアート・オンライン アリシゼーション War of Underworld,7.49,1901.0,350,summer,2020.0,"Action, Adventure, Fantasy"
 40550,Assault Lily: Bouquet,アサルトリリィ Bouquet,6.49,6874.0,2305,fall,2020.0,"Action, Fantasy"
 40571,Majo no Tabitabi,魔女の旅々,7.56,1658.0,571,fall,2020.0,"Adventure, Fantasy"
@@ -3820,7 +4383,7 @@
 40677,Argonavis from BanG Dream!,アルゴナビス from BanG Dream!,6.71,5602.0,6033,spring,2020.0,Drama
 40708,Monster Musume no Oishasan,モンスター娘のお医者さん,6.53,6663.0,1108,summer,2020.0,"Comedy, Fantasy, Romance, Ecchi"
 40716,Kakushigoto,かくしごと,7.97,680.0,732,spring,2020.0,Comedy
-40738,Natsunagu!,なつなぐ!,5.87,10144.0,4560,winter,2020.0,"Drama, Slice of Life"
+40738,Natsunagu!,なつなぐ!,5.87,10140.0,4562,winter,2020.0,"Drama, Slice of Life"
 40758,Hulaing Babies Petit,フライングベイビーズ☆プチ,5.36,12039.0,13658,winter,2020.0,"Comedy, Slice of Life"
 40763,Show By Rock!! Mashumairesh!!,SHOW BY ROCK!!ましゅまいれっしゅ!!,7.04,4019.0,5339,winter,2020.0,"Comedy, Fantasy"
 40776,Haikyuu!! To the Top Part 2,ハイキュー TO THE TOP 第2クール,8.55,116.0,222,fall,2020.0,Sports
@@ -3886,7 +4449,7 @@
 42668,Taisou Zamurai,体操ザムライ,7.23,3112.0,2912,fall,2020.0,Sports
 42717,Kaeru no Pickles: Kimochi no Iro,かえるのピクルス -きもちのいろ-,5.36,12043.0,13739,fall,2020.0,Slice of Life
 42740,Ji Jia Shou Shen: Baolie Feiche,机甲兽神之爆裂飞车,,20805.0,17832,spring,2016.0,"Action, Adventure"
-42979,Zhandou Wang Zhi Jufeng Zhan Hun 5: Heti Fanwai Pian,战斗王之飓风战魂5合体番外篇,,15561.0,18563,winter,2020.0,Action
+42979,Zhandou Wang Zhi Jufeng Zhan Hun 5: Heti Fanwai Pian,战斗王之飓风战魂5合体番外篇,,15566.0,18572,winter,2020.0,Action
 43350,Gebäude Bäude,ゲボイデ＝ボイデ,6.06,9199.0,12269,fall,2020.0,"Comedy, Sci-Fi"
 43611,Xin Hulu Xiongdi,新葫蘆兄弟,,15093.0,21519,summer,2016.0,
 44002,Xi Yangyang Yu Hui Tailang: Yiguo Da Yingjiu,喜羊羊與灰太狼之異國大營救,,14808.0,20193,summer,2020.0,"Adventure, Comedy"
@@ -4029,7 +4592,7 @@
 36458,Soukou Musume Senki,装甲娘戦機,5.78,10531.0,5432,winter,2021.0,"Action, Fantasy"
 37008,Tsukipro The Animation 2,TSUKIPRO THE ANIMATION 2,6.39,7464.0,7245,summer,2021.0,
 37984,"Kumo desu ga, Nani ka?",蜘蛛ですが、なにか？,7.45,2047.0,514,winter,2021.0,"Action, Adventure, Comedy, Fantasy, Mystery"
-38006,Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches,連盟空軍航空魔法音楽隊 ルミナスウィッチーズ,6.67,5844.0,4584,summer,2022.0,Sci-Fi
+38006,Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches,連盟空軍航空魔法音楽隊 ルミナスウィッチーズ,6.67,5844.0,4585,summer,2022.0,Sci-Fi
 38192,Sakugan,サクガン,6.51,6767.0,2096,fall,2021.0,"Action, Adventure, Sci-Fi"
 38440,Shikizakura,シキザクラ,5.83,10296.0,5256,fall,2021.0,"Action, Drama, Sci-Fi"
 38474,Yuru Camp△ Season 2,ゆるキャン△ SEASON2,8.51,136.0,1080,winter,2021.0,Slice of Life
@@ -4044,17 +4607,18 @@
 39783,5-toubun no Hanayome ∬,五等分の花嫁∬,8.03,593.0,280,winter,2021.0,"Comedy, Romance"
 39808,Non Non Biyori Nonstop,のんのんびより のんすとっぷ,8.36,220.0,1781,winter,2021.0,Slice of Life
 39893,Muteking the Dancing Hero,MUTEKING THE Dancing HERO,5.83,10292.0,7676,fall,2021.0,"Action, Comedy, Sci-Fi"
+39894,Hibike! Euphonium 3,響け！ユーフォニアム3,8.74,47.0,2641,spring,2024.0,Drama
 39917,Sabiiro no Armor: Reimei,錆色のアーマ-黎明-,3.84,13338.0,7802,winter,2022.0,Action
 40174,Zombieland Saga Revenge,ゾンビランドサガ リベンジ,8.0,634.0,1134,spring,2021.0,"Comedy, Supernatural"
-40356,Tate no Yuusha no Nariagari Season 2,盾の勇者の成り上がり Season2,6.52,6703.0,256,spring,2022.0,"Action, Adventure, Drama, Fantasy"
+40356,Tate no Yuusha no Nariagari Season 2,盾の勇者の成り上がり Season2,6.52,6704.0,256,spring,2022.0,"Action, Adventure, Drama, Fantasy"
 40357,Tate no Yuusha no Nariagari Season 3,盾の勇者の成り上がり Season 3,7.11,3741.0,526,fall,2023.0,"Action, Adventure, Drama, Fantasy"
 40488,Futsal Boys!!!!!,フットサルボーイズ!!!!!,5.46,11732.0,3969,winter,2022.0,Sports
 40507,Arifureta Shokugyou de Sekai Saikyou 2nd Season,ありふれた職業で世界最強 2nd Season,7.16,3448.0,609,winter,2022.0,"Action, Adventure, Fantasy"
 40526,"Dragon, Ie wo Kau.",ドラゴン、家を買う。,6.42,7270.0,2832,spring,2021.0,"Comedy, Fantasy"
 40530,Jaku-Chara Tomozaki-kun,弱キャラ友崎くん,7.12,3697.0,598,winter,2021.0,"Drama, Romance"
-40586,"Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",スライム倒して300年、知らないうちにレベルMAXになってました,6.92,4554.0,607,spring,2021.0,"Comedy, Fantasy"
-40590,Utawarerumono: Futari no Hakuoro,うたわれるもの 二人の白皇,7.52,1797.0,3729,summer,2022.0,"Action, Drama, Fantasy"
-40594,Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari,たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語,6.33,7768.0,870,winter,2021.0,"Adventure, Fantasy"
+40586,"Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",スライム倒して300年、知らないうちにレベルMAXになってました,6.92,4555.0,607,spring,2021.0,"Comedy, Fantasy"
+40590,Utawarerumono: Futari no Hakuoro,うたわれるもの 二人の白皇,7.52,1796.0,3731,summer,2022.0,"Action, Drama, Fantasy"
+40594,Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari,たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語,6.33,7766.0,870,winter,2021.0,"Adventure, Fantasy"
 40608,Muv-Luv Alternative,マブラヴ オルタネイティヴ,5.84,10271.0,3505,fall,2021.0,"Action, Drama, Sci-Fi"
 40620,Uramichi Oniisan,うらみちお兄さん,7.7,1240.0,1034,summer,2021.0,Comedy
 40679,2.43: Seiin Koukou Danshi Volley-bu,2.43 清陰高校男子バレー部,6.14,8769.0,1952,winter,2021.0,"Drama, Sports"
@@ -4066,17 +4630,17 @@
 40834,Ousama Ranking,王様ランキング,8.51,132.0,322,fall,2021.0,"Adventure, Fantasy"
 40842,Idoly Pride,IDOLY PRIDE,7.42,2206.0,2693,winter,2021.0,Drama
 40852,Dr. Stone: Stone Wars,ドクターストーン STONE WARS,8.16,434.0,145,winter,2021.0,"Adventure, Comedy, Sci-Fi"
-40870,SSSS.Dynazenon,SSSS.DYNAZENON,7.42,2185.0,1717,spring,2021.0,"Action, Sci-Fi"
+40870,SSSS.Dynazenon,SSSS.DYNAZENON,7.42,2184.0,1717,spring,2021.0,"Action, Sci-Fi"
 40904,Bokutachi no Remake,ぼくたちのリメイク,7.4,2267.0,693,summer,2021.0,"Drama, Romance"
-40907,World Trigger 2nd Season,ワールドトリガー,8.05,573.0,1533,winter,2021.0,"Action, Sci-Fi"
+40907,World Trigger 2nd Season,ワールドトリガー,8.05,573.0,1532,winter,2021.0,"Action, Sci-Fi"
 40908,Kemono Jihen,怪物事変,7.37,2405.0,628,winter,2021.0,"Action, Fantasy, Mystery"
-40930,Azur Lane: Bisoku Zenshin!,アズールレーン びそくぜんしんっ!,7.01,4190.0,3120,winter,2021.0,"Comedy, Sci-Fi"
+40930,Azur Lane: Bisoku Zenshin!,アズールレーン びそくぜんしんっ!,7.01,4189.0,3125,winter,2021.0,"Comedy, Sci-Fi"
 40935,Beastars 2nd Season,BEASTARS 2期,7.77,1064.0,512,winter,2021.0,"Drama, Suspense"
 40938,Hige wo Soru. Soshite Joshikousei wo Hirou.,ひげを剃る。そして女子高生を拾う。,7.27,2905.0,356,spring,2021.0,"Drama, Romance"
 40957,Shin Chuuka Ichiban! 2nd Season,真・中華一番!,6.66,5924.0,8134,winter,2021.0,"Comedy, Gourmet"
 40960,Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore,チート薬師のスローライフ～異世界に作ろうドラッグストア～,6.46,7046.0,1597,summer,2021.0,"Comedy, Fantasy"
 40961,Hortensia Saga,オルタンシア・サーガ,5.84,10262.0,2670,winter,2021.0,"Action, Adventure, Fantasy"
-40964,Back Arrow,バック・アロウ,6.33,7728.0,3542,winter,2021.0,"Action, Fantasy"
+40964,Back Arrow,バック・アロウ,6.33,7727.0,3545,winter,2021.0,"Action, Fantasy"
 41025,Fumetsu no Anata e,不滅のあなたへ,8.34,235.0,197,spring,2021.0,"Adventure, Drama, Supernatural"
 41084,Made in Abyss: Retsujitsu no Ougonkyou,メイドインアビス 烈日の黄金郷,8.62,87.0,501,summer,2022.0,"Adventure, Drama, Fantasy, Mystery, Sci-Fi"
 41103,Koi to Yobu ni wa Kimochi Warui,恋と呼ぶには気持ち悪い,7.13,3632.0,1019,spring,2021.0,"Comedy, Romance"
@@ -4090,7 +4654,7 @@
 41461,Date A Live IV,デート・ア・ライブⅣ,7.76,1087.0,962,spring,2022.0,"Action, Fantasy, Romance, Sci-Fi"
 41467,Bleach: Sennen Kessen-hen,BLEACH 千年血戦篇,9.01,10.0,394,fall,2022.0,"Action, Adventure, Fantasy"
 41487,Tensei shitara Slime Datta Ken 2nd Season Part 2,転生したらスライムだった件,8.32,253.0,250,summer,2021.0,"Action, Adventure, Comedy, Fantasy"
-41488,Tensura Nikki: Tensei shitara Slime Datta Ken,転スラ日記 転生したらスライムだった件,7.59,1567.0,698,spring,2021.0,"Comedy, Fantasy"
+41488,Tensura Nikki: Tensei shitara Slime Datta Ken,転スラ日記 転生したらスライムだった件,7.59,1566.0,700,spring,2021.0,"Comedy, Fantasy"
 41491,Nanatsu no Taizai: Funnu no Shinpan,七つの大罪 憤怒の審判,6.57,6410.0,534,winter,2021.0,"Action, Adventure, Fantasy"
 41514,Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2,痛いのは嫌なので防御力に極振りしたいと思います。2,7.2,3244.0,1054,winter,2023.0,"Action, Adventure, Comedy, Fantasy"
 41520,Show by Rock!! Stars!!,SHOW BY ROCK!! STARS!!,7.14,3587.0,5931,winter,2021.0,"Comedy, Fantasy"
@@ -4124,7 +4688,7 @@
 42361,"Ijiranaide, Nagatoro-san",イジらないで、長瀞さん,7.24,3068.0,236,spring,2021.0,Comedy
 42385,The iDOLM@STER Million Live!,THE iDOLM@STER MILLION LIVE!,6.92,4559.0,6405,fall,2023.0,
 42395,Shakunetsu Kabaddi,灼熱カバディ,7.01,4218.0,2083,spring,2021.0,"Comedy, Sports"
-42429,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season,本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第3期,8.07,539.0,1485,spring,2022.0,Fantasy
+42429,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season,本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第3期,8.07,538.0,1486,spring,2022.0,Fantasy
 42506,World Witches Hasshin Shimasu!,ワールドウィッチーズ発進しますっ！,6.47,6969.0,6040,winter,2021.0,Comedy
 42516,Cardfight!! Vanguard: overDress,カードファイト!! ヴァンガード overDress,5.96,9692.0,5411,spring,2021.0,Comedy
 42544,Kaizoku Oujo,海賊王女,7.07,3910.0,1221,fall,2021.0,"Action, Adventure, Fantasy"
@@ -4137,8 +4701,8 @@
 42670,Princess Connect! Re:Dive Season 2,プリンセスコネクト! Re:Dive Season 2,7.76,1102.0,1763,winter,2022.0,"Adventure, Comedy, Fantasy, Gourmet"
 42745,Machikado Mazoku: 2-choume,まちカドまぞく 2丁目,7.85,895.0,2667,spring,2022.0,"Comedy, Fantasy"
 42774,Sayonara Watashi no Cramer,さよなら私のクラマー,6.09,9061.0,3454,spring,2021.0,"Drama, Sports"
-42808,Shenmue the Animation,シェンムー,6.66,5922.0,4743,winter,2022.0,"Action, Adventure"
-42822,Kai Byoui Ramune,怪病医ラムネ,7.15,3489.0,2429,winter,2021.0,"Mystery, Supernatural"
+42808,Shenmue the Animation,シェンムー,6.66,5921.0,4738,winter,2022.0,"Action, Adventure"
+42822,Kai Byoui Ramune,怪病医ラムネ,7.15,3490.0,2430,winter,2021.0,"Mystery, Supernatural"
 42825,Project Scard: Praeter no Kizu,PROJECT SCARD プレイタの傷,5.91,9956.0,3863,winter,2021.0,Action
 42826,Seijo no Maryoku wa Bannou desu,聖女の魔力は万能です,7.3,2714.0,1186,spring,2021.0,"Fantasy, Romance"
 42870,Uchuu Nanchara Kotetsu-kun,宇宙なんちゃらこてつくん,,14479.0,14370,spring,2021.0,"Comedy, Sci-Fi"
@@ -4148,8 +4712,8 @@
 42938,Fruits Basket: The Final,フルーツバスケット The Final,8.97,15.0,466,spring,2021.0,"Drama, Romance, Supernatural"
 42941,Uma Musume: Pretty Derby Season 2,ウマ娘 プリティーダービー Season 2,8.06,548.0,3079,winter,2021.0,Sports
 42959,Yatogame-chan Kansatsu Nikki Sansatsume,八十亀ちゃんかんさつにっき 3さつめ,6.38,7480.0,5569,winter,2021.0,"Comedy, Slice of Life"
-42962,Uzaki-chan wa Asobitai! Double,宇崎ちゃんは遊びたい！ω（だぶる）,7.25,2985.0,1115,fall,2022.0,Comedy
-42963,"Kanojo, Okarishimasu 2nd Season",彼女、お借りします,6.8,5167.0,550,summer,2022.0,"Comedy, Romance"
+42962,Uzaki-chan wa Asobitai! Double,宇崎ちゃんは遊びたい！ω（だぶる）,7.25,2987.0,1115,fall,2022.0,Comedy
+42963,"Kanojo, Okarishimasu 2nd Season",彼女、お借りします,6.8,5166.0,550,summer,2022.0,"Comedy, Romance"
 42981,Idolls!,アイドールズ!,5.05,12680.0,8470,winter,2021.0,
 42994,Jashin-chan Dropkick X,邪神ちゃんドロップキックX,7.41,2222.0,3571,summer,2022.0,"Comedy, Supernatural"
 43007,Osananajimi ga Zettai ni Makenai Love Comedy,幼なじみが絶対に負けないラブコメ,6.07,9149.0,921,spring,2021.0,"Comedy, Romance"
@@ -4158,7 +4722,7 @@
 43325,Yuukoku no Moriarty Part 2,憂国のモリアーティ,8.28,293.0,963,spring,2021.0,"Mystery, Suspense"
 43439,Shadows House,シャドーハウス,7.8,1006.0,983,spring,2021.0,"Fantasy, Mystery"
 43470,Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart,理系が恋に落ちたので証明してみた。r=1-sinθ（ハート）,7.3,2712.0,1546,spring,2022.0,"Comedy, Romance"
-43523,Tsuki ga Michibiku Isekai Douchuu,月が導く異世界道中,7.71,1233.0,496,summer,2021.0,"Action, Adventure, Comedy, Fantasy"
+43523,Tsuki ga Michibiku Isekai Douchuu,月が導く異世界道中,7.71,1234.0,496,summer,2021.0,"Action, Adventure, Comedy, Fantasy"
 43608,Kaguya-sama wa Kokurasetai: Ultra Romantic,かぐや様は告らせたい-ウルトラロマンティック-,9.0,12.0,170,spring,2022.0,"Comedy, Romance"
 43691,Kageki Shoujo!!,かげきしょうじょ!!,7.73,1175.0,2351,summer,2021.0,Drama
 43735,Cue!,CUE!,6.78,5227.0,4430,winter,2022.0,
@@ -4181,7 +4745,7 @@
 44208,Yami Shibai 8,闇芝居 8期,5.82,10377.0,5413,winter,2021.0,"Avant Garde, Horror, Supernatural"
 44235,Pui Pui Molcar,PUI PUI モルカー,8.01,624.0,5252,winter,2021.0,Comedy
 44273,Mewkledreamy Mix!,ミュークルドリーミー みっくす！,6.87,4818.0,10752,spring,2021.0,"Adventure, Fantasy"
-44274,Puraore! Pride of Orange,プラオレ！～PRIDE OF ORANGE～,6.24,8283.0,4318,fall,2021.0,Sports
+44274,Puraore! Pride of Orange,プラオレ！～PRIDE OF ORANGE～,6.24,8284.0,4316,fall,2021.0,Sports
 44275,Selection Project,SELECTION PROJECT,7.26,2964.0,3368,fall,2021.0,
 44276,Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara,究極進化したフルダイブRPGが現実よりもクソゲーだったら,6.47,7005.0,992,spring,2021.0,"Action, Comedy, Fantasy"
 44387,Sankaku Mado no Sotogawa wa Yoru,さんかく窓の外側は夜,6.75,5425.0,3239,fall,2021.0,"Boys Love, Drama, Horror, Mystery, Supernatural"
@@ -4248,11 +4812,12 @@
 48413,Hataraku Maou-sama!!,はたらく魔王さま！！,6.66,5893.0,479,summer,2022.0,"Comedy, Fantasy"
 48414,Sabikui Bisco,錆喰いビスコ,7.15,3503.0,981,winter,2022.0,"Action, Adventure, Fantasy, Sci-Fi"
 48415,"Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",史上最強の大魔王、村人Aに転生する,6.29,7976.0,868,spring,2022.0,"Action, Fantasy"
-48417,"Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",魔王学院の不適合者 II～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～,6.88,4749.0,690,winter,2023.0,"Action, Fantasy"
+48417,"Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",魔王学院の不適合者 II～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～,6.88,4749.0,689,winter,2023.0,"Action, Fantasy"
+48418,"Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou Part 2",魔王学院の不適合者 II ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ 第2クール,6.39,7447.0,1520,spring,2024.0,"Action, Fantasy"
 48441,The Legend of Heroes: Sen no Kiseki - Northern War,The Legend of Heroes 閃の軌跡 Northern War,5.65,11092.0,3816,winter,2023.0,"Action, Fantasy"
-48466,Kyoukai Senki,境界戦機,6.32,7834.0,3964,fall,2021.0,"Action, Sci-Fi"
+48466,Kyoukai Senki,境界戦機,6.32,7831.0,3962,fall,2021.0,"Action, Sci-Fi"
 48470,D_Cide Traumerei the Animation,D_CIDE TRAUMEREI（ディーサイドトロイメライ）,5.81,10399.0,4530,summer,2021.0,"Action, Drama, Fantasy"
-48471,Tsuki to Laika to Nosferatu,月とライカと吸血姫,7.32,2645.0,1539,fall,2021.0,Fantasy
+48471,Tsuki to Laika to Nosferatu,月とライカと吸血姫,7.32,2644.0,1538,fall,2021.0,Fantasy
 48483,Mieruko-chan,見える子ちゃん,7.4,2288.0,449,fall,2021.0,"Comedy, Horror, Supernatural"
 48486,Oshiri Tantei 5th Season,おしりたんてい,,17586.0,17674,spring,2021.0,"Comedy, Fantasy, Mystery"
 48488,Higurashi no Naku Koro ni Sotsu,ひぐらしのなく頃に卒,6.73,5537.0,1936,summer,2021.0,"Horror, Mystery, Supernatural"
@@ -4267,7 +4832,7 @@
 48556,Takt Op. Destiny,takt op.Destiny,7.15,3509.0,433,fall,2021.0,"Action, Fantasy, Sci-Fi"
 48567,Visual Prison,ヴィジュアルプリズン,6.71,5593.0,3545,fall,2021.0,Supernatural
 48569,86 Part 2,86―エイティシックス―,8.71,57.0,432,fall,2021.0,"Action, Drama, Sci-Fi"
-48580,Vanitas no Karte,ヴァニタスの手記,7.9,786.0,414,summer,2021.0,"Action, Fantasy, Mystery"
+48580,Vanitas no Karte,ヴァニタスの手記,7.9,787.0,414,summer,2021.0,"Action, Fantasy, Mystery"
 48583,Shingeki no Kyojin: The Final Season Part 2,進撃の巨人 The Final Season Part 2,8.76,43.0,102,winter,2022.0,"Action, Drama, Suspense"
 48633,Liar Liar,ライアー・ライアー,6.31,7854.0,1582,summer,2023.0,Suspense
 48643,Koi wa Sekai Seifuku no Ato de,恋は世界征服のあとで,7.4,2280.0,1024,spring,2022.0,"Action, Comedy, Romance"
@@ -4277,7 +4842,7 @@
 48680,Tesla Note,テスラノート,4.67,13075.0,4558,fall,2021.0,"Action, Suspense"
 48702,Dance Dance Danseur,ダンス・ダンス・ダンスール,7.83,925.0,2344,spring,2022.0,Drama
 48736,Sono Bisque Doll wa Koi wo Suru,その着せ替え人形は恋をする,8.17,418.0,138,winter,2022.0,Romance
-48742,"Kono Healer, Mendokusai",このヒーラー、めんどくさい,6.34,7673.0,2896,spring,2022.0,"Adventure, Comedy, Fantasy"
+48742,"Kono Healer, Mendokusai",このヒーラー、めんどくさい,6.34,7672.0,2894,spring,2022.0,"Adventure, Comedy, Fantasy"
 48753,Jahy-sama wa Kujikenai!,ジャヒー様はくじけない！,7.02,4132.0,1000,summer,2021.0,"Comedy, Supernatural"
 48760,"Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",骸骨騎士様、只今異世界へお出掛け中,7.15,3536.0,776,spring,2022.0,"Action, Adventure, Fantasy"
 48761,Saihate no Paladin,最果てのパラディン,6.87,4829.0,788,fall,2021.0,"Action, Adventure, Fantasy"
@@ -4290,7 +4855,7 @@
 48790,Neko Jockey,猫ジョッキー,,17306.0,18982,spring,2021.0,Comedy
 48804,Isekai Shokudou 2,異世界食堂 2,7.68,1288.0,2137,fall,2021.0,"Fantasy, Gourmet, Slice of Life"
 48842,Mahoutsukai Reimeiki,魔法使い黎明期,6.38,7509.0,1491,spring,2022.0,"Action, Adventure, Comedy, Fantasy"
-48849,Sonny Boy,Sonny Boy (サニーボーイ),7.81,975.0,765,summer,2021.0,"Award Winning, Mystery"
+48849,Sonny Boy,Sonny Boy (サニーボーイ),7.81,975.0,766,summer,2021.0,"Award Winning, Mystery"
 48857,Healer Girl,ヒーラー・ガール,7.32,2614.0,3938,spring,2022.0,"Fantasy, Slice of Life"
 48858,180-byou de Kimi no Mimi wo Shiawase ni Dekiru ka?,180秒で君の耳を幸せにできるか?,5.31,12146.0,3726,fall,2021.0,Slice of Life
 48859,Pretty All Friends Selection,プリティーオールフレンズセレクション,6.69,5741.0,11375,summer,2021.0,"Comedy, Slice of Life"
@@ -4323,25 +4888,27 @@
 49387,Vinland Saga Season 2,ヴィンランド・サガ SEASON2,8.81,30.0,333,winter,2023.0,"Action, Adventure, Drama"
 49431,Kanashiki Debu Neko-chan,かなしきデブ猫ちゃん,6.23,8328.0,9989,fall,2021.0,Slice of Life
 49438,Isekai Yakkyoku,異世界薬局,7.28,2833.0,1118,summer,2022.0,Fantasy
+49458,Kono Subarashii Sekai ni Shukufuku wo! 3,この素晴らしい世界に祝福を！3,8.39,194.0,560,spring,2024.0,"Adventure, Comedy, Fantasy"
 49470,Mamahaha no Tsurego ga Motokano datta,継母の連れ子が元カノだった,6.74,5480.0,844,summer,2022.0,"Comedy, Romance"
 49505,Deji Meets Girl,でーじミーツガール,6.16,8683.0,3917,fall,2021.0,"Slice of Life, Supernatural"
 49514,Gensou Sangokushi: Tengen Reishinki,幻想三國誌 -天元霊心記-,5.3,12179.0,4811,winter,2022.0,Fantasy
 49515,Digimon Ghost Game,デジモンゴーストゲーム,6.73,5528.0,4610,fall,2021.0,"Action, Adventure, Comedy, Fantasy"
 49519,Hakozume: Kouban Joshi no Gyakushuu,ハコヅメ～交番女子の逆襲～,7.17,3397.0,3072,winter,2022.0,Comedy
-49520,Aharen-san wa Hakarenai,阿波連さんははかれない,7.28,2808.0,705,spring,2022.0,"Comedy, Romance"
+49520,Aharen-san wa Hakarenai,阿波連さんははかれない,7.28,2807.0,705,spring,2022.0,"Comedy, Romance"
 49533,Uchi no Shishou wa Shippo ga Nai,うちの師匠はしっぽがない,6.72,5576.0,4472,fall,2022.0,"Slice of Life, Supernatural"
 49551,Hanabi-chan wa Okuregachi,ハナビちゃんは遅れがち,6.13,8851.0,8540,summer,2022.0,Comedy
 49556,Love All Play,ラブオールプレー,6.53,6660.0,3591,spring,2022.0,Sports
 49596,Blue Lock,ブルーロック,8.25,314.0,289,fall,2022.0,Sports
 49612,Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu,人間不信の冒険者たちが世界を救うようです,6.33,7756.0,1411,winter,2023.0,"Action, Adventure, Fantasy"
+49613,Chiyu Mahou no Machigatta Tsukaikata,治癒魔法の間違った使い方,7.54,1742.0,1169,winter,2024.0,"Action, Adventure, Fantasy"
 49664,Kimi to Fit Boxing,キミとフィットボクシング,5.54,11483.0,12990,fall,2021.0,Sports
 49691,Gunjou no Fanfare,群青のファンファーレ,6.14,8783.0,4486,spring,2022.0,Sports
-49692,Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto,ヒロインたるもの！〜嫌われヒロインと内緒のお仕事〜,7.27,2903.0,2676,spring,2022.0,
+49692,Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto,ヒロインたるもの！〜嫌われヒロインと内緒のお仕事〜,7.27,2903.0,2674,spring,2022.0,
 49709,Fumetsu no Anata e Season 2,不滅のあなたへ Season2,8.08,529.0,882,fall,2022.0,"Adventure, Drama, Supernatural"
 49721,Karakai Jouzu no Takagi-san 3,からかい上手の高木さん3,8.4,189.0,1286,winter,2022.0,Comedy
 49738,Heike Monogatari,平家物語,7.78,1059.0,2403,winter,2022.0,"Drama, Supernatural"
 49766,Under Ninja,アンダーニンジャ,6.91,4623.0,2751,fall,2023.0,Action
-49776,Kumichou Musume to Sewagakari,組長娘と世話係,7.75,1111.0,1096,summer,2022.0,Slice of Life
+49776,Kumichou Musume to Sewagakari,組長娘と世話係,7.75,1111.0,1093,summer,2022.0,Slice of Life
 49780,Atasha Kawashiri Kodama da yo: Dangerous Lifehacker no Tadareta Seikatsu,あたしゃ川尻こだまだよ～デンジャラスライフハッカーのただれた生活～,5.72,10787.0,6926,winter,2022.0,Comedy
 49782,Shadows House 2nd Season,シャドーハウス 2nd Season,8.01,626.0,1827,summer,2022.0,"Fantasy, Mystery"
 49784,Mairimashita! Iruma-kun 3rd Season,魔入りました！入間くん,7.82,961.0,1235,fall,2022.0,"Comedy, Fantasy"
@@ -4351,6 +4918,7 @@
 49831,Black★★Rock Shooter: Dawn Fall,ブラック★★ロックシューター DAWN FALL,5.94,9785.0,3500,spring,2022.0,"Action, Drama"
 49849,Shinmai Renkinjutsushi no Tenpo Keiei,新米錬金術師の店舗経営,6.61,6188.0,2665,fall,2022.0,"Adventure, Fantasy, Slice of Life"
 49858,Shinigami Bocchan to Kuro Maid 2nd Season,死神坊ちゃんと黒メイド,7.61,1468.0,2366,summer,2023.0,"Comedy, Supernatural"
+49889,Tsuki ga Michibiku Isekai Douchuu 2nd Season,月が導く異世界道中 第二幕,7.83,936.0,1016,winter,2024.0,"Action, Adventure, Comedy, Fantasy"
 49891,Tensei shitara Ken deshita,転生したら剣でした,7.52,1790.0,894,fall,2022.0,"Action, Adventure, Fantasy"
 49894,Eiyuu Kyoushitsu,英雄教室,6.06,9197.0,1909,summer,2023.0,"Action, Fantasy, Ecchi"
 49918,Boku no Hero Academia 6th Season,僕のヒーローアカデミア,8.27,297.0,313,fall,2022.0,Action
@@ -4364,7 +4932,7 @@
 50010,Meitantei Conan: Hannin no Hanzawa-san,名探偵コナン 犯人の犯沢さん,6.85,4897.0,5809,fall,2022.0,"Comedy, Mystery"
 50012,Meitantei Conan: Zero no Tea Time,名探偵コナン ゼロの日常（ティータイム）,6.94,4467.0,5611,spring,2022.0,"Mystery, Slice of Life"
 50052,Neko Jockey 2nd Season,猫ジョッキー,,17307.0,19710,fall,2021.0,Comedy
-50060,Shadowverse Flame,シャドウバースF（フレイム）,6.74,5493.0,7818,spring,2022.0,Fantasy
+50060,Shadowverse Flame,シャドウバースF（フレイム）,6.74,5492.0,7819,spring,2022.0,Fantasy
 50099,Shin Tennis no Oujisama: U-17 World Cup,新テニスの王子様 U-17 WORLD CUP,6.75,5427.0,5454,summer,2022.0,Sports
 50141,Yoshida Katsuko no Yabai wa! SDGs: Araburu! Trouble! Sustainable!,吉田勝子のヤバイわ! SDGs ~荒ぶる! トラブル! サステナブル!~,,15413.0,17723,fall,2021.0,Comedy
 50142,Konu to Tanoshii Otomodachi,コヌとたのしいおともだち,,16248.0,20924,fall,2021.0,Slice of Life
@@ -4375,7 +4943,7 @@
 50185,Ryman's Club,リーマンズクラブ,7.35,2487.0,2475,winter,2022.0,Sports
 50193,Motto! Majime ni Fumajime Kaiketsu Zorori 3rd Season,もっと! まじめにふまじめ かいけつゾロリ 第3シリーズ,,17141.0,15806,spring,2022.0,"Adventure, Comedy"
 50197,"Ijiranaide, Nagatoro-san 2nd Attack",イジらないで、長瀞さん 2nd Attack,7.48,1968.0,863,winter,2023.0,Comedy
-50203,Love Live! Superstar!! 2nd Season,ラブライブ！スーパースター!!,7.69,1266.0,3899,summer,2022.0,Slice of Life
+50203,Love Live! Superstar!! 2nd Season,ラブライブ！スーパースター!!,7.69,1266.0,3900,summer,2022.0,Slice of Life
 50204,Tokyo 24-ku,東京24区,6.34,7693.0,2704,winter,2022.0,"Mystery, Sci-Fi"
 50205,Arknights: Reimei Zensou,アークナイツ【黎明前奏/PRELUDE TO DAWN】,7.08,3842.0,2027,fall,2022.0,"Action, Fantasy"
 50220,Isekai Shoukan wa Nidome desu,異世界召喚は二度目です,5.67,10994.0,1535,spring,2023.0,"Adventure, Comedy, Fantasy, Romance"
@@ -4396,6 +4964,7 @@
 50379,Shoot! Goal to the Future,シュート! Goal to the Future,5.28,12234.0,5311,summer,2022.0,Sports
 50380,Paripi Koumei,パリピ孔明,8.13,468.0,828,spring,2022.0,"Comedy, Supernatural"
 50384,Mononogatari,もののがたり,7.25,3016.0,2690,winter,2023.0,"Action, Fantasy"
+50392,Mato Seihei no Slave,魔都精兵のスレイブ,6.84,4964.0,1290,winter,2024.0,"Action, Fantasy, Ecchi"
 50416,Skip to Loafer,スキップとローファー,8.12,472.0,898,spring,2023.0,Drama
 50425,"Fuufu Ijou, Koibito Miman.",夫婦以上、恋人未満。,7.58,1583.0,760,fall,2022.0,Romance
 50438,Yatogame-chan Kansatsu Nikki Yonsatsume,八十亀ちゃんかんさつにっき 4さつめ,6.29,7983.0,6681,spring,2022.0,Comedy
@@ -4408,6 +4977,7 @@
 50552,Yowamushi Pedal: Limit Break,弱虫ペダル LIMIT BREAK,7.39,2323.0,4396,fall,2022.0,Sports
 50559,Megaton-kyuu Musashi 2nd Season,メガトン級ムサシ,6.52,6681.0,9007,fall,2022.0,"Action, Sci-Fi"
 50582,Nanatsu no Maken ga Shihai suru,七つの魔剣が支配する,6.56,6484.0,1551,summer,2023.0,"Action, Fantasy"
+50583,Buta no Liver wa Kanetsu Shiro,豚のレバーは加熱しろ,6.3,7923.0,3509,fall,2023.0,"Adventure, Fantasy"
 50586,Migi to Dali,ミギとダリ,7.74,1155.0,2448,fall,2023.0,"Comedy, Mystery, Suspense"
 50590,Koukyuu no Karasu,後宮の烏,7.53,1767.0,2176,fall,2022.0,"Fantasy, Mystery"
 50599,Yami Shibai 10,闇芝居 十期,6.18,8596.0,6423,winter,2022.0,"Avant Garde, Horror, Supernatural"
@@ -4427,14 +4997,17 @@
 50695,MF Ghost,MFゴースト,7.56,1659.0,2791,fall,2023.0,
 50709,Lycoris Recoil,リコリス・リコイル,8.16,438.0,445,summer,2022.0,Action
 50710,Urusei Yatsura (2022),うる星やつら,7.41,2252.0,1359,fall,2022.0,"Comedy, Romance, Sci-Fi"
+50713,Mahouka Koukou no Rettousei 3rd Season,魔法科高校の劣等生 第3シーズン,7.05,3994.0,1886,spring,2024.0,"Action, Fantasy, Romance, Sci-Fi"
 50739,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken,お隣の天使様にいつの間にか駄目人間にされていた件,7.82,965.0,749,winter,2023.0,Romance
 50760,Teppen!!!!!!!!!!!!!!!,てっぺんっ!!!!!!!!!!!!!!!,6.62,6100.0,4986,summer,2022.0,Comedy
 50789,Jantama Pong☆,じゃんたま PONG☆,6.09,9045.0,7031,spring,2022.0,Comedy
 50796,Kimi wa Houkago Insomnia,君は放課後インソムニア,8.07,542.0,1137,spring,2023.0,Romance
 50799,Oshiri Tantei 6th Season,おしりたんてい,,20149.0,18969,spring,2022.0,"Comedy, Fantasy, Mystery"
+50803,Jaku-Chara Tomozaki-kun 2nd Stage,弱キャラ友崎くん 2nd STAGE,7.04,4051.0,1862,winter,2024.0,"Drama, Romance"
 50854,"Benriya Saitou-san, Isekai ni Iku",便利屋斎藤さん、異世界に行く,7.41,2207.0,1378,winter,2023.0,"Adventure, Comedy, Fantasy"
 50862,Estab-Life: Great Escape,エスタブライフ グレイトエスケープ,6.48,6898.0,6074,spring,2022.0,Sci-Fi
 50864,Ooyukiumi no Kaina,大雪海のカイナ,6.67,5838.0,3230,winter,2023.0,"Adventure, Drama, Fantasy"
+50869,Kami wa Game ni Ueteiru.,神は遊戯に飢えている。,6.26,8181.0,2545,spring,2024.0,"Fantasy, Suspense, Ecchi"
 50871,Alice Gear Aegis Expansion,アリス・ギア・アイギス Expansion,5.71,10841.0,6466,spring,2023.0,"Action, Sci-Fi"
 50891,Hoshi no Samidare,惑星のさみだれ,5.63,11177.0,2931,summer,2022.0,"Action, Adventure, Comedy, Drama"
 50917,Prima Doll,プリマドール,7.07,3925.0,3879,summer,2022.0,"Sci-Fi, Slice of Life"
@@ -4453,20 +5026,22 @@
 51092,Yuurei Deco,ユーレイデコ,6.03,9403.0,5016,summer,2022.0,Sci-Fi
 51096,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season,ようこそ実力至上主義の教室へ 2nd Season,8.1,509.0,320,summer,2022.0,"Drama, Suspense"
 51098,Shinobi no Ittoki,忍の一時,6.06,9230.0,1421,fall,2022.0,Action
-51105,NieR:Automata Ver1.1a,NieR:Automata Ver1.1a,7.51,1830.0,862,winter,2023.0,"Action, Fantasy, Sci-Fi"
+51105,NieR:Automata Ver1.1a,NieR:Automata Ver1.1a,7.51,1828.0,863,winter,2023.0,"Action, Fantasy, Sci-Fi"
 51128,Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.,農民関連のスキルばっか上げてたら何故か強くなった。,5.96,9718.0,1680,fall,2022.0,"Action, Adventure, Fantasy"
 51132,Akachan Honbuchou 2nd Season,赤ちゃん本部長,,18443.0,18414,winter,2022.0,Comedy
 51139,Kizuna no Allele,絆のアリル,5.24,12329.0,5240,spring,2023.0,
 51154,I Love Me,アイラブみー,,18073.0,19110,winter,2022.0,
 51155,Cap Kakumei Bottleman DX,キャップ革命 ボトルマンDX,6.02,9423.0,13954,spring,2022.0,Action
 51179,Mushoku Tensei II: Isekai Ittara Honki Dasu,無職転生 II ～異世界行ったら本気だす～,8.24,334.0,381,summer,2023.0,"Adventure, Drama, Fantasy, Ecchi"
+51180,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season,ようこそ実力至上主義の教室へ 3rd Season,7.97,672.0,601,winter,2024.0,"Drama, Suspense"
 51212,Futoku no Guild,不徳のギルド,6.56,6468.0,1998,fall,2022.0,"Comedy, Fantasy, Ecchi"
 51213,Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu,金装のヴェルメイユ ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～,6.8,5167.0,881,summer,2022.0,"Fantasy, Ecchi"
 51215,Seijo no Maryoku wa Bannou desu Season 2,聖女の魔力は万能です Season2,7.42,2180.0,2369,fall,2023.0,"Fantasy, Romance"
 51219,Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita,異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～,6.33,7747.0,2075,spring,2023.0,"Comedy, Fantasy"
 51252,Spy Kyoushitsu,スパイ教室,6.39,7461.0,1585,winter,2023.0,"Action, Fantasy, Mystery"
-51265,Inu ni Nattara Suki na Hito ni Hirowareta.,犬になったら好きな人に拾われた。,5.06,12665.0,1880,winter,2023.0,"Comedy, Ecchi"
+51265,Inu ni Nattara Suki na Hito ni Hirowareta.,犬になったら好きな人に拾われた。,5.06,12667.0,1882,winter,2023.0,"Comedy, Ecchi"
 51293,Eternal Boys,永久少年 Eternal Boys,6.55,6543.0,5658,fall,2022.0,Slice of Life
+51297,Ragna Crimson,ラグナクリムゾン,7.53,1776.0,1256,fall,2023.0,"Action, Fantasy"
 51304,FLCL: Grunge,,4.66,13086.0,3994,summer,2023.0,"Action, Avant Garde, Comedy, Sci-Fi"
 51305,FLCL: Shoegaze,,6.17,8626.0,4997,fall,2023.0,"Action, Avant Garde, Comedy, Sci-Fi"
 51306,C Danchi,C団地,5.41,11893.0,4059,fall,2022.0,Horror
@@ -4477,6 +5052,7 @@
 51415,Opus.COLORs,Opus.COLORs (オーパスカラーズ),5.73,10757.0,6700,spring,2023.0,Sci-Fi
 51417,Engage Kiss,Engage Kiss,6.8,5152.0,1040,summer,2022.0,"Action, Comedy, Romance"
 51458,Lv1 Maou to One Room Yuusha,Lv1魔王とワンルーム勇者,7.16,3476.0,2559,summer,2023.0,"Comedy, Fantasy"
+51461,Tonari no Youkai-san,となりの妖怪さん,7.31,2655.0,4963,spring,2024.0,"Drama, Fantasy"
 51462,Isekai Nonbiri Nouka,異世界のんびり農家,7.56,1652.0,1149,winter,2023.0,"Fantasy, Slice of Life"
 51464,4-nin wa Sorezore Uso wo Tsuku,４人はそれぞれウソをつく,7.14,3544.0,3719,fall,2022.0,"Comedy, Supernatural"
 51495,Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei,真・進化の実～知らないうちに勝ち組人生～,5.45,11763.0,2066,winter,2023.0,"Adventure, Fantasy, Romance"
@@ -4488,22 +5064,26 @@
 51614,Ao no Orchestra,青のオーケストラ,7.15,3522.0,2944,spring,2023.0,Drama
 51632,Isekai wa Smartphone to Tomo ni. 2,異世界はスマートフォンとともに。,6.43,7259.0,1666,spring,2023.0,"Adventure, Comedy, Fantasy, Romance"
 51636,Kenda Master Ken (TV),ケンダマスター拳,5.5,11594.0,14128,spring,2022.0,Comedy
+51648,Nozomanu Fushi no Boukensha,望まぬ不死の冒険者,7.43,2152.0,1616,winter,2024.0,"Action, Adventure, Fantasy"
+51673,Shaman King: Flowers,SHAMAN KING FLOWERS,6.57,6419.0,4093,winter,2024.0,"Action, Adventure, Supernatural"
 51678,Oniichan wa Oshimai!,お兄ちゃんはおしまい！,7.67,1334.0,1536,winter,2023.0,Comedy
 51680,Cool Doji Danshi,クールドジ男子,7.86,862.0,2211,fall,2022.0,Slice of Life
 51685,Zombie-ga Doeeo Beorin Naui Ttal,좀비가 되어버린 나의 딸,6.0,9540.0,9209,spring,2022.0,"Comedy, Supernatural"
 51692,Yoru wa Neko to Issho,夜は猫といっしょ,7.17,3433.0,5678,summer,2022.0,Comedy
 51693,Kaminaki Sekai no Kamisama Katsudou,神無き世界のカミサマ活動,6.72,5558.0,1298,spring,2023.0,"Action, Comedy, Fantasy"
-51705,Otonari ni Ginga,おとなりに銀河,7.14,3578.0,1607,spring,2023.0,"Romance, Supernatural"
+51705,Otonari ni Ginga,おとなりに銀河,7.14,3581.0,1606,spring,2023.0,"Romance, Supernatural"
 51706,Yuusha ga Shinda!,勇者が死んだ！,6.61,6202.0,1810,spring,2023.0,"Action, Comedy, Fantasy, Ecchi"
-51711,Hyouken no Majutsushi ga Sekai wo Suberu,冰剣の魔術師が世界を統べる,6.35,7652.0,1419,winter,2023.0,"Action, Fantasy"
+51711,Hyouken no Majutsushi ga Sekai wo Suberu,冰剣の魔術師が世界を統べる,6.35,7651.0,1418,winter,2023.0,"Action, Fantasy"
 51752,Kkoma Bus Tayo 6,꼬마버스 타요 6,,18723.0,20945,fall,2021.0,
 51755,Titipo Titipo 3,띠띠뽀 띠띠뽀 3,,14284.0,20030,winter,2022.0,
 51764,Level 1 dakedo Unique Skill de Saikyou desu,レベル1だけどユニークスキルで最強です,6.22,8351.0,1911,summer,2023.0,"Adventure, Fantasy"
 51773,KJ File,KJ FILE (KJファイル),4.69,13061.0,7084,summer,2022.0,"Action, Sci-Fi"
+51794,Nanatsu no Taizai: Mokushiroku no Yonkishi,七つの大罪 黙示録の四騎士,7.26,2951.0,2729,fall,2023.0,"Action, Adventure, Fantasy"
 51815,Kubo-san wa Mob wo Yurusanai,久保さんは僕を許さない,7.56,1656.0,1193,winter,2023.0,"Comedy, Romance"
 51817,Watashi no Yuri wa Oshigoto desu!,私の百合はお仕事です！,6.69,5765.0,3034,spring,2023.0,"Comedy, Girls Love"
 51837,Saikin Yatotta Maid ga Ayashii,最近雇ったメイドが怪しい,6.58,6349.0,1778,summer,2022.0,Comedy
 51839,Iii Icecrin Double,iiiあいすくりん2（あいあいあい あいすくりん ダブル）,,20711.0,17457,summer,2022.0,
+51859,Touken Ranbu Kai: Kyoden Moyuru Honnouji,刀剣乱舞 廻 -虚伝 燃ゆる本能寺-,6.12,8902.0,6125,spring,2024.0,"Action, Fantasy"
 51916,Dekiru Neko wa Kyou mo Yuuutsu,デキる猫は今日も憂鬱,7.65,1368.0,2061,summer,2023.0,"Comedy, Supernatural"
 51923,Warau Arsnotoria Sun!,咲う アルスノトリア すんっ！,5.79,10522.0,4225,summer,2022.0,"Action, Fantasy"
 51940,Boku to Roboko,僕とロボコ,6.8,5147.0,7114,winter,2023.0,"Comedy, Sci-Fi"
@@ -4522,29 +5102,39 @@
 52162,5-Okunen Button,5億年ボタン,6.12,8860.0,14577,summer,2022.0,"Comedy, Sci-Fi"
 52173,Koori Zokusei Danshi to Cool na Douryou Joshi,氷属性男子とクールな同僚女子,7.32,2622.0,1164,winter,2023.0,"Comedy, Fantasy, Romance"
 52193,Akiba Meido Sensou,アキバ冥途戦争,7.59,1545.0,1478,fall,2022.0,"Action, Comedy"
+52196,Date A Live V,デート・ア・ライブⅤ,7.69,1278.0,2022,spring,2024.0,"Action, Fantasy, Romance, Sci-Fi"
 52211,Mashle,マッシュル-MASHLE-,7.62,1455.0,378,spring,2023.0,"Action, Comedy, Fantasy"
 52214,Genjitsu no Yohane: Sunshine in the Mirror,幻日のヨハネ -SUNSHINE in the MIRROR-,6.87,4801.0,3680,summer,2023.0,Fantasy
 52229,Birdie Wing: Golf Girls' Story Season 2,BIRDIE WING -Golf Girls’ Story- Season 2,7.57,1623.0,3868,spring,2023.0,Sports
 52274,Nokemono-tachi no Yoru,ノケモノたちの夜,6.6,6253.0,3494,winter,2023.0,"Action, Fantasy"
+52299,Ore dake Level Up na Ken,俺だけレベルアップな件,8.29,279.0,285,winter,2024.0,"Action, Adventure, Fantasy"
 52305,Tomo-chan wa Onnanoko!,トモちゃんは女の子！,7.77,1077.0,568,winter,2023.0,"Comedy, Romance"
 52308,Kanojo ga Koushaku-tei ni Itta Riyuu,彼女が公爵邸に行った理由,7.53,1763.0,1571,spring,2023.0,"Fantasy, Romance"
 52319,Obake Zukan!,おばけずかん！,,20032.0,17380,fall,2022.0,"Comedy, Fantasy, Supernatural"
 52337,Sakuretsu! Amabie-hime.,炸裂！あまびえ姫。,,20777.0,17711,summer,2022.0,Comedy
+52347,"Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～,8.07,542.0,857,fall,2023.0,"Action, Adventure, Fantasy"
+52359,Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.,異世界でもふもふなでなでするためにがんばってます。,6.77,5311.0,2631,winter,2024.0,"Adventure, Fantasy"
 52381,Aru Asa Dummy Head Mic ni Natteita Ore-kun no Jinsei,ある朝ダミーヘッドマイクになっていた俺クンの人生,5.02,12719.0,4848,fall,2022.0,Slice of Life
+52405,Highspeed Etoile,HIGHSPEED Étoile（ハイスピードエトワール）,6.16,8693.0,5417,spring,2024.0,
 52446,Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life,解雇された暗黒兵士（30代）のスローなセカンドライフ,7.02,4137.0,1579,winter,2023.0,"Comedy, Fantasy"
 52460,Duel Masters Win,デュエル・マスターズWIN,,19723.0,14364,fall,2022.0,"Action, Adventure, Comedy, Fantasy"
 52461,Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu,老後に備えて異世界で８万枚の金貨を貯めます,6.94,4477.0,2221,winter,2023.0,Fantasy
 52463,Madtoy Chatty,マッドトイチャッティ,,19211.0,18712,spring,2022.0,Comedy
+52482,Sasaki to Pii-chan,佐々木とピーちゃん,6.83,5021.0,2265,winter,2024.0,"Adventure, Comedy, Fantasy"
 52505,Dark Gathering,ダークギャザリング,7.84,919.0,1640,summer,2023.0,"Horror, Supernatural"
 52578,Boku no Kokoro no Yabai Yatsu,僕の心のヤバイやつ,8.24,328.0,768,spring,2023.0,"Comedy, Romance"
+52588,Kaijuu 8-gou,怪獣8号,8.33,242.0,539,spring,2024.0,"Action, Sci-Fi"
 52608,Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito,転生貴族の異世界冒険録～自重を知らない神々の使徒～,6.67,5849.0,1409,spring,2023.0,"Action, Fantasy, Romance"
 52611,Okashi na Tensei,おかしな転生,6.7,5666.0,2357,summer,2023.0,Fantasy
 52614,"Mix: Meisei Story 2nd Season - Nidome no Natsu, Sora no Mukou e",MIX MEISEI STORY 2ND SEASON 〜二度目の夏、空の向こうへ〜,6.96,4404.0,7251,spring,2023.0,"Drama, Romance, Sports"
 52619,Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou,自動販売機に生まれ変わった俺は迷宮を彷徨う,6.48,6910.0,1690,summer,2023.0,"Comedy, Fantasy"
 52657,Ousama Ranking: Yuuki no Takarabako,王様ランキング 勇気の宝箱,7.31,2692.0,1655,spring,2023.0,"Adventure, Fantasy"
+52701,Dungeon Meshi,ダンジョン飯,8.61,91.0,701,winter,2024.0,"Adventure, Comedy, Fantasy, Gourmet"
 52736,Tensei Oujo to Tensai Reijou no Mahou Kakumei,転生王女と天才令嬢の魔法革命,7.47,2002.0,1272,winter,2023.0,"Fantasy, Girls Love"
+52741,Undead Unluck,アンデッドアンラック,7.77,1078.0,926,fall,2023.0,"Action, Comedy, Fantasy"
 52814,Nanashi Kaidan,ななし怪談,5.5,11601.0,8754,summer,2022.0,Horror
 52815,Ganbare! Choushuu-kun,がんばれ! 長州くん,,19986.0,18379,summer,2022.0,Comedy
+52816,Majo to Yajuu,魔女と野獣,7.4,2287.0,1651,winter,2024.0,"Action, Fantasy"
 52826,Tsurune: Tsunagari no Issha,ツルネ ―つながりの一射―,8.09,511.0,2962,winter,2023.0,Sports
 52830,"Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～,6.34,7724.0,811,spring,2023.0,"Action, Adventure, Fantasy"
 52934,"Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",婚約破棄された令嬢を拾った俺が、イケナイことを教え込む,7.17,3405.0,2059,fall,2023.0,"Comedy, Fantasy, Romance"
@@ -4556,7 +5146,8 @@
 52973,Megami no Café Terrace,女神のカフェテラス,7.32,2626.0,1807,spring,2023.0,"Comedy, Romance, Ecchi"
 52976,Berserk: Ougon Jidai-hen - Memorial Edition,ベルセルク 黄金時代篇　MEMORIAL EDITION,7.89,800.0,3470,fall,2022.0,"Action, Adventure, Drama, Fantasy, Horror"
 52985,Dekoboko Majo no Oyako Jijou,でこぼこ魔女の親子事情,6.78,5230.0,3064,fall,2023.0,"Comedy, Fantasy"
-52990,"Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",経験済みなキミと、 経験ゼロなオレが、 お付き合いする話。,6.74,5473.0,1391,fall,2023.0,Romance
+52990,"Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",経験済みなキミと、 経験ゼロなオレが、 お付き合いする話。,6.74,5471.0,1392,fall,2023.0,Romance
+52991,Sousou no Frieren,葬送のフリーレン,9.33,1.0,212,fall,2023.0,"Adventure, Drama, Fantasy"
 53011,Mamekichi Mameko NEET no Nichijou,まめきちまめこニートの日常,,16694.0,13856,fall,2022.0,Comedy
 53012,Human Bug Daigaku,ヒューマンバグ大学,6.7,5701.0,6657,fall,2022.0,"Comedy, Mystery"
 53026,Synduality: Noir,SYNDUALITY Noir,6.81,5115.0,3460,summer,2023.0,"Action, Sci-Fi"
@@ -4574,26 +5165,35 @@
 53199,Kidou Senshi Gundam: Suisei no Majo Season 2,機動戦士ガンダム 水星の魔女,7.92,750.0,2255,spring,2023.0,"Action, Sci-Fi"
 53200,Hataraku Maou-sama!! 2nd Season,はたらく魔王さま！！,6.66,5893.0,1649,summer,2023.0,"Comedy, Fantasy"
 53213,Revenger,REVENGER (リベンジャー),6.66,5917.0,2456,winter,2023.0,"Action, Drama, Mystery"
+53223,Kingdom 5th Season,キングダム 第5シリーズ,8.73,50.0,3657,winter,2024.0,Action
 53231,KJ File 2nd Season,KJファイル 第2期,5.27,12256.0,11777,winter,2023.0,"Action, Sci-Fi"
 53237,Shy,シャイ,6.72,5572.0,2776,fall,2023.0,"Action, Drama"
 53262,Hoshikuzu Telepath,星屑テレパス,7.16,3469.0,3114,fall,2023.0,"Comedy, Supernatural"
 53263,"Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",聖者無双,7.11,3735.0,2001,summer,2023.0,"Adventure, Comedy, Fantasy"
 53300,Ojou to Banken-kun,お嬢と番犬くん,5.66,11070.0,2618,fall,2023.0,Romance
 53320,Chickip Dancers 2nd Season,チキップダンサーズ,,19196.0,17396,fall,2022.0,Slice of Life
+53356,Shuumatsu Train Doko e Iku?,終末トレインどこへいく？,7.41,2240.0,2825,spring,2024.0,Adventure
 53372,Beuledeu Ibalso 3,브레드 이발소 3,,18851.0,21333,winter,2022.0,"Comedy, Fantasy"
 53379,Uchi no Kaisha no Chiisai Senpai no Hanashi,うちの会社の小さい先輩の話,6.9,4679.0,1989,summer,2023.0,"Comedy, Romance"
 53393,Tengoku Daimakyou,天国大魔境,8.21,362.0,453,spring,2023.0,"Adventure, Mystery, Sci-Fi"
+53407,Bartender: Kami no Glass,バーテンダー 神のグラス,7.38,2344.0,2101,spring,2024.0,"Drama, Gourmet"
+53410,Yuru Camp△ Season 3,ゆるキャン△ SEASON3,8.02,613.0,2432,spring,2024.0,Slice of Life
 53411,Buddy Daddies,Buddy Daddies,8.12,473.0,874,winter,2023.0,"Action, Comedy"
+53421,Dosanko Gal wa Namara Menkoi,道産子ギャルはなまらめんこい,7.03,4103.0,1498,winter,2024.0,Comedy
 53424,Flaglia: Natsuyasumi no Monogatari,『FLAGLIA』～なつやすみの物語～,5.14,12548.0,8881,winter,2023.0,Fantasy
 53426,Hyakushou Kizoku,百姓貴族,6.7,5703.0,9243,summer,2023.0,Comedy
 53428,Ayaka,AYAKA ‐あやか‐,6.42,7263.0,3411,summer,2023.0,Fantasy
+53434,"Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？,7.3,2700.0,1664,spring,2024.0,"Action, Fantasy, Romance"
 53438,Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.,悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。,7.11,3717.0,2233,summer,2023.0,Fantasy
 53439,Boushoku no Berserk,暴食のベルセルク,6.72,5542.0,1368,fall,2023.0,"Action, Fantasy"
 53446,Tondemo Skill de Isekai Hourou Meshi,とんでもスキルで異世界放浪メシ,7.66,1351.0,1036,winter,2023.0,"Adventure, Comedy, Fantasy, Gourmet"
+53488,"Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました 2nd,6.77,5282.0,1965,winter,2024.0,"Adventure, Fantasy, Romance"
 53494,Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta,冒険者になりたいと都に出て行った娘がSランクになってた,6.76,5366.0,2416,fall,2023.0,"Action, Adventure, Fantasy"
 53514,Oshiri Tantei 7th Season,おしりたんてい,,17587.0,19168,spring,2023.0,"Comedy, Fantasy, Mystery"
+53516,"Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",転生したら第七王子だったので、気ままに魔術を極めます,7.47,2004.0,1486,spring,2024.0,"Adventure, Fantasy"
 53526,Uma Musume: Pretty Derby Season 3,ウマ娘 プリティーダービー Season 3,7.6,1527.0,4855,fall,2023.0,Sports
 53587,The Marginal Service,THE MARGINAL SERVICE,5.48,11671.0,4793,spring,2023.0,"Action, Sci-Fi"
+53590,Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.,最弱テイマーはゴミ拾いの旅を始めました。,7.56,1668.0,2170,winter,2024.0,"Adventure, Fantasy"
 53613,Dead Mount Death Play,デッドマウント・デスプレイ,7.29,2756.0,1063,spring,2023.0,"Action, Fantasy, Supernatural"
 53621,Jijou wo Shiranai Tenkousei ga Guigui Kuru.,事情を知らない転校生がグイグイくる。,7.51,1856.0,2713,spring,2023.0,Comedy
 53632,Yumemiru Danshi wa Genjitsushugisha,夢見る男子は現実主義者,6.62,6112.0,1484,summer,2023.0,"Comedy, Romance"
@@ -4601,35 +5201,62 @@
 53652,Ooya-san to Boku 3rd Season,大家さんと僕,,17562.0,21709,winter,2021.0,Slice of Life
 53655,Yomawari Neko,夜廻り猫,,15393.0,15033,winter,2023.0,Slice of Life
 53698,World Dai Star,ワールドダイスター,7.31,2657.0,5602,spring,2023.0,
+53716,Hirogaru Sky! Precure,ひろがるスカイ！プリキュア,7.62,1447.0,6398,winter,2023.0,"Action, Fantasy"
+53730,"Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。,6.38,7472.0,1767,winter,2024.0,"Action, Adventure, Comedy, Fantasy"
+53770,Sentai Daishikkaku,戦隊大失格,7.35,2489.0,1684,spring,2024.0,"Action, Sci-Fi"
 53787,AI no Idenshi,AIの遺電子,6.53,6617.0,3397,summer,2023.0,"Drama, Sci-Fi, Suspense"
 53833,Watashi no Oshi wa Akuyaku Reijou.,私の推しは悪役令嬢。,7.34,2511.0,1993,fall,2023.0,"Comedy, Fantasy, Girls Love"
+53835,Unnamed Memory,Unnamed Memory,6.68,5777.0,1993,spring,2024.0,"Adventure, Fantasy, Romance"
+53848,Megumi no Daigo: Kyuukoku no Orange,め組の大吾 救国のオレンジ,6.68,5810.0,4351,fall,2023.0,"Action, Drama"
 53874,Pokemon: Mezase Pokemon Master,ポケットモンスター めざせポケモンマスター,7.56,1666.0,4544,winter,2023.0,"Action, Adventure, Comedy, Fantasy"
 53879,Kamonohashi Ron no Kindan Suiri,鴨乃橋ロンの禁断推理,7.47,1989.0,1778,fall,2023.0,"Comedy, Mystery"
 53881,Arknights: Touin Kiro,アークナイツ【冬隠帰路/PERISH IN FROST】,7.57,1623.0,3396,fall,2023.0,"Action, Fantasy"
-53887,Spy x Family Season 2,SPY×FAMILY Season 2,8.07,546.0,443,fall,2023.0,"Action, Comedy"
+53887,Spy x Family Season 2,SPY×FAMILY Season 2,8.07,545.0,444,fall,2023.0,"Action, Comedy"
+53889,Ao no Exorcist: Shimane Illuminati-hen,青の祓魔師 島根啓明結社篇,7.03,4097.0,1683,winter,2024.0,"Action, Fantasy"
+53912,Seiyuu Radio no Uraomote,声優ラジオのウラオモテ,6.98,4330.0,3272,spring,2024.0,"Comedy, Drama"
 53998,Bleach: Sennen Kessen-hen - Ketsubetsu-tan,BLEACH 千年血戦篇-訣別譚-,8.69,62.0,855,summer,2023.0,"Action, Adventure, Fantasy"
 54041,16bit Sensation: Another Layer,16bitセンセーション ANOTHER LAYER,6.9,4643.0,3122,fall,2023.0,"Comedy, Sci-Fi, Supernatural"
 54103,Hikikomari Kyuuketsuki no Monmon,ひきこまり吸血姫の悶々,7.16,3466.0,2058,fall,2023.0,"Comedy, Fantasy"
 54112,Zom 100: Zombie ni Naru made ni Shitai 100 no Koto,ゾン100～ゾンビになるまでにしたい100のこと～,7.79,1019.0,405,summer,2023.0,"Action, Comedy, Horror, Supernatural, Suspense"
+54142,Cardfight!! Vanguard: Divinez,カードファイト!! ヴァンガード DivineZ,6.96,4383.0,10176,winter,2024.0,Action
+54197,Chou Futsuu Ken Chiba Densetsu,超普通県チバ伝説,5.11,12591.0,8604,winter,2024.0,"Comedy, Fantasy"
+54199,Kaii to Otome to Kamikakushi,怪異と乙女と神隠し,6.77,5314.0,2464,spring,2024.0,"Mystery, Supernatural, Ecchi"
 54216,Gunma-chan Season 2,ぐんまちゃん シーズン2,,17572.0,16671,spring,2023.0,Slice of Life
 54234,Suki na Ko ga Megane wo Wasureta,好きな子がめがねを忘れた,7.14,3589.0,1248,summer,2023.0,Comedy
 54259,Rokudou no Onna-tachi,六道の悪女〈おんな〉たち,6.41,7375.0,3124,spring,2023.0,"Comedy, Romance"
-54275,Temple,てんぷる,6.71,5593.0,2177,summer,2023.0,"Comedy, Romance, Ecchi"
+54265,Kekkon Yubiwa Monogatari,結婚指輪物語,6.07,9133.0,2114,winter,2024.0,"Action, Fantasy, Romance, Ecchi"
+54275,Temple,てんぷる,6.71,5590.0,2166,summer,2023.0,"Comedy, Romance, Ecchi"
+54294,Dog Signal,ドッグシグナル,7.05,3977.0,7582,fall,2023.0,Slice of Life
 54301,Overtake!,オーバーテイク！,7.51,1831.0,2855,fall,2023.0,Drama
-54362,Hametsu no Oukoku,はめつのおうこく,6.23,8321.0,1339,fall,2023.0,"Action, Drama, Fantasy, Sci-Fi"
+54309,Blue Archive the Animation,ブルーアーカイブ The Animation,7.07,3896.0,2968,spring,2024.0,"Action, Fantasy"
+54362,Hametsu no Oukoku,はめつのおうこく,6.23,8320.0,1339,fall,2023.0,"Action, Drama, Fantasy, Sci-Fi"
 54431,Toaru Ossan no VRMMO Katsudouki,とあるおっさんのVRMMO活動記,6.39,7465.0,2541,fall,2023.0,"Action, Adventure, Comedy, Fantasy"
+54449,Ishura,異修羅,6.63,6057.0,2326,winter,2024.0,"Action, Adventure, Fantasy"
+54492,Kusuriya no Hitorigoto,薬屋のひとりごと,8.89,22.0,506,fall,2023.0,"Drama, Mystery"
 54595,Kage no Jitsuryokusha ni Naritakute! 2nd Season,陰の実力者になりたくて！ 2nd Season,8.34,232.0,624,fall,2023.0,"Action, Comedy, Fantasy"
 54616,Potion-danomi de Ikinobimasu!,ポーション頼みで生き延びます!,6.54,6591.0,3461,fall,2023.0,"Adventure, Fantasy"
+54617,Kyuujitsu no Warumono-san,休日のわるものさん,7.26,2942.0,2451,winter,2024.0,"Fantasy, Slice of Life"
 54630,Bosanimal,ぼさにまる,,16328.0,13421,spring,2023.0,
+54632,Gekai Elise,外科医エリーゼ,7.23,3079.0,2368,winter,2024.0,"Fantasy, Romance"
+54638,Kawagoe Boys Sing,川越ボーイズ・シング,5.64,11143.0,7627,fall,2023.0,Slice of Life
 54644,Chibi Godzilla no Gyakushuu,ちびゴジラの逆襲,6.76,5369.0,13723,spring,2023.0,Fantasy
 54714,Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo,君のことが大大大大大好きな100人の彼女,7.77,1071.0,1089,fall,2023.0,"Comedy, Romance"
 54716,Kibou no Chikara: Otona Precure '23,キボウノチカラ～オトナプリキュア'23～,6.63,6059.0,7091,fall,2023.0,"Action, Fantasy"
+54722,Mahou Shoujo ni Akogarete,魔法少女にあこがれて,7.66,1339.0,1601,winter,2024.0,"Action, Comedy, Fantasy, Girls Love, Ecchi"
 54738,Majutsushi Orphen Hagure Tabi: Seiiki-hen,魔術士オーフェンはぐれ旅 聖域編,6.07,9141.0,6313,spring,2023.0,"Action, Adventure, Drama, Fantasy"
 54743,Dead Mount Death Play Part 2,デッドマウント・デスプレイ,7.47,1979.0,1951,fall,2023.0,"Action, Fantasy, Supernatural"
+54754,Hikari no Ou 2nd Season,火狩りの王 第2シーズン,5.87,10131.0,6020,winter,2024.0,"Adventure, Drama, Fantasy"
+54758,The iDOLM@STER Shiny Colors,アイドルマスター シャイニーカラーズ,6.09,9069.0,6865,spring,2024.0,
 54760,Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega,ライザのアトリエ ~常闇の女王と秘密の隠れ家~,6.41,7376.0,2730,summer,2023.0,"Adventure, Fantasy"
-54781,YouTuNya,ユーチューニャー,5.69,10904.0,14988,spring,2023.0,Comedy
+54762,Duel Masters Win: Duel Wars-hen,デュエル・マスターズ WIN 決闘学園（デュエル・ウォーズ）編,,19724.0,15742,spring,2023.0,"Action, Adventure, Comedy, Fantasy"
+54781,YouTuNya,ユーチューニャー,5.69,10902.0,14989,spring,2023.0,Comedy
 54790,Undead Girl Murder Farce,アンデッドガール・マーダーファルス,7.88,826.0,1562,summer,2023.0,"Fantasy, Mystery"
+54794,Metallic Rouge,メタリックルージュ,6.21,8416.0,2171,winter,2024.0,"Action, Sci-Fi"
 54798,Kamierabi,カミエラビ GOD.app,5.77,10582.0,4599,fall,2023.0,"Action, Suspense"
+54803,Captain Tsubasa Season 2: Junior Youth-hen,キャプテン翼シーズン2 ジュニアユース編,7.42,2195.0,5726,fall,2023.0,Sports
+54829,Urusei Yatsura (2022) 2nd Season,うる星やつら第2期,7.86,877.0,3382,winter,2024.0,"Comedy, Romance, Sci-Fi"
+54837,Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen,悪役令嬢レベル99 ～私は裏ボスですが魔王ではありません～,7.13,3616.0,1603,winter,2024.0,Fantasy
+54839,Yoru no Kurage wa Oyogenai,夜のクラゲは泳げない,7.82,946.0,2096,spring,2024.0,Drama
 54842,Sugar Apple Fairy Tale Part 2,シュガーアップル・フェアリーテイル,7.63,1419.0,2866,summer,2023.0,"Adventure, Drama, Fantasy, Romance"
 54847,Ikimono-san,いきものさん,5.82,10340.0,13579,summer,2023.0,"Avant Garde, Comedy"
 54848,Sakuretsu! Amabie-hime. Season 2,炸裂！あまびえ姫。 Season 2,,18216.0,18601,spring,2023.0,Comedy
@@ -4637,8 +5264,11 @@
 54854,Shadowverse Flame: Seven Shadows-hen,シャドウバースF セブンシャドウズ編,6.78,5266.0,10367,summer,2023.0,Fantasy
 54856,Horimiya: Piece,ホリミヤ -piece-,8.17,429.0,713,summer,2023.0,Romance
 54858,Hypnosis Mic: Division Rap Battle - Rhyme Anima +,ヒプノシスマイク -Division Rap Battle- Rhyme Anima +（プラス）,6.83,5003.0,6260,fall,2023.0,Sci-Fi
+54859,Rinkai!,リンカイ!,5.65,11095.0,6956,spring,2024.0,Sports
+54869,High Card Season 2,HIGH CARD season 2,7.05,3986.0,3597,winter,2024.0,"Action, Fantasy"
 54883,Mononogatari 2nd Season,もののがたり 第二章,7.34,2535.0,3791,summer,2023.0,"Action, Fantasy"
 54898,Bungou Stray Dogs 5th Season,文豪ストレイドッグス,8.64,75.0,1249,summer,2023.0,"Action, Mystery, Supernatural"
+54900,Wind Breaker,WIND BREAKER,7.78,1049.0,907,spring,2024.0,Action
 54914,Bikkurimen,ビックリメン,5.46,11729.0,10098,fall,2023.0,"Comedy, Fantasy"
 54918,Tokyo Revengers: Tenjiku-hen,東京リベンジャーズ 天竺編,7.84,911.0,1232,fall,2023.0,"Action, Drama, Supernatural"
 54933,Denden no Dennou Densha,でんでんの電脳電車,,19512.0,13523,spring,2023.0,Comedy
@@ -4647,24 +5277,48 @@
 55020,Go! Go! Vehicle Zoo,ゴー！ゴ―！びーくるずー,,20086.0,18416,spring,2023.0,
 55047,Sinbi Apartment: Ghost Ball Zero,신비아파트 고스트볼 ZERO,,13824.0,17777,spring,2023.0,"Fantasy, Supernatural"
 55048,Baempaieosonyeo Dalja,뱀파이어소녀 달자,,18656.0,21731,winter,2022.0,Comedy
+55102,Girls Band Cry,ガールズバンドクライ,8.43,169.0,2534,spring,2024.0,Drama
 55105,Jifeng Jingshe,疾风劲射,,20866.0,22122,winter,2022.0,Sports
+55129,Oroka na Tenshi wa Akuma to Odoru,愚かな天使は悪魔と踊る,6.91,4608.0,2066,winter,2024.0,"Comedy, Supernatural"
 55153,Yuzuki-san Chi no Yonkyoudai.,柚木さんちの四兄弟。,7.89,819.0,2957,fall,2023.0,Slice of Life
 55166,Yami Shibai 11,闇芝居 十一期,5.82,10376.0,7590,summer,2023.0,"Avant Garde, Horror, Supernatural"
+55194,Ooi! Tonbo,オーイ！とんぼ,7.06,3938.0,6457,spring,2024.0,"Drama, Sports"
 55195,Mamekichi Mameko NEET no Nichijou 2nd Season,まめきちまめこニートの日常,,16695.0,18554,spring,2023.0,Comedy
 55219,Tian Zhen Yu Kung Fu Wa,天真与功夫袜,,14237.0,22412,summer,2021.0,"Action, Comedy"
 55257,Xiongmao He Kaixin Qiu,熊猫和开心球,,15227.0,23981,winter,2021.0,Comedy
+55265,"Tensei Kizoku, Kantei Skill de Nariagaru",転生貴族、鑑定スキルで成り上がる,7.14,3595.0,1971,spring,2024.0,"Adventure, Fantasy"
 55310,Atarashii Joushi wa Do Tennen,新しい上司はど天然,7.95,697.0,2989,fall,2023.0,Slice of Life
+55358,Bucchigiri?!,ぶっちぎり?!,6.56,6453.0,2346,winter,2024.0,"Comedy, Fantasy"
+55397,Pon no Michi,ぽんのみち,6.49,6845.0,4142,winter,2024.0,"Slice of Life, Supernatural"
+55528,Yuuki Bakuhatsu Bang Bravern,勇気爆発バーンブレイバーン,7.57,1618.0,4600,winter,2024.0,"Action, Comedy, Sci-Fi"
+55597,Hananoi-kun to Koi no Yamai,花野井くんと恋の病,6.73,5536.0,2146,spring,2024.0,Romance
+55636,Snack Basue,スナックバス江,6.49,6853.0,6941,winter,2024.0,Comedy
 55644,Dr. Stone: New World Part 2,Dr.STONE NEW WORLD,8.33,238.0,853,fall,2023.0,"Adventure, Comedy, Sci-Fi"
 55659,Banjjagbanjjag Catch! Tiniping,반짝반짝 캐치! 티니핑,,18756.0,20359,fall,2021.0,Fantasy
 55660,Alssongdalssong Catch! Tiniping,알쏭달쏭 캐치! 티니핑,,18478.0,19975,fall,2022.0,Fantasy
+55690,Boku no Kokoro no Yabai Yatsu 2nd Season,僕の心のヤバイやつ 第2期,8.81,31.0,1214,winter,2024.0,"Comedy, Romance"
+55701,Kimetsu no Yaiba: Hashira Geiko-hen,鬼滅の刃 柱稽古編,8.16,437.0,472,spring,2024.0,"Action, Fantasy"
+55717,Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita,出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした,5.17,12483.0,2757,spring,2024.0,"Action, Adventure, Fantasy"
 55742,Mahoutsukai no Yome Season 2 Part 2,魔法使いの嫁 SEASON2 第2クール,7.89,812.0,2202,fall,2023.0,"Drama, Fantasy, Romance"
+55774,"Himesama ""Goumon"" no Jikan desu",姫様“拷問”の時間です,7.26,2930.0,2919,winter,2024.0,"Comedy, Fantasy, Gourmet"
 55775,Kizuna no Allele Season 2,絆のアリル,5.67,10998.0,8885,fall,2023.0,
+55813,Mashle: Shinkakusha Kouho Senbatsu Shiken-hen,マッシュル-MASHLE- 神覚者候補選抜試験編,7.82,962.0,678,winter,2024.0,"Action, Comedy, Fantasy"
 55838,Zombie Dumb 3,좀비덤 3,,15732.0,22975,fall,2022.0,"Comedy, Supernatural"
-55894,Bokura no Ame-iro Protocol,僕らの雨いろプロトコル,6.09,9033.0,3873,fall,2023.0,Action
+55848,Isekai Suicide Squad,異世界スーサイド・スクワッド,6.61,6223.0,1776,summer,2024.0,"Action, Fantasy"
+55855,Kuroshitsuji: Kishuku Gakkou-hen,黒執事 -寄宿学校編-,7.88,837.0,2483,spring,2024.0,"Action, Fantasy, Mystery"
+55866,Yubisaki to Renren,ゆびさきと恋々,8.23,341.0,1044,winter,2024.0,Romance
+55877,Henjin no Salad Bowl,変人のサラダボウル,7.3,2747.0,3082,spring,2024.0,"Comedy, Fantasy"
+55888,Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2,無職転生 II ～異世界行ったら本気だす～ (第2クール),8.46,155.0,616,spring,2024.0,"Adventure, Drama, Fantasy, Ecchi"
+55894,Bokura no Ame-iro Protocol,僕らの雨いろプロトコル,6.09,9034.0,3871,fall,2023.0,Action
 55948,Sylvanian Families: Freya no Go for Dream!,シルバニアファミリー フレアのゴー・フォー・ドリーム！,,14018.0,18812,summer,2023.0,Slice of Life
+55973,30-sai made Doutei dato Mahoutsukai ni Nareru Rashii,30歳まで童貞だと魔法使いになれるらしい,7.65,1363.0,2922,winter,2024.0,"Boys Love, Comedy, Supernatural"
 55977,Shuumatsu no Walküre Mini Anime (Cartoon Network Nite),,,13786.0,16545,fall,2021.0,"Action, Comedy"
+55998,Momochi-san Chi no Ayakashi Ouji,百千さん家のあやかし王子,6.49,6836.0,3373,winter,2024.0,"Fantasy, Romance"
 56105,Nanashi Kaidan 2nd Season,ななし怪談 第2作,5.47,11698.0,10912,summer,2023.0,Horror
 56132,Balala Xiao Mo Xian: Mofa Xing Yuan Bao,巴啦啦小魔仙之魔法星缘堡,,18734.0,20855,spring,2022.0,Fantasy
+56165,Boukyaku Battery (TV),忘却バッテリー,7.5,1864.0,3971,spring,2024.0,Sports
+56230,Jiisan Baasan Wakagaeru,じいさんばあさん若返る,7.5,1879.0,1952,spring,2024.0,"Comedy, Romance, Supernatural"
+56242,Sengoku Youko: Yonaoshi Kyoudai-hen,戦国妖狐 世直し姉弟編,6.98,4331.0,3214,winter,2024.0,"Action, Adventure, Fantasy"
 56264,Chuldong! Super Wings 5,출동! 슈퍼윙스5,,19284.0,23136,spring,2021.0,Adventure
 56265,Chuldong! Super Wings 6,출동! 슈퍼윙스6,,19285.0,22807,winter,2022.0,Adventure
 56266,Chuldong! Super Wings 7,출동! 슈퍼윙스7,,19286.0,22350,winter,2023.0,Adventure
@@ -4672,12 +5326,14 @@
 56272,Mecard Ball,메카드볼,,16801.0,22203,fall,2021.0,Action
 56274,Mecard Ball Mega,메카드볼 메가,,16802.0,22470,fall,2022.0,Action
 56275,Tea Tea Cherry,티티체리,,14151.0,23111,winter,2022.0,"Adventure, Fantasy"
+56285,Ninja Kamui,,6.79,5186.0,1520,winter,2024.0,"Action, Fantasy, Sci-Fi"
 56290,Sinbi Apartment: Ghost Ball Z,신비아파트 고스트볼Z,,13823.0,21644,fall,2021.0,"Fantasy, Supernatural"
 56305,Hello Carbot Season 10,헬로 카봇 시즌10,,20379.0,23233,winter,2021.0,Action
 56306,Hello Carbot Season 11,헬로 카봇 시즌11,,20380.0,22816,summer,2021.0,Action
 56307,Hello Carbot Season 12,헬로 카봇 시즌12,,20381.0,22767,spring,2022.0,Action
 56308,Hello Carbot Season 13,헬로 카봇 시즌13,,20382.0,22219,spring,2023.0,Action
 56345,Dramatic Nounai,ドラ馬チック脳内,,19695.0,22302,spring,2022.0,"Comedy, Sports"
+56352,"Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する,7.5,1881.0,1527,winter,2024.0,"Fantasy, Romance"
 56354,Code Name X,코드네임X,,19315.0,21602,spring,2023.0,"Action, Comedy, Mystery"
 56357,Hero Circle 2,히어로 써클 2,,20424.0,23511,summer,2022.0,"Adventure, Comedy"
 56358,Kkomimanyeo Lara,꼬미마녀 라라,,16172.0,21621,spring,2023.0,Fantasy
@@ -4695,27 +5351,76 @@
 56478,Cricket Pang,크리켓팡,,19360.0,23964,summer,2021.0,
 56479,Cricket Pang Season 2,크리켓팡 시즌2,,19361.0,22760,winter,2023.0,Comedy
 56480,Dino Powers,다이노 파워즈,,19553.0,22864,summer,2022.0,Action
+56481,Dino Powers 2,다이노파워즈 2,,19554.0,21377,summer,2023.0,Action
 56483,Lindaui Singihan Yeohaeng 2,린다의 신기한 여행 2,,16525.0,22849,winter,2023.0,Adventure
+56485,Shasha and Milo,샤샤 앤 마일로,,13477.0,20439,fall,2023.0,"Action, Adventure, Comedy"
 56487,Matsuinu,まついぬ,,16772.0,13307,fall,2023.0,
+56504,Chickip Dancers 3rd Season,チキップダンサーズ,,19198.0,18040,fall,2023.0,Slice of Life
 56505,Shinobanai! Crypto Ninja Sakuya,忍ばない! クリプトニンジャ咲耶,,13665.0,16986,fall,2023.0,Action
 56572,Supertrons,슈퍼트론,,14005.0,21716,summer,2023.0,"Action, Sci-Fi"
 56573,Space Donguibogam,스페이스 동의보감,,13937.0,24097,fall,2021.0,Adventure
 56574,Space Donguibogam 2,스페이스 동의보감 2,,13938.0,22075,summer,2023.0,Adventure
 56575,Metal Cardbot,메탈카드봇,,16902.0,22349,spring,2023.0,"Action, Sci-Fi"
+56588,Ochibi-san,オチビサン,6.33,7757.0,13894,fall,2023.0,Slice of Life
 56674,Balala Xiao Mo Xian: Xing Yuan Die Qi 1,巴啦啦小魔仙之星緣蝶啓1,,18735.0,19774,summer,2023.0,Fantasy
+56677,Saekomdalkom Catch! Tiniping,새콤달콤 캐치! 티니핑,,18172.0,17374,fall,2023.0,Fantasy
+56690,Re:Monster,Re:Monster,6.57,6415.0,1790,spring,2024.0,"Action, Adventure, Fantasy"
+56691,Gekkan Mousou Kagaku,月刊モー想科学,5.42,11864.0,6494,winter,2024.0,"Comedy, Fantasy, Mystery"
+56731,Synduality: Noir Part 2,SYNDUALITY Noir 第2クール,7.06,3949.0,5347,winter,2024.0,"Action, Sci-Fi"
+56738,Shinigami Bocchan to Kuro Maid 3rd Season,死神坊ちゃんと黒メイド 第3期,8.16,439.0,3252,spring,2024.0,"Comedy, Supernatural"
+56768,"Tadaima, Okaeri",ただいま、おかえり,7.78,1048.0,3914,spring,2024.0,"Boys Love, Slice of Life"
+56838,"One Room, Hiatari Futsuu, Tenshi-tsuki.",ワンルーム、日当たり普通、天使つき。,7.05,4001.0,2843,spring,2024.0,"Comedy, Romance, Supernatural"
+56845,"Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",最強タンクの迷宮攻略 ～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～,6.11,8971.0,2577,winter,2024.0,"Action, Adventure, Fantasy"
 56892,Kkomimanyeo Lara Season 2,꼬미마녀 라라 시즌2,,18735.0,21202,fall,2023.0,Fantasy
 56909,Porong Porong Pororo 8,뽀롱뽀롱 뽀로로 8,,17803.0,21851,summer,2023.0,
 56916,Rainbow Bubblegem,레인보우 버블젬,,18005.0,21042,summer,2023.0,Fantasy
 56921,Bite-Choicar Hyper,바이트초이카 하이퍼,,18894.0,22996,winter,2021.0,
+56923,Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life,Lv2からチートだった元勇者候補のまったり異世界ライフ,6.81,5098.0,1527,spring,2024.0,"Adventure, Fantasy, Romance"
+56986,Riseman,라이즈맨,,18065.0,18910,fall,2023.0,Action
 56997,Sumikko Gurashi: Sorairo no Mainichi,すみっコぐらし そらいろのまいにち,,13988.0,16798,fall,2023.0,Comedy
+57006,Sinbi Apartment: Ghost Ball Zero - Du Beonjjae Iyagi,신비아파트 고스트볼 ZERO: 두 번째 이야기,,13825.0,20822,fall,2023.0,"Fantasy, Supernatural"
+57012,Harimaware! Koinu,貼りまわれ! こいぬ,,20323.0,14710,winter,2024.0,Comedy
+57031,Vampire Dormitory,ヴァンパイア男子寮,6.19,8534.0,3652,spring,2024.0,"Romance, Supernatural"
+57077,Totonoe! Sakuma-kun by &sauna,ととのえ！サクマくん by &sauna,,14359.0,19819,fall,2023.0,Slice of Life
+57100,The New Gate,THE NEW GATE,6.42,7311.0,2161,spring,2024.0,"Action, Adventure, Fantasy"
+57106,Hello Carbot Season 14,헬로 카봇 시즌14,,20383.0,21530,fall,2023.0,Action
 57117,Dinoster: Gonglyongsuhodae,다이노스터: 공룡수호대,,19561.0,21019,summer,2023.0,"Action, Comedy, Sci-Fi"
 57129,Miniforce Animaltron,미니특공대 애니멀트론,,16986.0,23299,fall,2021.0,Action
 57130,Miniforce V Rangers,미니특공대 브이레인저스,,16988.0,22874,fall,2022.0,Action
+57131,Choeganggyeongchal Miniforce,최강경찰 미니특공대,,19233.0,21127,fall,2023.0,Action
+57132,Hero Inside,히어로 인사이드,,20427.0,19302,fall,2023.0,"Action, Adventure"
+57180,Yami Shibai 12,闇芝居 十二期,5.86,10170.0,8506,winter,2024.0,"Avant Garde, Horror, Supernatural"
 57185,Heart Cocktail Colorful: Haru-hen,ハートカクテル カラフル 春編,,20354.0,20914,winter,2023.0,Romance
 57186,Heart Cocktail Colorful: Natsu-hen,ハートカクテル カラフル 夏編,,20355.0,20863,summer,2023.0,Romance
+57218,Geomeongsupeul Jikyeola! Birdy Friends,거멍숲을 지켜라! 버디프렌즈,,20050.0,21844,fall,2023.0,Adventure
+57315,"Meitou ""Isekai no Yu"" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita",名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～,5.27,12261.0,4096,winter,2024.0,"Fantasy, Ecchi"
+57325,Ramen Akaneko,ラーメン赤猫,6.68,5821.0,6650,summer,2024.0,Comedy
+57337,Mythteria 2nd Season,미스테리야 시즌2,,17214.0,22065,fall,2023.0,Adventure
+57391,Astro Note,アストロノオト,6.58,6362.0,4297,spring,2024.0,"Comedy, Romance, Sci-Fi"
 57436,Heart Cocktail Colorful: Fuyu-hen,ハートカクテル カラフル 冬編,,20353.0,17758,fall,2023.0,Romance
+57502,Meiji Gekken: 1874,明治撃剣－1874－,6.31,7858.0,5772,winter,2024.0,Action
+57522,Colorful na Everyday,カッラフルなエッッブリデイ,,19331.0,19472,winter,2024.0,Comedy
+57598,Maca and Roni 3,마카앤로니3,,16638.0,22302,fall,2023.0,Comedy
+57605,Shinobanai! Crypto Ninja Sakuya: Ni no Maki,忍ばない！クリプトニンジャ咲耶 弐ノ巻,,13666.0,17905,winter,2024.0,Action
+57623,Nijiyon Animation 2,にじよん あにめーしょん2,6.83,5018.0,8127,spring,2024.0,Comedy
+57881,Sakuretsu! Amabie-hime. Season 3,炸裂！あまびえ姫。 Season 3,,18217.0,20460,winter,2024.0,Comedy
+57950,Enjou Bokumetsu! Mahou Shoujo Aiko,炎上撲滅!魔法少女アイ子,,19779.0,18480,winter,2024.0,"Comedy, Fantasy"
 57952,Jijia Yingxiong: Ji Dou Yongzhe 2nd Season,機甲英雄 機鬥勇者,,20874.0,23308,fall,2023.0,"Action, Sci-Fi"
+57960,Balala Xiao Mo Xian: Xing Yuan Die Qi 2,巴啦啦小魔仙之星缘蝶启2,,18736.0,20735,winter,2024.0,Fantasy
 58016,Mabeobsonyeo Dee Dee 2,마법소녀 디디 2,,16634.0,25229,spring,2021.0,Fantasy
+58080,Kenka Dokugaku,喧嘩独学,7.34,2531.0,2802,spring,2024.0,Action
+58447,Shibuya♡Hachi,SHIBUYA♡HACHI,,13601.0,16302,spring,2024.0,Comedy
+58463,Kumarba,クマーバ,,16361.0,21140,spring,2024.0,
+58569,Kkoma Bus Tayo 7,꼬마버스 타요 7,,18729.0,22377,winter,2024.0,
+58577,DoReMi Friends,도레미 프렌즈,,19635.0,23687,winter,2024.0,
+58602,YouTuNya 2nd Season,ユーチューニャー 第2期,,15448.0,18731,spring,2024.0,Comedy
+58603,Ageo to Tim,あげおとティム,,18420.0,19944,spring,2024.0,Comedy
 58630,Oshiri Tantei 8th Season,おしりたんてい,,17589.0,23194,fall,2023.0,"Comedy, Fantasy, Mystery"
+58933,Dinoster: Gonglyongsuhodae 2nd Season,다이노스터: 공룡수호대,,19562.0,22750,winter,2024.0,"Action, Comedy, Sci-Fi"
+58935,Nyaaaanvy,ニャンビー,5.71,10821.0,18097,spring,2024.0,Comedy
+59049,Maarui Kanojo to Zannen na Kareshi,まぁるい彼女と残念な彼氏,,16627.0,12144,summer,2024.0,"Comedy, Romance"
 59147,Tobot V: Ujusuhodae,또봇V 우주수호대,,14301.0,26969,spring,2021.0,"Action, Sci-Fi"
+59583,Shasha and Milo Part 2,샤샤&마일로 NEW에피소드,,13478.0,26984,spring,2024.0,"Action, Adventure, Comedy"
 59586,Jyulagi Cops 3rd Season,쥬라기 캅스3,,15843.0,27093,fall,2021.0,Action
+59649,Nanashi Kaidan 3rd Season,ななし怪談 第3作,,17261.0,22102,summer,2024.0,"Horror, Supernatural"
+59649,Nanashi Kaidan 3rd Season,ななし怪談 第3作,,17261.0,22102,summer,2024.0,"Horror, Supernatural"
