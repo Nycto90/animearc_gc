@@ -17,11 +17,5 @@ __pycache__/
 # Logs
 *.log
 
-# Data files (if you want to ignore datasets)
-data/
-*.csv
-*.json
-*.sqlite3
-
 # Settings
 .vscode
